@@ -1,0 +1,355 @@
+0.75f // font scale
+45.0f // speed
+0.3f // start delay
+
+
+
+
+
+
+
+Published by 505 Games 
+and developed by Codeglue.
+505 Games and the 505 Games 
+logo are registered 
+trademarks of 505 Games. 
+All rights reserved.
+
+>Re-Logic
+
+-Creator
+Andrew "Redigit" Spinks
+
+-Game Designers
+Andrew "Redigit" Spinks
+Whitney "Cenx" Spinks
+
+-Game Programmers
+Andrew "Redigit" Spinks
+Yorai "Yoraiz0r" Omer
+Chris "Skiphs" Bednarz
+Jason "Solsund" Berg
+
+-Game Artists
+Andrew "Redigit" Spinks
+James "Lazure" Hayes
+Jim Tommy Myhre "Jimmarn" Kjexrud
+Victor "Crowno" Moura
+Aaron "AaronC" Craig
+Will "Phlebas" Garner
+Finn "Tiy" Brice
+Gabriel "Red Yoshi" Kiesshau
+
+-Production Support
+David "D-Town" Phelps
+Houston "Food Barbarian" Lawson
+Jeremy "Blue" Guerrette
+Dustin "Splugen" Gunter
+
+-Head of Business Strategy & Marketing
+Ted "Loki" Murphy
+
+-Business Director
+David "D-Town" Phelps
+
+-Executive Assistant to Cenx
+Amanda Powell
+
+-QA Manager
+Justin "Arkhalis" Cross
+
+-Beta/QA Testers
+Atri "m4sterbr0s" Maharaj
+Brian "TGS" Gilliford
+Mike "TrinityFlash" Dunn
+William "Ignoritus" Coffey
+Valtteri Nieminen
+Ryan "Namyrr" Le
+Gabriel "Red Yoshi" Kiesshau
+Ragnor "Devalaous" Berntsen
+Brandon "rbrandon" Kime
+Jason "Leinfors" Parker
+Aled "Baih" Kane
+Brian "Blahblahbal" Hansen
+Jay "jeckel" Jeckel
+Michael "kelp" McCarthy
+Carwyn "Aeroblop" Dalrymple
+Adrian "Unrealmegashark" Wheeler
+Matthew "Omnir" Hunnicutt
+Crystal "Ghostar" Ironheart
+Tsukina "Tsuki" Nakata
+Gabriel "Suweeka" Gutierrez
+Joshua "scizor300" Wubker
+Michael "shockah" Dolas
+Tyler "BurnZeZ" Whiteman
+Peter "Doylee" Doyle
+Kyle "Kley" Hodge
+Steven "Twitchy" French
+Anodomani
+Igor "Conker" Magi Marinho
+Cheah Jun Siang
+Zach "Olink" Piispanen
+Lisa "Lils" Chiu
+iRandomness
+Kaleb "JesusLlama" Regalado
+Elias "Elbow" Naddaf
+Jonathan "FallingSnow" Poholarz
+Brandon Thomas
+Daniel "DMF" Faria
+Luna Meier
+Robert "qig" Buchanan
+Alexaunder "as303298" Savoy
+Alexander "Vandarx" Reaves
+QEM - "Mystery"
+Balázs "Mamaluigi" Makai
+Daniel "Garro" Berner
+Tyler "Quill" Warr
+Andrew "Andydark" Windmiller
+Charles 'Grox' Hanrahan
+General Milky
+Chris Ness
+Yrimir
+
+Special Thanks to the Terraria Community Forum Staff Team, IRC operators, Wiki Staff, and - most importantly - our entire community of fans!   Your passionate support, feedback, comments, art, and beyond are truly the heart and soul of Terraria.   We look forward to delighting you for years to come!
+
+www.Terraria.org
+@Terraria_Logic
+https://www.facebook.com/TerrariaOfficial
+
+
+>505 Games s.r.l
+
+>Production:
+
+-Producers
+Ricardo Fischer
+David Wiltshire
+
+-Senior Producer
+Bryant Bustamante
+
+-Executive Producer
+Andrew Thompson
+
+-Production Coordinator
+Michael Greening
+
+-Development Director
+Michael Meischeid
+
+-Senior Vice President, Game Development
+Joel Breton
+
+-Submissions Managers
+Chiara Pasquini
+Marcello Monti
+Davide Racah
+John Sweeney
+
+-QA Manager - 505 Games
+Esther Partschefeld
+Adam Jones
+
+-Production Manager
+Stefano Stalla
+
+-Business Development Associate
+Kimberley Rizzo
+
+
+>Brand:
+
+-Head Of Global Brand
+Tim Woodley
+
+-Brand Director
+Katherinn Tran McDonald
+
+-Senior Global Brand Director
+John Merchant
+
+-Senior Global Brand Manager
+Richard Gittins
+Jeff Anker
+
+-Assistant Brand Manager
+Rodrigo De La Pedraja
+
+-Global Brand Director
+Melissa Menton
+
+
+>Creative Services:
+
+-Creative Manager
+David Welch
+
+-Creative Services Designers
+Rebecca Meyer
+Andrea Quinteri
+
+-Studio Manager
+James Howes
+
+-Creative Services Team
+Mark Stevens	
+Ben Paulley	
+Bradley West	
+Leanne Cornish
+Sofia Eddy
+
+
+>Commercial, Marketing & PR:
+
+-PR Director, North America
+Lisa Fields
+
+-European PR Manager
+Greg Jones
+
+-Senior Marketing Services Manager
+Howard Liebeskind
+
+
+>Operations:
+
+-Publishing Manager
+Silvana Greenfield
+
+-Sales Operations Analyst
+Dawn-Marie Sable
+
+
+>Management:
+
+-President, 505 Games Inc
+Ian Howe
+
+-VP of Operations
+Nic Ashford
+
+-VP of Sales
+Gary Kinnsch
+
+-VP Product Development
+Kathleen Nicholls
+
+
+>Functional QA:
+
+EC-i
+GTL Media
+Lead Tester Joshua Minette
+
+>Translation:
+
+
+Translate Plus Limited
+Localize Direct
+
+>Codeglue B.V.
+
+-Production
+Eva Nieuwdorp
+Peter de Jong
+JP Vaughan
+
+-Programmers
+Niels Uiterwijk
+Harald Maassen
+Maurice Sibrandi
+David Goemans
+Roel Ezendam
+Vladimir Bondarev
+Fabian Schouw
+Chris Hekman
+Kevin Bansberg
+Rens van Mierlo
+Tom Jansen
+Rik Beyen
+Davey van den Berg
+
+-Programmer Interns
+Jendrik Illner
+Daniel Mayles
+David Smith
+Ricardo Blommers
+Bram Eisenhardt
+Thomas Corremans
+Kay van Bree
+Nieck Kelder
+Gert Dhaenens
+Weikie Yeh
+Wout van Poppel
+Aldo Leka
+Leo Vansteenkiste
+Guntran Hoet
+
+-Art & Design
+Tom Rutjens
+Michael Knubben
+Bjorn Buchner
+Joost Peters
+Margit Meesters
+Maite Vandewalle
+Martin Stegeman
+Michelle Mud
+
+-QA
+Marc Stikkelman
+Dave Smith
+Daniel Mayles
+Frank Meijaard
+Ricardo Blommers
+Feiko Joosten
+
+-Special Thanks
+Marcel Knipsel
+Tim Falken
+Joyce Stikkelman
+Lisette Roovers
+Doortje Spanjerberg
+Peter & Maria Peters
+Detlef, Irene, Herman, Rik and Zoe
+All our family and friends
+
+-Extra
+O'Sheas Irish Pub
+Classic Pizza Rotterdam
+Subway Rotterdam
+Chucky (David's cat)
+Toby (Vladimir's cat)
+Doortje (Niels's cat)
+Optimus Prime & Megatron (Joost's guinea pigs)
+Lookje (Chris's chives)
+Chloe (Fabian's dog)
+Barney (Daniel's dog)
+Sulphur (Dave's cat)
+Knabbel (Ricardo's hamster)
+Boogie (Hedgehog)
+
+
+>Sound Technology from:
+Hekkus Sound System
+
+
+Portions of this software Copyright © 2013 Jenkins Software, LLC.  All rights reserved. Used under license.
+
+
+The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

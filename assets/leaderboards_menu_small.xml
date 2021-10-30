@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>../</RootFolder>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect>Menu_Tick.wav</SoundEffect>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomLeft</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Button_Back</Name>
+          <Position>20 -20</Position>
+          <Children>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>back</Name>
+              <Position>20 -20</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Back</Text>
+              <Offset>0 0</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Top</VAlign>
+              <EdgeBehaviour>None</EdgeBehaviour>
+              <CharSpacing>-4</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>0 0</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_back</Name>
+              <Position>0 0</Position>
+              <Texture>UI\icon_back.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>32 26</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetList">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>list_leaderboard</Name>
+          <Position>0 -40</Position>
+          <Offset>0.5 1</Offset>
+          <Bounds>400 240</Bounds>
+          <ItemHeight>50</ItemHeight>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

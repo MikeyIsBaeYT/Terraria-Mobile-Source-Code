@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+      <XResolution>960</XResolution>
+      <YResolution>640</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect>Menu_Tick.wav</SoundEffect>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>play</Name>
+          <Position>0 -64</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>background1</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_characterbar_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>704 74</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_play</Name>
+              <Position>-15 3</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Play</Text>
+              <Offset>0 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>300 50</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_play</Name>
+              <Position>-25 0</Position>
+              <Texture>UI\icon_play.png</Texture>
+              <Offset>1 0.5</Offset>
+              <Size>32 32</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+          <TouchWidget>background1</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect>Menu_Tick.wav</SoundEffect>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>tutorial</Name>
+          <Position>0 16</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>background 2</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_characterbar_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>704 74</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_tutorial</Name>
+              <Position>-60 0</Position>
+              <Texture>UI\icon_shop.png</Texture>
+              <Offset>1 0.5</Offset>
+              <Size>14 16</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_tutorial</Name>
+              <Position>-50 3</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Buy now</Text>
+              <Offset>0 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>400 50</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+          <TouchWidget>background 2</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect>Menu_Tick.wav</SoundEffect>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>options</Name>
+          <Position>0 96</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>background3</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_characterbar_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>704 74</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_options</Name>
+              <Position>-40 0</Position>
+              <Texture>UI\icon_options.png</Texture>
+              <Offset>1 0.5</Offset>
+              <Size>36 36</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_options</Name>
+              <Position>-30 3</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Options</Text>
+              <Offset>0 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>300 50</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+          <TouchWidget>background3</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect>Menu_Tick.wav</SoundEffect>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>gamecenter</Name>
+          <Position>0 176</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>background4</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_characterbar_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>704 74</Size>
+              <Color>127 127 127 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_gamecenter</Name>
+              <Position>-100 0</Position>
+              <Texture>UI\icon_gamecenter.png</Texture>
+              <Offset>1 0.5</Offset>
+              <Size>64 64</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>127 127 127 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_xboxlive</Name>
+              <Position>-100 0</Position>
+              <Texture>UI\icon_xboxlive.png</Texture>
+              <Offset>1 0.5</Offset>
+              <Size>64 64</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>127 127 127 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_googleplay</Name>
+              <Position>-100 0</Position>
+              <Texture>UI\icon_googleplay.png</Texture>
+              <Offset>1 0.5</Offset>
+              <Size>59 42</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>127 127 127 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_gamecenter</Name>
+              <Position>-80 3</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Game Center</Text>
+              <Offset>0 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>350 50</Bounds>
+              <Color>127 127 127 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+          <TouchWidget>background4</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Logo_position</Name>
+          <Position>0 -240</Position>
+          <Children />
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>confirm_menu</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>confirm_panel</Name>
+              <Position>0 0</Position>
+              <Texture>UI\confirmation_panel-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>500 200</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_exit</Name>
+              <Position>0 -80</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Are you sure you want to exit to the game?</Text>
+              <Offset>0.5 0</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Top</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-2</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>460 200</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_no</Name>
+              <Position>-235 70</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>No</Text>
+              <Offset>0 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-2</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>100 30</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_yes</Name>
+              <Position>235 70</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Yes</Text>
+              <Offset>1 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Right</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-2</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>100 30</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>popup_menu</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>popup_panel</Name>
+              <Position>0 0</Position>
+              <Texture>UI\confirmation_panel-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>500 200</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_achievements</Name>
+              <Position>0 -35</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>achievements_button</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\button_upsell_ipad-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>312 50</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>achievements_text</Name>
+                  <Position>0 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Achievements</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+                  <CharSpacing>-3</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>300 30</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+              <TouchWidget>achievements_button</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_leaderboards</Name>
+              <Position>0 35</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>leaderboards_button</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\button_upsell_ipad-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>312 50</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>leaderboards_text</Name>
+                  <Position>0 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Leaderboards</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+                  <CharSpacing>-3</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>300 30</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+              <TouchWidget>leaderboards_button</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_close</Name>
+              <Position>220 -70</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>close_button</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tabsmall-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>40 43</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>close_icon</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\icon_closered.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>26 28</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>close_button</TouchWidget>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect>Menu_Open.wav</SoundEffect>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopRight</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>gplus</Name>
+          <Position>-50 50</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_gplus</Name>
+              <Position>0 0</Position>
+              <Texture>UI\button_gplusbig-inactive.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>96 96</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_signin</Name>
+              <Position>35 57</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Sign in</Text>
+              <Offset>1 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>None</EdgeBehaviour>
+              <CharSpacing>-4</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>0 0</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+          <TouchWidget>button_gplus</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopRight</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>gplus_out</Name>
+          <Position>-50 50</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_gplusout</Name>
+              <Position>0 0</Position>
+              <Texture>UI\button_gplusbig.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>96 96</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_signout</Name>
+              <Position>35 57</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Sign out</Text>
+              <Offset>1 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>None</EdgeBehaviour>
+              <CharSpacing>-4</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>0 0</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+          <TouchWidget>button_gplusout</TouchWidget>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

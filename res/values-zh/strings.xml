@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="license_allow">license_allow_german</string>
+    <string name="license_dont_allow">Diese App ist nicht lizenziert. Bitte kaufe sie im Google Play Store.</string>
+    <string name="license_retry">Die Lizenz für diese App kann zurzeit nicht verifiziert werden. Bitte stelle wieder eine Internet-Verbindung her und versuche es erneut.</string>
+</resources>

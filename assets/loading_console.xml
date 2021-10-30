@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Loading</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>loading_bar</Name>
+              <Position>0 -30</Position>
+              <Children />
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>loading_tips</Name>
+              <Position>0 30</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text />
+              <Offset>0.5 0</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Top</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-4</CharSpacing>
+              <LineSpacing>-4</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>600 100</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

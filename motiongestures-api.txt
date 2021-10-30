@@ -1,0 +1,54 @@
+package com.amazon.motiongestures {
+
+  public class Gesture {
+    method public static com.amazon.motiongestures.Gesture getGestureFromId(int);
+    field public static final int CONTINUOUS_PEEK = 16; // 0x10
+    field public static final int PEEK = 1; // 0x1
+    field public static final int TILT = 0; // 0x0
+    field public final int directionMask;
+    field public final int id;
+    field public final java.lang.String name;
+  }
+
+  public final class GestureEvent {
+    field public int action;
+    field public int direction;
+    field public int gestureId;
+    field public float magnitude;
+    field public int rotation;
+    field public long timestamp_nsecs;
+  }
+
+  public static final class GestureEvent.Action {
+    field public static final int DEFAULT = 0; // 0x0
+    field public static final int OFF = 2; // 0x2
+    field public static final int ON = 1; // 0x1
+    field public static final int UPDATE = 4; // 0x4
+  }
+
+  public static final class GestureEvent.Direction {
+    field public static final int BACK = 4; // 0x4
+    field public static final int FORWARD = 8; // 0x8
+    field public static final int LEFT = 1; // 0x1
+    field public static final int NONE = 0; // 0x0
+    field public static final int RIGHT = 2; // 0x2
+  }
+
+  public abstract interface GestureListener {
+    method public abstract void onGestureEvent(com.amazon.motiongestures.GestureEvent);
+  }
+
+  public class GestureManager {
+    method public static com.amazon.motiongestures.GestureManager createInstance(android.app.Activity);
+    method public java.util.List<com.amazon.motiongestures.Gesture> getAvailableGestureList();
+    method public void registerListener(com.amazon.motiongestures.GestureListener, com.amazon.motiongestures.Gesture, int);
+    method public void registerListener(com.amazon.motiongestures.GestureListener, com.amazon.motiongestures.Gesture, int, android.view.View);
+    method public void registerListener(com.amazon.motiongestures.GestureListener, com.amazon.motiongestures.Gesture, int, android.os.Handler);
+    method public void registerListener(com.amazon.motiongestures.GestureListener, com.amazon.motiongestures.Gesture, int, android.view.View, android.os.Handler);
+    method public void unregisterListener(com.amazon.motiongestures.GestureListener);
+    method public void unregisterListener(com.amazon.motiongestures.GestureListener, com.amazon.motiongestures.Gesture);
+    field public static final java.lang.String FEATURE_MOTION_GESTURES = "com.amazon.software.motiongestures";
+  }
+
+}
+

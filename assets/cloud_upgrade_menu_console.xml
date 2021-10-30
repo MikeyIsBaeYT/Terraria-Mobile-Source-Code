@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+      <XResolution>480</XResolution>
+      <YResolution>320</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>true</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>World1</Name>
+          <Position>0 -70</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>background1</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_characterbar_iphone-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>414 64</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_world1</Name>
+              <Position>-30 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text />
+              <Offset>0.5 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-4</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>320 30</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+          <TouchWidget>background1</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect>Menu_Open.wav</SoundEffect>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Trash1</Name>
+          <Position>0 -70</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_world1_trash</Name>
+              <Position>170 0</Position>
+              <Texture>UI\icon_trash.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>70 70</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+          <TouchWidget>button_world1_trash</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>false</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Loading</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_loading</Name>
+              <Position>0 -20</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Loading...</Text>
+              <Offset>0.5 0</Offset>
+              <Scale>0.8571429 0.8571429</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Top</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-5</CharSpacing>
+              <LineSpacing>-10</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>450 220</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>bar_loading</Name>
+              <Position>0 -20</Position>
+              <Children />
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

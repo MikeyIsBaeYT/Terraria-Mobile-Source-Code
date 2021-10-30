@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\..\..\..\..\Terraria%252525252520SVN\devTU4\Terraria\Content\</RootFolder>
+      <XResolution>480</XResolution>
+      <YResolution>320</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomLeft</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Button_Back</Name>
+          <Position>20 -20</Position>
+          <Children>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_back</Name>
+              <Position>20 -20</Position>
+              <Texture>..\..\..\..\TerrariaSVN\devTU4\Terraria\Content\Fonts\andy_30.png</Texture>
+              <Text>Back</Text>
+              <Offset>0 0</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-5</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>200 30</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_back</Name>
+              <Position>0 0</Position>
+              <Texture>..\..\..\..\TerrariaSVN\devTU4\Terraria\Content\UI\icon_back.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>32 26</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomRight</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Button_Kick</Name>
+          <Position>-82 -25</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>join_button</Name>
+              <Position>0 0</Position>
+              <Texture>..\..\..\..\TerrariaSVN\devTU4\Terraria\Content\UI\button_create_iphone-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>150 46</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_kick</Name>
+              <Position>0 0</Position>
+              <Texture>..\..\..\..\TerrariaSVN\devTU4\Terraria\Content\Fonts\andy_30.png</Texture>
+              <Text>Kick</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Top</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-5</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>200 40</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+          <TouchWidget>join_button</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>playerlist_panel</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>panel_background</Name>
+              <Position>0 0</Position>
+              <Texture>..\..\..\..\Terraria%25252525252520SVN\devTU4\Terraria\Content\UI\panel_charactercreator_iphone-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>468 182</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>header</Name>
+              <Position>0 -100</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>panel_header</Name>
+                  <Position>0 0</Position>
+                  <Texture>..\..\..\..\TerrariaSVN\devTU4\Terraria\Content\UI\header_online_iphone.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>468 42</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_gamename</Name>
+                  <Position>-80 0</Position>
+                  <Texture>..\..\..\..\TerrariaSVN\devTU4\Terraria\Content\Fonts\andy_30.png</Texture>
+                  <Text>Playername</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>1 1</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ScaleToFit</EdgeBehaviour>
+                  <CharSpacing>-5</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>250 40</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetList">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>player_list</Name>
+              <Position>0 89</Position>
+              <Offset>0.5 1</Offset>
+              <Bounds>430 168</Bounds>
+              <ItemHeight>50</ItemHeight>
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

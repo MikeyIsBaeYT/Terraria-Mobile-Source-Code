@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products>
+	<Product>
+	  <SKU>com.505games.terraria.pack001</SKU>
+	  <Description>MENU[11]</Description>
+	  <Icon>loading_icon.png</Icon>  
+	  <Item>5080</Item>  
+	</Product>
+	<Product>
+	  <SKU>com.505games.terraria.pack02</SKU>
+	  <Description>MENU[13]</Description>
+	  <Icon>loading_icon.png</Icon>  
+	  <Item>5081</Item>  
+	</Product>
+</Products>

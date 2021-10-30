@@ -1,0 +1,155 @@
+package com.amazon.headtracking.filter {
+
+  public class ButterworthThirdOrderSmoothingFilter extends com.amazon.headtracking.filter.PropertyFilter {
+    ctor public ButterworthThirdOrderSmoothingFilter();
+    method public boolean filter(com.amazon.headtracking.filter.FilterEvent);
+    method public double getFreq();
+    method public void setFreq(double);
+  }
+
+  public class ClampAngleFilter extends com.amazon.headtracking.filter.PropertyFilter {
+    ctor public ClampAngleFilter();
+    method public double getClampHorizontal();
+    method public double getClampVertical();
+    method public void setClampHorizontal(double);
+    method public void setClampVertical(double);
+  }
+
+  public class ClampDistanceFilter extends com.amazon.headtracking.filter.PropertyFilter {
+    ctor public ClampDistanceFilter();
+    method public double getMaximumDistance();
+    method public double getMinimumDistance();
+    method public void setMaximumDistance(double);
+    method public void setMinimumDistance(double);
+  }
+
+  public class ClampingFilter extends com.amazon.headtracking.filter.PropertyFilter {
+    ctor public ClampingFilter();
+    method public boolean filter(com.amazon.headtracking.filter.FilterEvent);
+    method public double getClampHorizontal();
+    method public double getClampVertical();
+    method public double getMaximumZ();
+    method public double getMinimumZ();
+    method public void setClampHorizontal(double);
+    method public void setClampVertical(double);
+    method public void setMaximumZ(double);
+    method public void setMinimumZ(double);
+  }
+
+  public class CoggingFilter extends com.amazon.headtracking.filter.PropertyFilter {
+    ctor public CoggingFilter();
+    method public double getCogAngle();
+    method public void setCogAngle(double);
+  }
+
+  public class ExponentialSmoothingFilter extends com.amazon.headtracking.filter.PropertyFilter {
+    ctor public ExponentialSmoothingFilter();
+    method public double getAlpha();
+    method public double getBeta();
+    method public void setAlpha(double);
+    method public void setBeta(double);
+  }
+
+  public abstract class Filter {
+    ctor public Filter();
+    method public abstract boolean filter(com.amazon.headtracking.filter.FilterEvent);
+    method public void reset();
+  }
+
+  public class FilterEvent {
+    method public static com.amazon.headtracking.filter.FilterEvent obtain(com.amazon.headtracking.HeadTrackingEvent);
+    method public static com.amazon.headtracking.filter.FilterEvent obtain(float, float, float);
+    method public void recycle();
+    method public void setBiasData(float, float, int);
+    field public float biasAngleX;
+    field public float biasAngleY;
+    field public int biasConfidence;
+    field public float headInclinationAngle_deg;
+    field public boolean isFaceDetected;
+    field public boolean isTracking;
+    field public float originalX;
+    field public float originalY;
+    field public float originalZ;
+    field public int rotation;
+    field public long timestamp_nsecs;
+    field public float x;
+    field public float y;
+    field public float z;
+  }
+
+  public class FilterList {
+    method public synchronized void add(com.amazon.headtracking.filter.Filter);
+    method public synchronized void add(int, com.amazon.headtracking.filter.Filter);
+    method public synchronized void clear();
+    method public static com.amazon.headtracking.filter.FilterList createDefaultUIFilterList(com.amazon.headtracking.filter.FilterList.FilterListType);
+    method public static com.amazon.headtracking.filter.FilterList createEmptyFilterList();
+    method public synchronized void duplicate(com.amazon.headtracking.filter.FilterList);
+    method public synchronized com.amazon.headtracking.filter.Filter get(int);
+    method public static com.amazon.headtracking.filter.FilterList getUIFilterList(android.content.Context);
+    method public synchronized boolean process(com.amazon.headtracking.filter.FilterEvent);
+    method public synchronized com.amazon.headtracking.filter.Filter remove(int);
+    method public synchronized void reset();
+    method public synchronized int size();
+  }
+
+  public static final class FilterList.FilterListType extends java.lang.Enum<com.amazon.headtracking.filter.FilterList.FilterListType> {
+    method public static com.amazon.headtracking.filter.FilterList.FilterListType valueOf(java.lang.String);
+    method public static final com.amazon.headtracking.filter.FilterList.FilterListType[] values();
+    enum_constant public static final com.amazon.headtracking.filter.FilterList.FilterListType DEEP;
+    enum_constant public static final com.amazon.headtracking.filter.FilterList.FilterListType STANDARD;
+  }
+
+  public class FirstOrderSmoothingFilter extends com.amazon.headtracking.filter.PropertyFilter {
+    ctor public FirstOrderSmoothingFilter();
+    method public double getAlpha();
+    method public void setAlpha(double);
+  }
+
+  public class GearAngleFilter extends com.amazon.headtracking.filter.PropertyFilter {
+    ctor public GearAngleFilter();
+    method public double getScaleX();
+    method public double getScaleY();
+    method public void setScaleX(double);
+    method public void setScaleY(double);
+  }
+
+  public class GearEventFilter extends com.amazon.headtracking.filter.PropertyFilter {
+    ctor public GearEventFilter();
+    method public double getOffset();
+    method public double getScale();
+    method public void setOffset(double);
+    method public void setScale(double);
+  }
+
+  public class KalmanFilter extends com.amazon.headtracking.filter.PropertyFilter {
+    ctor public KalmanFilter();
+    method public boolean filter(com.amazon.headtracking.filter.FilterEvent);
+    method public double getSystemNoise();
+    method public double getVarianceX();
+    method public double getVarianceY();
+    method public void setSystemNoise(double);
+    method public void setVarianceX(double);
+    method public void setVarianceY(double);
+  }
+
+  public abstract class PropertyFilter extends com.amazon.headtracking.filter.Filter {
+    ctor protected PropertyFilter();
+    method public static void addFilter(java.lang.String, java.lang.Class<?>);
+    method public static com.amazon.headtracking.filter.PropertyFilter create(java.lang.String);
+    method public double getProperty(java.lang.String);
+    method public java.util.Set<java.lang.String> getPropertyNames();
+    method public boolean hasPropertyName(java.lang.String);
+    method protected void loadProperties();
+    method public void setProperty(java.lang.String, double);
+  }
+
+  public static abstract class PropertyFilter.FilterProperty {
+    ctor public PropertyFilter.FilterProperty(java.lang.Class<?>, java.lang.String, double);
+    method public abstract double get(com.amazon.headtracking.filter.PropertyFilter);
+    method public abstract void set(com.amazon.headtracking.filter.PropertyFilter, double);
+    field public final double defValue;
+    field public final java.lang.String name;
+  }
+
+}
+

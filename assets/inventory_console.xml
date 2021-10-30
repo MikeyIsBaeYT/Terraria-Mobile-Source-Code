@@ -1,0 +1,2012 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+      <XResolution>960</XResolution>
+      <YResolution>640</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Background_group</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>250 3</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>background</Name>
+              <Position>0 0</Position>
+              <Texture>UI\background_inventory.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>10 768</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>78 83 138 255</Color>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>inventory_location</Name>
+          <Position>-125 430</Position>
+          <Children>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Inventory_Grid</Name>
+              <Position>0 229</Position>
+              <Children>
+                <Widget xsi:type="WidgetGrid">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>inventory_grid</Name>
+                  <Position>10 0</Position>
+                  <Offset>0.5 1</Offset>
+                  <Bounds>570 568</Bounds>
+                  <ItemHeight>110</ItemHeight>
+                  <ItemsPerRow>5</ItemsPerRow>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Recipe_Panel</Name>
+              <Position>0 0</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>panel_recipe</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\panel_crafting-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>264 130</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>arrow_top_01</Name>
+                  <Position>-220 -128</Position>
+                  <Texture>UI\panel_crafting_arrowup.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>14 14</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>arrow_top_02</Name>
+                  <Position>-110 -128</Position>
+                  <Texture>UI\panel_crafting_arrowup.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>14 14</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>arrow_top_03</Name>
+                  <Position>0 -128</Position>
+                  <Texture>UI\panel_crafting_arrowup.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>14 14</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>arrow_top_04</Name>
+                  <Position>110 -128</Position>
+                  <Texture>UI\panel_crafting_arrowup.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>14 14</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>arrow_top_05</Name>
+                  <Position>220 -128</Position>
+                  <Texture>UI\panel_crafting_arrowup.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>14 14</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>arrow_down_01</Name>
+                  <Position>-220 128</Position>
+                  <Texture>UI\panel_crafting_arrowdown.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>14 14</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>arrow_down_02</Name>
+                  <Position>-110 128</Position>
+                  <Texture>UI\panel_crafting_arrowdown.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>14 14</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>arrow_down_03</Name>
+                  <Position>0 128</Position>
+                  <Texture>UI\panel_crafting_arrowdown.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>14 14</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>arrow_down_04</Name>
+                  <Position>110 128</Position>
+                  <Texture>UI\panel_crafting_arrowdown.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>14 14</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>arrow_down_05</Name>
+                  <Position>220 128</Position>
+                  <Texture>UI\panel_crafting_arrowdown.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>14 14</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>ingredientname_text</Name>
+                  <Position>-250 70</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Ingredient name</Text>
+                  <Offset>0 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>-9</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>500 60</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="WidgetGrid">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>ingredients_grid</Name>
+                  <Position>-50 24</Position>
+                  <Offset>0.5 1</Offset>
+                  <Bounds>400 140</Bounds>
+                  <ItemHeight>70</ItemHeight>
+                  <ItemsPerRow>6</ItemsPerRow>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>crafting_station</Name>
+                  <Position>206 -48</Position>
+                  <Texture>UI\craftingstation_panel-active.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>36 36</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>crafting_station_icon</Name>
+                  <Position>206 -48</Position>
+                  <Texture>UI\craftingstation_panel-active.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>36 36</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Info_Inventory</Name>
+          <Position>170 90</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>100 100</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>panel_infopanel</Name>
+              <Position>1 0</Position>
+              <Texture>UI\black_texture.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>10 10</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>50 50 50 50</Color>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Panel_Craft</Name>
+              <Position>10 0</Position>
+              <Children>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>craft_text_itemname</Name>
+                  <Position>0 5</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Item name</Text>
+                  <Offset>0 0</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Top</VAlign>
+                  <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>-4</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>330 70</Bounds>
+                  <Color>243 246 51 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>ininventory_text</Name>
+                  <Position>0 45</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>(# in inventory)</Text>
+                  <Offset>0 0</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Top</VAlign>
+                  <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                  <CharSpacing>-3</CharSpacing>
+                  <LineSpacing>-4</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>350 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="WidgetList">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>craft_list_iteminfo</Name>
+                  <Position>165 470</Position>
+                  <Offset>0.5 1</Offset>
+                  <Bounds>320 320</Bounds>
+                  <ItemHeight>30</ItemHeight>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Panel_Info</Name>
+              <Position>10 0</Position>
+              <Children>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>info_text_itemname</Name>
+                  <Position>0 5</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Item name</Text>
+                  <Offset>0 0</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Top</VAlign>
+                  <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>-4</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>330 70</Bounds>
+                  <Color>243 246 51 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="WidgetList">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>info_list_iteminfo</Name>
+                  <Position>166 570</Position>
+                  <Offset>0.5 1</Offset>
+                  <Bounds>320 450</Bounds>
+                  <ItemHeight>30</ItemHeight>
+                </Widget>
+              </Children>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>2 2</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Tabs</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>200 9</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>panel_top</Name>
+              <Position>0 45</Position>
+              <Texture>UI\black_texture.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>10 10</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>90 90 90 90</Color>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Crafting_Active</Name>
+              <Position>-410 45</Position>
+              <Children>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>crafting_button-active</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tab_pressed.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>105 43</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>crafting_icon-active</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\icon_crafting.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>44 32</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>crafting_button-active</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Crafting_Inactive</Name>
+              <Position>-410 45</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>crafting_button-inactive</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tab_notpressed-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>105 43</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>crafting_icon-inactive</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\icon_crafting.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>44 32</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>125 125 125 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>crafting_button-inactive</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Inventory_Active</Name>
+              <Position>-190 45</Position>
+              <Children>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>inventory_button-active</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tab_pressed.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>105 43</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>inventory_icon-active</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\icon_inventory.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>32 30</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>inventory_button-active</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Inventory_Inactive</Name>
+              <Position>-190 45</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>inventory_button-inactive</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tab_notpressed-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>105 43</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>inventory_icon-inactive</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\icon_inventory.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>32 30</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>125 125 125 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>inventory_button-inactive</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Chest_Active</Name>
+              <Position>30 45</Position>
+              <Children>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>chest_button-active</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tab_pressed.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>105 43</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>chest_icon-active</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\icon_chest.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>32 28</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>chest_button-active</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Chest_Inactive</Name>
+              <Position>30 45</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>chest_button-inactive</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tab_notpressed-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>105 43</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>chest_icon-inactive</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\icon_chest.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>32 28</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>125 125 125 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>chest_button-inactive</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Vendor_Active</Name>
+              <Position>30 45</Position>
+              <Children>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>vendor_button-active</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tab_pressed.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>105 43</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>vendor_button-active</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Vendor_Inactive</Name>
+              <Position>30 45</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>vendor_button-inactive</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tab_notpressed-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>105 43</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>vendor_button-inactive</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Player_Active</Name>
+              <Position>300 45</Position>
+              <Children>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>player_button-active</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tab_pressed.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>105 43</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>player_button-active</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Player_Inactive</Name>
+              <Position>300 45</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>player_button-inactive</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\tab_notpressed-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>105 43</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+              <TouchWidget>player_button-inactive</TouchWidget>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>SideMenu</Name>
+          <Position>-520 90</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>50 100</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>panel_sidemenu</Name>
+              <Position>110 0</Position>
+              <Texture>UI\black_texture.png</Texture>
+              <Offset>1 0</Offset>
+              <Size>10 10</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>50 50 50 50</Color>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>SideMenu_Crafting</Name>
+              <Position>57 57</Position>
+              <Children>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Category01</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category01_button_pressed</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\button_side-rollover.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="NinePatchWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category01_button_depressed</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\button_side-n9.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category01_icon</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\icon_craft01.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>45 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Category02</Name>
+                  <Position>0 110</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category02_button_pressed</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\button_side-rollover.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="NinePatchWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category02_button_depressed</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\button_side-n9.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category02_icon</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\icon_craft02.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Category03</Name>
+                  <Position>0 220</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category03_button_pressed</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\button_side-rollover.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="NinePatchWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category03_button_depressed</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\button_side-n9.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category03_icon</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\icon_craft03.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>35 28</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Category04</Name>
+                  <Position>0 330</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category04_button_pressed</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\button_side-rollover.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="NinePatchWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category04_button_depressed</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\button_side-n9.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category04_icon</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\icon_craft04.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 30</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Category05</Name>
+                  <Position>0 440</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category05_button_pressed</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\button_side-rollover.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="NinePatchWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category05_button_depressed</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\button_side-n9.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>category05_icon</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\icon_craft05.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>39 30</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>SideMenu_Inventory</Name>
+              <Position>57 -23</Position>
+              <Children>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>TrashSlot</Name>
+                  <Position>0 520</Position>
+                  <Children>
+                    <Widget xsi:type="NinePatchWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>trashslot_slot</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\redslot-n9.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>trashslot_icon</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\icon_trashslot.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>28 36</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>TrashPopup</Name>
+                  <Position>30 520</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>trashpopup_panel</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\popup_trashdrop.png</Texture>
+                      <Offset>0 0.5</Offset>
+                      <Size>242 72</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="TextWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>trashpopup_text</Name>
+                      <Position>250 0</Position>
+                      <Texture>Fonts\andy_48.png</Texture>
+                      <Text>Drag an item here to trash it</Text>
+                      <Offset>0.5 0.5</Offset>
+                      <Scale>0.7142857 0.7142857</Scale>
+                      <HAlign>Left</HAlign>
+                      <VAlign>Middle</VAlign>
+                      <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                      <CharSpacing>-2</CharSpacing>
+                      <LineSpacing>-4</LineSpacing>
+                      <Padding>0</Padding>
+                      <Bounds>400 120</Bounds>
+                      <Color>255 255 255 255</Color>
+                      <RollOver>false</RollOver>
+                      <RollOverColor>0 0 0 0</RollOverColor>
+                    </Widget>
+                  </Children>
+                </Widget>
+              </Children>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>tutorial</Name>
+          <Position>0 -168</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>tutorial_panel</Name>
+              <Position>0 0</Position>
+              <Texture>UI\tutorial_panel-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>410 110</Size>
+              <Color>150 150 150 150</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>tutorial_text</Name>
+              <Position>0 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text />
+              <Offset>0.5 0.5</Offset>
+              <Scale>0.45 0.45</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-3</CharSpacing>
+              <LineSpacing>-5</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>380 80</Bounds>
+              <Color>200 200 200 200</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+          <TouchWidget>tutorial_panel</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>popup_craftingstation</Name>
+          <Position>-20 -190</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>popup_craftingstation_panel</Name>
+              <Position>-108 -40</Position>
+              <Texture>UI\popup_craft.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>316 82</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>popup_craftingstation_text</Name>
+              <Position>-60 -45</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>&lt;crafting station&gt; is needed to craft this item</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Top</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-4</CharSpacing>
+              <LineSpacing>-4</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>500 60</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>popup_craftingstation_icon</Name>
+              <Position>-360 -45</Position>
+              <Texture>UI\icon_blocked.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>32 32</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>popup_ingredients</Name>
+          <Position>-20 -190</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>popup_ingredients_panel</Name>
+              <Position>-108 -40</Position>
+              <Texture>UI\popup_craft.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>316 82</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>popup_ingredients_text</Name>
+              <Position>-60 -45</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>You do not have all of the ingredients needed to craft this recipe</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Top</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-4</CharSpacing>
+              <LineSpacing>-4</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>500 60</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>popup_ingredients_icon</Name>
+              <Position>-360 -45</Position>
+              <Texture>UI\icon_blocked.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>32 32</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>info_list_01</Name>
+          <Position>165 210</Position>
+          <Children />
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>info_list_02</Name>
+          <Position>485 -100</Position>
+          <Children />
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>craft_list_01</Name>
+          <Position>165 240</Position>
+          <Children />
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>craft_list_02</Name>
+          <Position>485 -100</Position>
+          <Children />
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>inventory_grid_01</Name>
+          <Position>-400 90</Position>
+          <Children />
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>inventory_grid_02</Name>
+          <Position>150 0</Position>
+          <Children />
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

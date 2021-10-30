@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+      <XResolution>960</XResolution>
+      <YResolution>640</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect>Menu_Tick.wav</SoundEffect>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomLeft</Anchor>
+          <Selectable>true</Selectable>
+          <SelectionUp>background1</SelectionUp>
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Button_Back</Name>
+          <Position>40 -48</Position>
+          <Children>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>back</Name>
+              <Position>40 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Back</Text>
+              <Offset>0 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Top</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-3</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>300 50</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_back</Name>
+              <Position>0 0</Position>
+              <Texture>UI\icon_back.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>32 26</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Button_InventoryBar</Name>
+          <Position>0 -150</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp />
+              <SelectionDown>background7</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>background6</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_characterbar_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>704 74</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_inventorybar</Name>
+              <Position>-330 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Inventory bar:</Text>
+              <Offset>0 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-5</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>350 50</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_5slots</Name>
+              <Position>80 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>5</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>None</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>0 0</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_10slots</Name>
+              <Position>240 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>10</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>None</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>0 0</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Button_Server</Name>
+          <Position>0 -75</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>background6</SelectionUp>
+              <SelectionDown>background1</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>background7</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_characterbar_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>704 74</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_server</Name>
+              <Position>-330 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Server visible:</Text>
+              <Offset>0 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>350 50</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_yes</Name>
+              <Position>80 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Yes</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>None</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>0 0</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_no</Name>
+              <Position>240 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>No</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>None</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>0 0</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect>Menu_Tick.wav</SoundEffect>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Button_Music</Name>
+          <Position>-177 75</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>background7</SelectionUp>
+              <SelectionDown>Button_Back</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight>background2</SelectionRight>
+              <Name>background1</Name>
+              <Position>0 0</Position>
+              <Texture>UI\button_halfbar_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>350 74</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_music</Name>
+              <Position>0 0</Position>
+              <Texture>UI\icon_music.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>58 60</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+          <TouchWidget>background1</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect>Menu_Tick.wav</SoundEffect>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Button_SFX</Name>
+          <Position>177 75</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>background7</SelectionUp>
+              <SelectionDown>Button_Back</SelectionDown>
+              <SelectionLeft>background1</SelectionLeft>
+              <SelectionRight />
+              <Name>background2</Name>
+              <Position>0 0</Position>
+              <Texture>UI\button_halfbar_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>350 74</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icon_sfx</Name>
+              <Position>0 0</Position>
+              <Texture>UI\icon_sfx.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>60 58</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+          <TouchWidget>background2</TouchWidget>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Logo_position</Name>
+          <Position>0 120</Position>
+          <Children />
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <RelativeScale>0 0</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Button_Ipad</Name>
+          <Position>0 0</Position>
+          <Children />
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>button_autoequip</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>background6</SelectionUp>
+              <SelectionDown>background1</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>background8</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_characterbar_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>704 74</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_autoequip</Name>
+              <Position>-330 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Auto Equip</Text>
+              <Offset>0 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>350 50</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_autoequipon</Name>
+              <Position>80 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Yes</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>None</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>0 0</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_autoequipoff</Name>
+              <Position>240 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>No</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>None</EdgeBehaviour>
+              <CharSpacing>-6</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>0 0</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>false</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Panel_Sync</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>sync_panel</Name>
+              <Position>0 0</Position>
+              <Texture>UI\confirmation_panel-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>500 200</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_syncing</Name>
+              <Position>0 0</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Searching for controller. Please wait.</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Top</VAlign>
+              <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+              <CharSpacing>-3</CharSpacing>
+              <LineSpacing>-9</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>450 200</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

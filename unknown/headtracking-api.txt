@@ -1,0 +1,67 @@
+package com.amazon.headtracking {
+
+  public class HeadTrackingConfiguration {
+    ctor public HeadTrackingConfiguration();
+    method public int getFidelity();
+    method public int getFilter();
+    method public void setFidelity(int);
+    method public void setFilter(int);
+  }
+
+  public static class HeadTrackingConfiguration.Fidelity {
+    field public static final int HIGH = 3; // 0x3
+    field public static final int LOW_POWER = 1; // 0x1
+    field public static final int NORMAL = 2; // 0x2
+  }
+
+  public static class HeadTrackingConfiguration.Filter {
+    field public static final int HT_ONLY = 0; // 0x0
+    field public static final int HT_SENSOR_FUSION = 1; // 0x1
+  }
+
+  public final class HeadTrackingEvent {
+    method public static com.amazon.headtracking.HeadTrackingEvent obtain();
+    method public void recycle();
+    field public float headInclinationAngle_deg;
+    field public boolean isFaceDetected;
+    field public boolean isTracking;
+    field public int rotation;
+    field public long timestamp_nsecs;
+    field public float x_mm;
+    field public float y_mm;
+    field public float z_mm;
+  }
+
+  public abstract interface HeadTrackingListener {
+    method public abstract void onHeadTrackingEvent(com.amazon.headtracking.HeadTrackingEvent);
+  }
+
+  public class HeadTrackingListenerConfiguration extends com.amazon.headtracking.HeadTrackingConfiguration {
+    ctor public HeadTrackingListenerConfiguration();
+    method public android.os.Handler getHandler();
+    method public int getRate();
+    method public void setHandler(android.os.Handler);
+    method public void setRate(int);
+    field public static final int MAX_RATE_HZ = 100; // 0x64
+    field public static final int MIN_RATE_HZ = 1; // 0x1
+  }
+
+  public class HeadTrackingManager {
+    method public static com.amazon.headtracking.HeadTrackingManager createInstance(android.app.Activity);
+    method public void registerListener(com.amazon.headtracking.HeadTrackingListener);
+    method public void registerListener(com.amazon.headtracking.HeadTrackingListener, com.amazon.headtracking.HeadTrackingListenerConfiguration);
+    method public com.amazon.headtracking.HeadTrackingPoller registerPoller();
+    method public com.amazon.headtracking.HeadTrackingPoller registerPoller(com.amazon.headtracking.HeadTrackingConfiguration);
+    method public void requestStandby(boolean);
+    method public void unregisterListener(com.amazon.headtracking.HeadTrackingListener);
+    method public void unregisterPoller(com.amazon.headtracking.HeadTrackingPoller);
+    field public static final java.lang.String FEATURE_HEAD_TRACKING = "com.amazon.software.headtracking";
+  }
+
+  public abstract class HeadTrackingPoller {
+    method public abstract boolean sample(com.amazon.headtracking.HeadTrackingEvent);
+    method public abstract void updateConfiguration(com.amazon.headtracking.HeadTrackingConfiguration);
+  }
+
+}
+

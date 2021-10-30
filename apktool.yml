@@ -1,0 +1,34 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Terraria_v1.2.12785_apkpure.com.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- wav
+- assets/Images.zip
+- res/raw/amazon_gc_prototype.zip
+- res/raw/icon.vbl
+- lib/armeabi/gdbserver
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '19'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  motiongestures-api.txt: '8'
+  headtracking-api.txt: '8'
+  headtracking-filter-api.txt: '8'
+  home-api.txt: '8'
+  gamecontroller.txt: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.0
+versionInfo:
+  versionCode: '12785'
+  versionName: 1.2.12785

@@ -1,0 +1,2185 @@
+
+TerrariaUI.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Alpha/A_Button
+  rotate: false
+  xy: 259, 126
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Alpha/B_Button
+  rotate: false
+  xy: 916, 234
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Alpha/Back_Button
+  rotate: false
+  xy: 999, 487
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Alpha/Dpad_button
+  rotate: false
+  xy: 259, 9
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Alpha/Left_Shoulder_Button
+  rotate: false
+  xy: 926, 332
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+Alpha/Left_Trigger_button
+  rotate: false
+  xy: 259, 159
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Alpha/Left_thumb_button
+  rotate: false
+  xy: 808, 4
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Alpha/Menu_Button
+  rotate: false
+  xy: 716, 149
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Alpha/Right_Shoulder_button
+  rotate: false
+  xy: 926, 301
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+Alpha/Right_Trigger_Button
+  rotate: false
+  xy: 928, 432
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Alpha/Right_thumb_button
+  rotate: false
+  xy: 463, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Alpha/X_Button
+  rotate: false
+  xy: 966, 480
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Alpha/Y_Button
+  rotate: false
+  xy: 964, 404
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Alpha/button_gplus
+  rotate: false
+  xy: 878, 463
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Alpha/button_gplus-inactive
+  rotate: false
+  xy: 878, 413
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Alpha/button_gplus-rollover
+  rotate: false
+  xy: 878, 363
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Alpha/button_gplus-touch
+  rotate: false
+  xy: 878, 315
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Alpha/button_gplusbig
+  rotate: false
+  xy: 618, 77
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Alpha/button_gplusbig-inactive
+  rotate: false
+  xy: 873, 135
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Alpha/button_gplusbig-rollover
+  rotate: false
+  xy: 873, 37
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Alpha/button_gplusbig-touch
+  rotate: false
+  xy: 716, 15
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Alpha/button_side-rollover
+  rotate: false
+  xy: 522, 7
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Alpha/icon_gamecenter
+  rotate: false
+  xy: 618, 253
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Alpha/icon_gamecenter2
+  rotate: false
+  xy: 331, 15
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Alpha/icon_googleplay
+  rotate: false
+  xy: 808, 63
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+Alpha/icon_xboxlive
+  rotate: false
+  xy: 397, 15
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Alpha/item_panel_quickbar
+  rotate: false
+  xy: 123, 19
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Alpha/item_panel_quickbar-HUGE
+  rotate: false
+  xy: 618, 1
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Alpha/item_panel_quickbar-big
+  rotate: false
+  xy: 1, 7
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Alpha/joystick_area
+  rotate: false
+  xy: 1, 73
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+Alpha/joystick_area-directional
+  rotate: false
+  xy: 296, 319
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Alpha/joystick_area-directional2
+  rotate: false
+  xy: 130, 73
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+Alpha/joystick_area-ipad
+  rotate: false
+  xy: 296, 126
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+Alpha/joystick_area-projectile
+  rotate: false
+  xy: 490, 319
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Alpha/joystick_area-projectile2
+  rotate: false
+  xy: 489, 190
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+Alpha/joystick_area-sword
+  rotate: false
+  xy: 684, 427
+  size: 192, 84
+  orig: 192, 84
+  offset: 0, 0
+  index: -1
+Alpha/joystick_area-sword2
+  rotate: false
+  xy: 618, 175
+  size: 127, 56
+  orig: 127, 56
+  offset: 0, 0
+  index: -1
+Alpha/joystick_area-tools
+  rotate: false
+  xy: 684, 233
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Alpha/joystick_area-tools2
+  rotate: false
+  xy: 489, 61
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+Alpha/joystick_handle
+  rotate: false
+  xy: 958, 259
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Alpha/joystick_handle-ipad
+  rotate: false
+  xy: 67, 11
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+Alpha/list_fade
+  rotate: false
+  xy: 694, 25
+  size: 10, 50
+  orig: 10, 50
+  offset: 0, 0
+  index: -1
+Alpha/redslot-rollover
+  rotate: false
+  xy: 177, 19
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Alpha/redslot_highlight
+  rotate: false
+  xy: 177, 19
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Alpha/scroll_background
+  rotate: false
+  xy: 996, 90
+  size: 6, 312
+  orig: 6, 312
+  offset: 0, 0
+  index: -1
+Alpha/scroll_handle
+  rotate: false
+  xy: 949, 264
+  size: 6, 1
+  orig: 6, 1
+  offset: 0, 0
+  index: -1
+Alpha/tab_notpressed-rollover
+  rotate: false
+  xy: 259, 81
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+Alpha/tab_pressed
+  rotate: false
+  xy: 366, 81
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+Alpha/tabsmall-rollover
+  rotate: false
+  xy: 576, 16
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Alpha/texture_bubble
+  rotate: false
+  xy: 716, 125
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Alpha/texture_grid
+  rotate: false
+  xy: 1, 202
+  size: 293, 309
+  orig: 293, 309
+  offset: 0, 0
+  index: -1
+Alpha/texture_heartframe_full
+  rotate: false
+  xy: 231, 49
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Alpha/texture_heartframe_full-white
+  rotate: false
+  xy: 231, 25
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Alpha/texture_heartframebig_full
+  rotate: false
+  xy: 878, 233
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Alpha/texture_heartframebig_full-white
+  rotate: false
+  xy: 928, 475
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Alpha/texture_manaframe_full
+  rotate: false
+  xy: 949, 233
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Alpha/texture_manaframe_full-white
+  rotate: false
+  xy: 970, 356
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Alpha/texture_manaframebig_full
+  rotate: false
+  xy: 928, 394
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Alpha/texture_manaframebig_full-white
+  rotate: false
+  xy: 964, 437
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Alpha/texture_touchzoom
+  rotate: false
+  xy: 747, 107
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Alpha/watermark_accessories
+  rotate: false
+  xy: 928, 364
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Alpha/watermark_arrows
+  rotate: false
+  xy: 878, 271
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Alpha/watermark_boots
+  rotate: false
+  xy: 463, 61
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Alpha/watermark_chest
+  rotate: false
+  xy: 964, 382
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Alpha/watermark_coins
+  rotate: false
+  xy: 918, 267
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+Alpha/watermark_helmet
+  rotate: false
+  xy: 231, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+
+TerrariaUI2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Both/Cloud
+  rotate: false
+  xy: 913, 71
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Both/button_halfbar_ipad-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/confirmation_panel-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/confirmation_panel-iphone-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_charactercreatorbar_ipad-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/button_halfbar_iphone-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar_iphone-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_charactercreatorbar_iphone-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar3_iphone-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar2_iphone-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_charactercreatorbarbig_iphone-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar_ipad-n9
+  rotate: false
+  xy: 955, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/button_halfbar_ipad-rollover-n9
+  rotate: false
+  xy: 73, 39
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar_iphone-rollover-n9
+  rotate: false
+  xy: 73, 39
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Both/panel_cloud-rollover-n9
+  rotate: false
+  xy: 73, 39
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar2_iphone-rollover-n9
+  rotate: false
+  xy: 73, 39
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar3_iphone-rollover-n9
+  rotate: false
+  xy: 73, 39
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Both/panel_charactercreatorbar_ipad-rollover-n9
+  rotate: false
+  xy: 73, 39
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Both/button_halfbar_iphone-rollover-n9
+  rotate: false
+  xy: 73, 39
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar_ipad-rollover-n9
+  rotate: false
+  xy: 73, 39
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Both/button_halfbar_ipad-touch-n9
+  rotate: false
+  xy: 985, 205
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/button_halfbar_iphone-touch-n9
+  rotate: false
+  xy: 985, 205
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_charactercreatorbar_ipad-touch-n9
+  rotate: false
+  xy: 985, 205
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar2_iphone-touch-n9
+  rotate: false
+  xy: 985, 205
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar3_iphone-touch-n9
+  rotate: false
+  xy: 985, 205
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar_iphone-touch-n9
+  rotate: false
+  xy: 985, 205
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar_ipad-touch-n9
+  rotate: false
+  xy: 985, 205
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/icon_back
+  rotate: false
+  xy: 985, 229
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Both/icon_closered
+  rotate: false
+  xy: 913, 1
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Both/icon_music
+  rotate: false
+  xy: 913, 31
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Both/icon_next
+  rotate: false
+  xy: 1, 5
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Both/icon_sfx
+  rotate: false
+  xy: 73, 67
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Both/icon_shop
+  rotate: false
+  xy: 1009, 211
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+Both/icon_team
+  rotate: false
+  xy: 101, 49
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Both/icon_trash
+  rotate: false
+  xy: 913, 185
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Both/icon_trash-rollover
+  rotate: false
+  xy: 1, 33
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Both/icon_trash-touch
+  rotate: false
+  xy: 913, 113
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Both/icon_trashslot
+  rotate: false
+  xy: 117, 67
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar3_iphone_inactive-n9
+  rotate: false
+  xy: 147, 85
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Both/panel_characterbar_ipad_inactive-n9
+  rotate: false
+  xy: 147, 85
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Both/panel_cloud-n9
+  rotate: false
+  xy: 35, 9
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Both/panel_textentry
+  rotate: false
+  xy: 483, 143
+  size: 428, 112
+  orig: 428, 112
+  offset: 0, 0
+  index: -1
+Both/panel_textentry_sign
+  rotate: false
+  xy: 1, 105
+  size: 480, 150
+  orig: 480, 150
+  offset: 0, 0
+  index: -1
+Both/panel_textentry_sign2
+  rotate: false
+  xy: 483, 21
+  size: 428, 120
+  orig: 428, 120
+  offset: 0, 0
+  index: -1
+Both/texture_white
+  rotate: false
+  xy: 941, 19
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+
+TerrariaUI3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+HUD/Gender_Female
+  rotate: false
+  xy: 270, 267
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/Gender_Male
+  rotate: false
+  xy: 303, 225
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/NPC_Head10
+  rotate: false
+  xy: 229, 118
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+HUD/NPC_Head2
+  rotate: false
+  xy: 345, 190
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+HUD/NPC_Head4
+  rotate: false
+  xy: 245, 51
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+HUD/NPC_Head5
+  rotate: false
+  xy: 270, 245
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+HUD/NPC_Head6
+  rotate: false
+  xy: 377, 192
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/NPC_Head7
+  rotate: false
+  xy: 163, 310
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+HUD/NPC_Head8
+  rotate: false
+  xy: 401, 194
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+HUD/NPC_Head9
+  rotate: false
+  xy: 121, 154
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+HUD/arrow_left
+  rotate: false
+  xy: 433, 268
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+HUD/arrow_left-rollover
+  rotate: false
+  xy: 434, 318
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+HUD/arrow_left-touch
+  rotate: false
+  xy: 433, 236
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+HUD/arrow_right
+  rotate: false
+  xy: 400, 96
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+HUD/arrow_right-rollover
+  rotate: false
+  xy: 321, 89
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+HUD/arrow_right-touch
+  rotate: false
+  xy: 273, 75
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+HUD/background_inventory
+  rotate: false
+  xy: 470, 70
+  size: 10, 768
+  orig: 10, 768
+  offset: 0, 0
+  index: -1
+HUD/black_texture
+  rotate: false
+  xy: 149, 64
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+HUD/buff_border-n9
+  rotate: false
+  xy: 312, 267
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/buff_temp
+  rotate: false
+  xy: 479, 990
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+HUD/button_arrow_left
+  rotate: false
+  xy: 1, 79
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+HUD/button_arrow_left-rollover
+  rotate: false
+  xy: 41, 79
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+HUD/button_arrow_left-touch
+  rotate: false
+  xy: 81, 111
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+HUD/button_arrow_right
+  rotate: false
+  xy: 189, 118
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+HUD/button_arrow_right-rollover
+  rotate: false
+  xy: 121, 76
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+HUD/button_arrow_right-touch
+  rotate: false
+  xy: 81, 33
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+HUD/button_cancel-n9
+  rotate: false
+  xy: 409, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_cancel-rollover-n9
+  rotate: false
+  xy: 409, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_small-rollover-n9
+  rotate: false
+  xy: 409, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/panel_charactercreator_ipad-n9
+  rotate: false
+  xy: 409, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_square-n9
+  rotate: false
+  xy: 409, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_random-n9
+  rotate: false
+  xy: 409, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/panel_charactercreator_iphone-n9
+  rotate: false
+  xy: 409, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/header_bar-n9
+  rotate: false
+  xy: 409, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_small-n9
+  rotate: false
+  xy: 409, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_random_ipad-n9
+  rotate: false
+  xy: 409, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_cancel-touch-n9
+  rotate: false
+  xy: 372, 124
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_small-touch-n9
+  rotate: false
+  xy: 372, 124
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_create-n9
+  rotate: false
+  xy: 410, 324
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_create_iphone-n9
+  rotate: false
+  xy: 410, 324
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_create-rollover-n9
+  rotate: false
+  xy: 265, 109
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_random-rollover-n9
+  rotate: false
+  xy: 265, 109
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_create_iphone-rollover-n9
+  rotate: false
+  xy: 265, 109
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_square-rollover-n9
+  rotate: false
+  xy: 265, 109
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_random_ipad-rollover-n9
+  rotate: false
+  xy: 265, 109
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_create-touch-n9
+  rotate: false
+  xy: 413, 400
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_random-touch-n9
+  rotate: false
+  xy: 413, 400
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_square-touch-n9
+  rotate: false
+  xy: 413, 400
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_create_iphone-touch-n9
+  rotate: false
+  xy: 413, 400
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_random_ipad-touch-n9
+  rotate: false
+  xy: 413, 400
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_pause
+  rotate: false
+  xy: 379, 254
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+HUD/button_pause-n9
+  rotate: false
+  xy: 328, 267
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/panel_upsell_iphone-n9
+  rotate: false
+  xy: 328, 267
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/panel_upsell_ipad-n9
+  rotate: false
+  xy: 328, 267
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/button_pause-rollover-n9
+  rotate: false
+  xy: 328, 267
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/button_pausebig-rollover-n9
+  rotate: false
+  xy: 328, 267
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/button_pausebig-n9
+  rotate: false
+  xy: 328, 267
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/button_pause-touch-n9
+  rotate: false
+  xy: 161, 90
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_pausebig-touch-n9
+  rotate: false
+  xy: 161, 90
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_random
+  rotate: false
+  xy: 1, 348
+  size: 190, 46
+  orig: 190, 46
+  offset: 0, 0
+  index: -1
+HUD/button_record
+  rotate: false
+  xy: 193, 300
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/button_side
+  rotate: false
+  xy: 1, 294
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/button_side-n9
+  rotate: false
+  xy: 413, 376
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/button_upsell_ipad-n9
+  rotate: false
+  xy: 161, 126
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/npc_button-n9
+  rotate: false
+  xy: 161, 126
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/multibutton_iphone-n9
+  rotate: false
+  xy: 161, 126
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/multibutton_ipad-n9
+  rotate: false
+  xy: 161, 126
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_upsell_ipad-rollover-n9
+  rotate: false
+  xy: 189, 90
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/npc_button-rollover-n9
+  rotate: false
+  xy: 189, 90
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/button_upsell_ipad-touch-n9
+  rotate: false
+  xy: 217, 90
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/multibutton_ipad-rollover-n9
+  rotate: false
+  xy: 217, 90
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/npc_button-touch-n9
+  rotate: false
+  xy: 217, 90
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/multibutton_iphone-rollover-n9
+  rotate: false
+  xy: 217, 90
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/charactercreator_highlight-n9
+  rotate: false
+  xy: 267, 184
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/color_block
+  rotate: false
+  xy: 213, 200
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+HUD/color_block-inside
+  rotate: false
+  xy: 258, 200
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+HUD/color_block-rollover
+  rotate: false
+  xy: 293, 309
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+HUD/craftingstation_panel
+  rotate: false
+  xy: 41, 41
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+HUD/craftingstation_panel-active
+  rotate: false
+  xy: 41, 41
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+HUD/craftingstation_panel-highlight
+  rotate: false
+  xy: 1, 5
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+HUD/craftingstation_panel-rollover
+  rotate: false
+  xy: 1, 5
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+HUD/craftingstation_panel-inactive
+  rotate: false
+  xy: 39, 3
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+HUD/header_online_ipad-n9
+  rotate: false
+  xy: 147, 196
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+HUD/header_online_iphone-n9
+  rotate: false
+  xy: 147, 196
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+HUD/icon_blocked
+  rotate: false
+  xy: 304, 149
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+HUD/icon_book
+  rotate: false
+  xy: 380, 292
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+HUD/icon_checkmark
+  rotate: false
+  xy: 293, 107
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+HUD/icon_chest
+  rotate: false
+  xy: 479, 960
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+HUD/icon_closesmall
+  rotate: false
+  xy: 121, 174
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+HUD/icon_craft01
+  rotate: false
+  xy: 413, 924
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+HUD/icon_craft02
+  rotate: false
+  xy: 338, 149
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+HUD/icon_play
+  rotate: false
+  xy: 338, 149
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+HUD/icon_craft03
+  rotate: false
+  xy: 42, 159
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+HUD/icon_craft04
+  rotate: false
+  xy: 345, 252
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+HUD/icon_craft05
+  rotate: false
+  xy: 1, 157
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+HUD/icon_crafting
+  rotate: false
+  xy: 460, 924
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+HUD/icon_deposit
+  rotate: false
+  xy: 383, 386
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+HUD/icon_dice
+  rotate: false
+  xy: 245, 79
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+HUD/icon_drop
+  rotate: false
+  xy: 163, 196
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+HUD/icon_everplay
+  rotate: false
+  xy: 425, 197
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+HUD/icon_inventory
+  rotate: false
+  xy: 345, 220
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+HUD/icon_joinworld
+  rotate: false
+  xy: 1, 43
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+HUD/icon_localgame
+  rotate: false
+  xy: 366, 704
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+HUD/icon_loot
+  rotate: false
+  xy: 383, 348
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+HUD/icon_menu_record
+  rotate: false
+  xy: 91, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+HUD/icon_onlinegame
+  rotate: false
+  xy: 366, 648
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+HUD/icon_options
+  rotate: false
+  xy: 229, 162
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+HUD/icon_options2
+  rotate: false
+  xy: 219, 412
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+HUD/icon_options2-rollover
+  rotate: false
+  xy: 366, 760
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+HUD/icon_options2-touch
+  rotate: false
+  xy: 399, 840
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+HUD/icon_pause
+  rotate: false
+  xy: 185, 42
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+HUD/icon_pausebig
+  rotate: false
+  xy: 372, 152
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+HUD/icon_quickStack
+  rotate: false
+  xy: 379, 216
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+HUD/icon_quickequip
+  rotate: false
+  xy: 267, 137
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+HUD/icon_record
+  rotate: false
+  xy: 312, 283
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+HUD/icon_stacksplit
+  rotate: false
+  xy: 247, 314
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+HUD/icon_star
+  rotate: false
+  xy: 413, 350
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+HUD/icon_startworld
+  rotate: false
+  xy: 366, 592
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+HUD/indicator
+  rotate: false
+  xy: 283, 184
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/indicator2
+  rotate: false
+  xy: 147, 224
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/indicator3
+  rotate: false
+  xy: 147, 208
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/indicator_damage
+  rotate: false
+  xy: 99, 192
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+HUD/ingredient_panel
+  rotate: false
+  xy: 161, 62
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/ingredient_panel-inactive
+  rotate: false
+  xy: 121, 48
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/ingredient_panel-rollover
+  rotate: false
+  xy: 189, 62
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/item_panel
+  rotate: false
+  xy: 55, 294
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/item_panel-rollover
+  rotate: false
+  xy: 109, 294
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/item_panel_quickbar-rollover
+  rotate: false
+  xy: 109, 294
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/item_panel-touch
+  rotate: false
+  xy: 163, 246
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/item_panel_quickbar-touch
+  rotate: false
+  xy: 163, 246
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/item_panel_quickbar-HUGE-rollover
+  rotate: false
+  xy: 297, 486
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+HUD/item_panel_quickbar-big-rollover
+  rotate: false
+  xy: 413, 958
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+HUD/item_panel_trashdrop
+  rotate: false
+  xy: 1, 240
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/item_panel_trashdrop-rollover
+  rotate: false
+  xy: 55, 240
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/item_panel_trashdrop-touch
+  rotate: false
+  xy: 109, 240
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/multibutton_iphone
+  rotate: false
+  xy: 193, 354
+  size: 146, 40
+  orig: 146, 40
+  offset: 0, 0
+  index: -1
+HUD/multibutton_iphone-highligh-n9
+  rotate: false
+  xy: 410, 300
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/panel_characterbarfb_ipad-n9
+  rotate: false
+  xy: 219, 484
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+HUD/panel_characterbarfb_ipad-rollover-n9
+  rotate: false
+  xy: 319, 832
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+HUD/panel_characterbarfb_ipad-touch-n9
+  rotate: false
+  xy: 297, 410
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+HUD/panel_characterbarfb_iphone-n9
+  rotate: false
+  xy: 1, 189
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+HUD/panel_characterbarfb_iphone-rollover-n9
+  rotate: false
+  xy: 217, 245
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+HUD/panel_characterbarfb_iphone-touch-n9
+  rotate: false
+  xy: 50, 189
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+HUD/panel_crafting-n9
+  rotate: false
+  xy: 409, 244
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/panel_crafting_arrowdown
+  rotate: false
+  xy: 139, 28
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/panel_crafting_arrowup
+  rotate: false
+  xy: 113, 14
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/panel_npc-n9
+  rotate: false
+  xy: 217, 62
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/popup_craft
+  rotate: false
+  xy: 1, 828
+  size: 316, 82
+  orig: 316, 82
+  offset: 0, 0
+  index: -1
+HUD/popup_trashdrop
+  rotate: false
+  xy: 1, 754
+  size: 242, 72
+  orig: 242, 72
+  offset: 0, 0
+  index: -1
+HUD/redslot-n9
+  rotate: false
+  xy: 409, 220
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/redslot-rollover-n9
+  rotate: false
+  xy: 400, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/tab_notpressed-n9
+  rotate: false
+  xy: 404, 170
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/tabsmall-n9
+  rotate: false
+  xy: 404, 170
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsection01
+  rotate: false
+  xy: 373, 414
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsection01_gold
+  rotate: false
+  xy: 455, 242
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsection02
+  rotate: false
+  xy: 455, 252
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsection02_gold
+  rotate: false
+  xy: 129, 20
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsection03
+  rotate: false
+  xy: 304, 137
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsection03_gold
+  rotate: false
+  xy: 433, 224
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsection04
+  rotate: false
+  xy: 163, 300
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsection04_gold
+  rotate: false
+  xy: 175, 300
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsectionbig01
+  rotate: false
+  xy: 383, 330
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsectionbig01_gold
+  rotate: false
+  xy: 121, 30
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsectionbig02
+  rotate: false
+  xy: 434, 300
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsectionbig02_gold
+  rotate: false
+  xy: 77, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsectionbig03
+  rotate: false
+  xy: 452, 300
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsectionbig03_gold
+  rotate: false
+  xy: 95, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsectionbig04
+  rotate: false
+  xy: 149, 44
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HUD/texture_heartsectionbig04_gold
+  rotate: false
+  xy: 167, 44
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HUD/texture_icon_charcreate01
+  rotate: false
+  xy: 341, 368
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/texture_icon_charcreate02
+  rotate: false
+  xy: 341, 326
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/texture_icon_charcreate03
+  rotate: false
+  xy: 338, 284
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/texture_icon_charcreate04
+  rotate: false
+  xy: 373, 550
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/texture_icon_charcreate05
+  rotate: false
+  xy: 373, 508
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/texture_icon_charcreate06
+  rotate: false
+  xy: 373, 466
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/texture_icon_charcreate07
+  rotate: false
+  xy: 373, 424
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/texture_icon_charcreate08
+  rotate: false
+  xy: 303, 183
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/texture_icon_charcreate09
+  rotate: false
+  xy: 147, 154
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+HUD/texture_manasection01
+  rotate: false
+  xy: 234, 52
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_manasection01_gold
+  rotate: false
+  xy: 202, 34
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_manasection02
+  rotate: false
+  xy: 234, 42
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_manasection02_gold
+  rotate: false
+  xy: 185, 32
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_manasection03
+  rotate: false
+  xy: 445, 226
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_manasection03_gold
+  rotate: false
+  xy: 455, 276
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+HUD/texture_manasection04
+  rotate: false
+  xy: 455, 286
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+HUD/texture_manasection04_gold
+  rotate: false
+  xy: 455, 262
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+HUD/texture_manasectionbig01
+  rotate: false
+  xy: 247, 300
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+HUD/texture_manasectionbig01_gold
+  rotate: false
+  xy: 77, 1
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+HUD/texture_manasectionbig02
+  rotate: false
+  xy: 171, 28
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+HUD/texture_manasectionbig02_gold
+  rotate: false
+  xy: 219, 396
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+HUD/texture_manasectionbig03
+  rotate: false
+  xy: 155, 28
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/texture_manasectionbig03_gold
+  rotate: false
+  xy: 218, 46
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HUD/texture_manasectionbig04
+  rotate: false
+  xy: 202, 44
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+HUD/texture_manasectionbig04_gold
+  rotate: false
+  xy: 295, 89
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+HUD/texture_upsell01
+  rotate: false
+  xy: 1, 396
+  size: 216, 356
+  orig: 216, 356
+  offset: 0, 0
+  index: -1
+HUD/texture_upsell06
+  rotate: false
+  xy: 245, 562
+  size: 119, 264
+  orig: 119, 264
+  offset: 0, 0
+  index: -1
+HUD/tutorial_panel
+  rotate: false
+  xy: 1, 912
+  size: 410, 110
+  orig: 410, 110
+  offset: 0, 0
+  index: -1
+HUD/tutorial_panel-n9
+  rotate: false
+  xy: 321, 121
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+HUD/tutorial_panel_iphone-n9
+  rotate: false
+  xy: 321, 121
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

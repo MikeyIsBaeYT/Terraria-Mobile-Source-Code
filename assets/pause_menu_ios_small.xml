@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+      <XResolution>960</XResolution>
+      <YResolution>640</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>pause_menu</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Close.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>button_mainmenu</SelectionUp>
+              <SelectionDown>button_sharefacebook</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_resume</Name>
+              <Position>0 -125</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Close.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>background1</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\panel_characterbar3_iphone-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>414 49</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Close.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_resume</Name>
+                  <Position>0 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Resume game</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>400 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+              <TouchWidget>background1</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Open.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>button_pvp</SelectionUp>
+              <SelectionDown>button_mainmenu</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_options</Name>
+              <Position>0 75</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>background2</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\panel_characterbar3_iphone-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>414 49</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_settings</Name>
+                  <Position>5 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Settings</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>400 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+              <TouchWidget>background2</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>button_sharefacebook</SelectionUp>
+              <SelectionDown>button_pvp</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_team</Name>
+              <Position>0 -25</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>background3</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\panel_characterbar3_iphone-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>414 49</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_team</Name>
+                  <Position>-190 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Team:</Text>
+                  <Offset>0 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>150 30</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>icon_shield</Name>
+                  <Position>-30 0</Position>
+                  <Texture>UI\icon_team.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>16 16</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_color</Name>
+                  <Position>-15 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Red</Text>
+                  <Offset>0 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>210 30</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+              <TouchWidget>background3</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>button_team</SelectionUp>
+              <SelectionDown>button_options</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_pvp</Name>
+              <Position>0 25</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>background8</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\panel_characterbar3_iphone-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>414 49</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_pvp</Name>
+                  <Position>-190 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>PvP:</Text>
+                  <Offset>0 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>150 30</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_pvpon</Name>
+                  <Position>20 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>On</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>100 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_pvpoff</Name>
+                  <Position>120 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Off</Text>
+                  <Offset>0 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>80 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Open.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>button_resume</SelectionUp>
+              <SelectionDown>button_team</SelectionDown>
+              <SelectionLeft>button_sharefacebook</SelectionLeft>
+              <SelectionRight />
+              <Name>button_record</Name>
+              <Position>104 -75</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Open.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>background5</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\panel_characterbar3_iphone-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>207 49</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>icon_record</Name>
+                  <Position>-75 0</Position>
+                  <Texture>UI\icon_menu_record.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>11 11</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Open.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_record</Name>
+                  <Position>15 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Record</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>None</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>400 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+              <TouchWidget>background5</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Open.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>button_resume</SelectionUp>
+              <SelectionDown>button_team</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight>button_record</SelectionRight>
+              <Name>button_sharefacebook</Name>
+              <Position>-104 -75</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>button_share_facebook</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\panel_characterbarfb_iphone-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>207 49</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_share</Name>
+                  <Position>0 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Share</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>None</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>150 30</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+              <TouchWidget>button_share_facebook</TouchWidget>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Open.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>button_options</SelectionUp>
+              <SelectionDown>button_resume</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>button_mainmenu</Name>
+              <Position>0 125</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Open.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>background4</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\panel_characterbar3_iphone-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>414 49</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Open.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_mainmenu</Name>
+                  <Position>0 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Exit to main menu</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ShrinkHorizontalUniform</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>400 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+              <TouchWidget>background4</TouchWidget>
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

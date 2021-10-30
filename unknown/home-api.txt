@@ -1,0 +1,122 @@
+package com.amazon.device.home {
+
+  public class GroupedGridHeroWidget extends com.amazon.device.home.HeroWidget {
+    ctor public GroupedGridHeroWidget();
+    method public void setEmptyGridProperty(com.amazon.device.home.GroupedGridHeroWidget.EmptyGridProperty);
+    method public void setGroups(java.util.List<com.amazon.device.home.GroupedGridHeroWidget.Group>);
+    field public static final int MAX_GRID_SIZE = 50; // 0x32
+    field public static final int MAX_STRING_LENGTH = 256; // 0x100
+  }
+
+  public static class GroupedGridHeroWidget.EmptyGridProperty {
+    ctor public GroupedGridHeroWidget.EmptyGridProperty();
+    method public void setContentIntent(com.amazon.device.home.HeroWidgetIntent);
+    method public void setLabel(java.lang.CharSequence);
+  }
+
+  public static class GroupedGridHeroWidget.GridEntry<T extends com.amazon.device.home.GroupedGridHeroWidget.GridEntry<T>> {
+    ctor public GroupedGridHeroWidget.GridEntry(android.content.Context);
+    method public T setContentIntent(com.amazon.device.home.HeroWidgetIntent);
+    method public T setPlayInfo(java.lang.Boolean, java.lang.CharSequence);
+    method public T setThumbnail(android.net.Uri);
+    method public T setThumbnail(int);
+  }
+
+  public static class GroupedGridHeroWidget.Group {
+    ctor public GroupedGridHeroWidget.Group();
+    method public void setGridEntries(java.util.List<com.amazon.device.home.GroupedGridHeroWidget.GridEntry>);
+    method public void setGroupName(java.lang.CharSequence);
+  }
+
+  public class GroupedListHeroWidget extends com.amazon.device.home.HeroWidget {
+    ctor public GroupedListHeroWidget();
+    method public void addGroup(int, com.amazon.device.home.GroupedListHeroWidget.Group) throws com.amazon.device.home.GroupedListHeroWidget.IllegalIncrementalChangeException;
+    method public void addListEntry(int, int, com.amazon.device.home.GroupedListHeroWidget.ListEntry) throws com.amazon.device.home.GroupedListHeroWidget.IllegalIncrementalChangeException;
+    method public void removeGroup(int) throws com.amazon.device.home.GroupedListHeroWidget.IllegalIncrementalChangeException;
+    method public void removeListEntry(int, int) throws com.amazon.device.home.GroupedListHeroWidget.IllegalIncrementalChangeException;
+    method public void setEmptyListProperty(com.amazon.device.home.GroupedListHeroWidget.EmptyListProperty);
+    method public void setGroups(java.util.List<com.amazon.device.home.GroupedListHeroWidget.Group>);
+    method public void updateListEntry(int, int, com.amazon.device.home.GroupedListHeroWidget.ListEntry) throws com.amazon.device.home.GroupedListHeroWidget.IllegalIncrementalChangeException;
+    field public static final int MAX_LIST_SIZE = 50; // 0x32
+    field public static final int MAX_STRING_LENGTH = 256; // 0x100
+  }
+
+  public static class GroupedListHeroWidget.EmptyListProperty {
+    ctor public GroupedListHeroWidget.EmptyListProperty();
+    method public void setContentIntent(com.amazon.device.home.HeroWidgetIntent);
+    method public void setLabel(java.lang.CharSequence);
+  }
+
+  public static class GroupedListHeroWidget.Group {
+    ctor public GroupedListHeroWidget.Group();
+    method public void setGroupName(java.lang.CharSequence);
+    method public void setListEntries(java.util.List<com.amazon.device.home.GroupedListHeroWidget.ListEntry>);
+  }
+
+  public class GroupedListHeroWidget.IllegalIncrementalChangeException extends java.lang.Exception {
+    ctor public GroupedListHeroWidget.IllegalIncrementalChangeException(java.lang.String);
+  }
+
+  public static class GroupedListHeroWidget.ListEntry<T extends com.amazon.device.home.GroupedListHeroWidget.ListEntry<T>> {
+    ctor public GroupedListHeroWidget.ListEntry(android.content.Context);
+    method public T setContentIntent(com.amazon.device.home.HeroWidgetIntent);
+    method public T setHighlight(boolean);
+    method public T setPrimaryIcon(android.net.Uri);
+    method public T setPrimaryIcon(int);
+    method public T setPrimaryText(java.lang.CharSequence);
+    method public T setQuaternaryContentCanPeek(boolean);
+    method public T setQuaternaryIcon(android.net.Uri);
+    method public T setQuaternaryIcon(int);
+    method public T setQuaternaryText(java.lang.CharSequence);
+    method public T setReviewCount(java.lang.Integer);
+    method public T setSecondaryIcon(android.net.Uri);
+    method public T setSecondaryIcon(int);
+    method public T setSecondaryText(java.lang.CharSequence);
+    method public T setStarRating(java.lang.Float);
+    method public T setTertiaryContentCanPeek(boolean);
+    method public T setTertiaryIcon(android.net.Uri);
+    method public T setTertiaryIcon(int);
+    method public T setTertiaryText(java.lang.CharSequence);
+    method public T setVisualStyle(com.amazon.device.home.GroupedListHeroWidget.VisualStyle);
+    field public static final float MAX_STAR_RATING = 5.0f;
+    field public static final float MIN_STAR_RATING = 0.0f;
+  }
+
+  public static final class GroupedListHeroWidget.VisualStyle extends java.lang.Enum<com.amazon.device.home.GroupedListHeroWidget.VisualStyle> {
+    method public static com.amazon.device.home.GroupedListHeroWidget.VisualStyle valueOf(java.lang.String);
+    method public static final com.amazon.device.home.GroupedListHeroWidget.VisualStyle[] values();
+    enum_constant public static final com.amazon.device.home.GroupedListHeroWidget.VisualStyle DEFAULT;
+    enum_constant public static final com.amazon.device.home.GroupedListHeroWidget.VisualStyle PEEKABLE;
+    enum_constant public static final com.amazon.device.home.GroupedListHeroWidget.VisualStyle SHOPPING;
+    enum_constant public static final com.amazon.device.home.GroupedListHeroWidget.VisualStyle SIMPLE;
+  }
+
+  public abstract class HeroWidget {
+    ctor protected HeroWidget();
+  }
+
+  public class HeroWidgetActivityStarterIntent extends com.amazon.device.home.HeroWidgetIntent {
+    ctor public HeroWidgetActivityStarterIntent(java.lang.String);
+    ctor public HeroWidgetActivityStarterIntent(java.lang.String, java.lang.String);
+  }
+
+  public class HeroWidgetIntent {
+    ctor public HeroWidgetIntent(java.lang.String);
+    ctor public HeroWidgetIntent(java.lang.String, java.lang.String);
+    method public void setClassName(java.lang.String);
+    method public void setData(java.lang.String);
+    field public static final java.lang.String ACTION_HERO_WIDGET = "com.amazon.device.home.action.HERO_WIDGET";
+    field public static final java.lang.String EXTRA_HERO_WIDGET_DATA = "com.amazon.device.home.extra.HERO_WIDGET_DATA";
+    field public static final int MAX_DATA_LENGTH = 2048; // 0x800
+  }
+
+  public class HomeManager {
+    method public static synchronized com.amazon.device.home.HomeManager getInstance(android.content.Context);
+    method public void removeWidget();
+    method public void updateNumericBadge(int);
+    method public void updateWidget(com.amazon.device.home.HeroWidget);
+    field public static final java.lang.String FEATURE_HOME = "com.amazon.software.home";
+  }
+
+}
+

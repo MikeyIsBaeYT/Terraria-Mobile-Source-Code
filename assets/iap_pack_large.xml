@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\..\Content</RootFolder>
+      <XResolution>1280</XResolution>
+      <YResolution>720</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>1 1</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopLeft</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Pack</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Pack_Frame</Name>
+              <Position>-480 -228</Position>
+              <Texture>UI\iap_Frame-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>319 220</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Pack_Container</Name>
+              <Position>-480 -227</Position>
+              <Texture>UI\iap_Frame_object-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>610.8 413.2</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Pack_NameBox</Name>
+              <Position>-480 -388.8</Position>
+              <Texture>UI\iap_frame_header-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>616.8 98.40002</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Pack_Icon</Name>
+              <Position>-219.8 -390.8</Position>
+              <Texture>UI\iap_Thumbnail-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>108 108</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Contentbox</Name>
+              <Position>-476.5 -225.5</Position>
+              <Texture>UI\iap_frame_dark.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>587 210</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Text_Namebox</Name>
+              <Position>-532.0001 -390.4</Position>
+              <Texture>Fonts\0_andy_48.png</Texture>
+              <Text>Ik ben een PACK!</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Left</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+              <CharSpacing>1</CharSpacing>
+              <LineSpacing>1</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>497.7 76.5</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Button_Buy</Name>
+              <Position>-624 -105.6</Position>
+              <Texture>UI\iap_Button_Gold-n9.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>145 39</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Icon_BuyButton</Name>
+              <Position>-613.4001 -86.40001</Position>
+              <Texture>UI\iap_icon_Money.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>37 20</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Text_BuyButton</Name>
+              <Position>-441.6001 -67.20001</Position>
+              <Texture>Fonts\0_andy_48.png</Texture>
+              <Text>Buy for $ 8,99</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+              <CharSpacing>1</CharSpacing>
+              <LineSpacing>1</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>172 47</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="WidgetList">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>description_list</Name>
+              <Position>-479 -127</Position>
+              <Offset>-0.5 -1</Offset>
+              <Bounds>560 190</Bounds>
+              <ItemHeight>25</ItemHeight>
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

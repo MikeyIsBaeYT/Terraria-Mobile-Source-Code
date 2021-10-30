@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+      <XResolution>960</XResolution>
+      <YResolution>640</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>upsell_menu</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>background</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_upsell_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>628 360</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>texture_upsell01</Name>
+              <Position>-207 0</Position>
+              <Texture>UI\texture_upsell01.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>216 356</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>upsell_text</Name>
+              <Position>70 0</Position>
+              <Children>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>upsell_header</Name>
+                  <Position>-160 -180</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>DIG! FIGHT! EXPLORE! BUILD!</Text>
+                  <Offset>0 0</Offset>
+                  <Scale>0.8571429 0.8571429</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Top</VAlign>
+                  <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>-20</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>350 72</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="WidgetList">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>upsell_scrollable_body</Name>
+                  <Position>35 165</Position>
+                  <Offset>0.5 1</Offset>
+                  <Bounds>390 270</Bounds>
+                  <ItemHeight>25</ItemHeight>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>buy</Name>
+              <Position>0 210</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>buy_button</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\button_upsell_ipad-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>312 50</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>buy_text</Name>
+                  <Position>0 0</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Buy now</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                  <CharSpacing>-4</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>290 30</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+              <TouchWidget>buy_button</TouchWidget>
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

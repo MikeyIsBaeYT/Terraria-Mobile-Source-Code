@@ -1,0 +1,52 @@
+package com.amazon.device.gamecontroller {
+
+  public class GameController {
+    method public synchronized float getAxisValue(int);
+    method public static synchronized com.amazon.device.gamecontroller.GameController getControllerByPlayer(int) throws com.amazon.device.gamecontroller.GameController.PlayerNumberNotFoundException;
+    method public static synchronized int getDeviceId(int) throws com.amazon.device.gamecontroller.GameController.DeviceNotFoundException;
+    method public static synchronized int getPlayerCount();
+    method public static synchronized int getPlayerNumber(int) throws com.amazon.device.gamecontroller.GameController.PlayerNumberNotFoundException;
+    method public static void init(android.content.Context);
+    method public synchronized boolean isButtonPressed(int);
+    method public static synchronized boolean onGenericMotionEvent(android.view.MotionEvent) throws com.amazon.device.gamecontroller.GameController.DeviceNotFoundException;
+    method public static synchronized boolean onKeyDown(int, android.view.KeyEvent) throws com.amazon.device.gamecontroller.GameController.DeviceNotFoundException;
+    method public static synchronized boolean onKeyUp(int, android.view.KeyEvent) throws com.amazon.device.gamecontroller.GameController.DeviceNotFoundException;
+    method public static synchronized void startFrame();
+    method public synchronized boolean wasAxisChanged(int);
+    method public synchronized java.lang.Boolean wasButtonPressed(int);
+    method public synchronized java.lang.Boolean wasButtonReleased(int);
+    field public static final int AXIS_STICK_LEFT_X = 0; // 0x0
+    field public static final int AXIS_STICK_LEFT_Y = 1; // 0x1
+    field public static final int AXIS_STICK_RIGHT_X = 11; // 0xb
+    field public static final int AXIS_STICK_RIGHT_Y = 14; // 0xe
+    field public static final int AXIS_TRIGGER_LEFT = 23; // 0x17
+    field public static final int AXIS_TRIGGER_RIGHT = 22; // 0x16
+    field public static final int BUTTON_A = 96; // 0x60
+    field public static final int BUTTON_B = 97; // 0x61
+    field public static final int BUTTON_DPAD_CENTER = 23; // 0x17
+    field public static final int BUTTON_DPAD_DOWN = 20; // 0x14
+    field public static final int BUTTON_DPAD_LEFT = 21; // 0x15
+    field public static final int BUTTON_DPAD_RIGHT = 22; // 0x16
+    field public static final int BUTTON_DPAD_UP = 19; // 0x13
+    field public static final int BUTTON_SHOULDER_LEFT = 102; // 0x66
+    field public static final int BUTTON_SHOULDER_RIGHT = 103; // 0x67
+    field public static final int BUTTON_STICK_LEFT = 106; // 0x6a
+    field public static final int BUTTON_STICK_RIGHT = 107; // 0x6b
+    field public static final int BUTTON_TRIGGER_LEFT = 104; // 0x68
+    field public static final int BUTTON_TRIGGER_RIGHT = 105; // 0x69
+    field public static final int BUTTON_X = 99; // 0x63
+    field public static final int BUTTON_Y = 100; // 0x64
+    field public static final float DEAD_ZONE;
+    field public static final int MAX_PLAYERS = 4; // 0x4
+  }
+
+  public static class GameController.DeviceNotFoundException extends java.lang.Exception {
+    ctor public GameController.DeviceNotFoundException(java.lang.String);
+  }
+
+  public static class GameController.PlayerNumberNotFoundException extends java.lang.Exception {
+    ctor public GameController.PlayerNumberNotFoundException(java.lang.String);
+  }
+
+}
+

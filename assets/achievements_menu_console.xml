@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+      <XResolution>960</XResolution>
+      <YResolution>640</YResolution>
+      <GridSize>20</GridSize>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="SpriteWidget">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Achievement_Panel_Big</Name>
+          <Position>0 5</Position>
+          <Texture>UI\Achievement_panel_big.png</Texture>
+          <Offset>0.5 0</Offset>
+          <Size>473 283</Size>
+          <Scale>0 0</Scale>
+          <Color>255 255 255 255</Color>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Achievement Sprites</Name>
+          <Position>-240 0</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp />
+              <SelectionDown>7</SelectionDown>
+              <SelectionLeft>6</SelectionLeft>
+              <SelectionRight>2</SelectionRight>
+              <Name>1</Name>
+              <Position>40 40</Position>
+              <Texture>UI\achievement01.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp />
+              <SelectionDown>8</SelectionDown>
+              <SelectionLeft>1</SelectionLeft>
+              <SelectionRight>3</SelectionRight>
+              <Name>2</Name>
+              <Position>120 40</Position>
+              <Texture>UI\achievement02.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp />
+              <SelectionDown>9</SelectionDown>
+              <SelectionLeft>2</SelectionLeft>
+              <SelectionRight>4</SelectionRight>
+              <Name>3</Name>
+              <Position>200 40</Position>
+              <Texture>UI\achievement03.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp />
+              <SelectionDown>10</SelectionDown>
+              <SelectionLeft>3</SelectionLeft>
+              <SelectionRight>5</SelectionRight>
+              <Name>4</Name>
+              <Position>280 40</Position>
+              <Texture>UI\achievement04.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp />
+              <SelectionDown>11</SelectionDown>
+              <SelectionLeft>4</SelectionLeft>
+              <SelectionRight>6</SelectionRight>
+              <Name>5</Name>
+              <Position>360 40</Position>
+              <Texture>UI\achievement05.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp />
+              <SelectionDown>12</SelectionDown>
+              <SelectionLeft>5</SelectionLeft>
+              <SelectionRight>1</SelectionRight>
+              <Name>6</Name>
+              <Position>440 40</Position>
+              <Texture>UI\achievement06.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>1</SelectionUp>
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight>8</SelectionRight>
+              <Name>7</Name>
+              <Position>40 110</Position>
+              <Texture>UI\achievement07.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>2</SelectionUp>
+              <SelectionDown />
+              <SelectionLeft>7</SelectionLeft>
+              <SelectionRight>9</SelectionRight>
+              <Name>8</Name>
+              <Position>120 110</Position>
+              <Texture>UI\achievement08.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>3</SelectionUp>
+              <SelectionDown />
+              <SelectionLeft>8</SelectionLeft>
+              <SelectionRight>10</SelectionRight>
+              <Name>9</Name>
+              <Position>200 110</Position>
+              <Texture>UI\achievement09.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>4</SelectionUp>
+              <SelectionDown />
+              <SelectionLeft>9</SelectionLeft>
+              <SelectionRight>11</SelectionRight>
+              <Name>10</Name>
+              <Position>280 110</Position>
+              <Texture>UI\achievement10.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>5</SelectionUp>
+              <SelectionDown />
+              <SelectionLeft>10</SelectionLeft>
+              <SelectionRight>12</SelectionRight>
+              <Name>11</Name>
+              <Position>360 110</Position>
+              <Texture>UI\achievement11.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>2 2</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp>6</SelectionUp>
+              <SelectionDown />
+              <SelectionLeft>11</SelectionLeft>
+              <SelectionRight>7</SelectionRight>
+              <Name>12</Name>
+              <Position>440 110</Position>
+              <Texture>UI\achievement12.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>30 30</Size>
+              <Scale>0 0</Scale>
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="TextWidget">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Description Text</Name>
+          <Position>0 175</Position>
+          <Texture>Fonts\andy_48.png</Texture>
+          <Text>Description</Text>
+          <Offset>0.5 0</Offset>
+          <Scale>0.45 0.45</Scale>
+          <HAlign>Center</HAlign>
+          <VAlign>Top</VAlign>
+          <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+          <CharSpacing>-2</CharSpacing>
+          <LineSpacing>0</LineSpacing>
+          <Padding>0</Padding>
+          <Bounds>430 300</Bounds>
+          <Color>255 255 255 255</Color>
+          <RollOver>false</RollOver>
+          <RollOverColor>0 0 0 0</RollOverColor>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopLeft</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Achievement Panel</Name>
+          <Position>0 0</Position>
+          <Children />
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

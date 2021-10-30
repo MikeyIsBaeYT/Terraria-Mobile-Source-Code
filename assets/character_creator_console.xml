@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+      <XResolution>960</XResolution>
+      <YResolution>640</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>header</Name>
+          <Position>0 -225</Position>
+          <Children>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>true</Selectable>
+              <SelectionUp />
+              <SelectionDown>charactercreator</SelectionDown>
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>icons</Name>
+              <Position>0 -35</Position>
+              <Children>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft>icon09_button</SelectionLeft>
+                  <SelectionRight>icon02_button</SelectionRight>
+                  <Name>icon01_button</Name>
+                  <Position>-360 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon01_panel</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\item_panel_quickbar-HUGE.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>74 74</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon01</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\texture_icon_charcreate01.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>40 40</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>icon01_panel</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft>icon01_button</SelectionLeft>
+                  <SelectionRight>icon03_button</SelectionRight>
+                  <Name>icon02_button</Name>
+                  <Position>-270 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon02_panel</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\item_panel_quickbar-HUGE.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>74 74</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1.9 1.9</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon02</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\texture_icon_charcreate02.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>40 40</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>icon02_panel</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft>icon02_button</SelectionLeft>
+                  <SelectionRight>icon04_button</SelectionRight>
+                  <Name>icon03_button</Name>
+                  <Position>-180 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon03_panel</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\item_panel_quickbar-HUGE.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>74 74</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon03</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\texture_icon_charcreate03.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>40 40</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>icon03_panel</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft>icon03_button</SelectionLeft>
+                  <SelectionRight>icon05_button</SelectionRight>
+                  <Name>icon04_button</Name>
+                  <Position>-90 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon04_panel</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\item_panel_quickbar-HUGE.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>74 74</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon04</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\texture_icon_charcreate04.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>40 40</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>icon04_panel</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft>icon04_button</SelectionLeft>
+                  <SelectionRight>icon06_button</SelectionRight>
+                  <Name>icon05_button</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon05_panel</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\item_panel_quickbar-HUGE.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>74 74</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon05</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\texture_icon_charcreate05.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>40 40</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>icon05_panel</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft>icon05_button</SelectionLeft>
+                  <SelectionRight>icon07_button</SelectionRight>
+                  <Name>icon06_button</Name>
+                  <Position>90 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon06_panel</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\item_panel_quickbar-HUGE.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>74 74</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon06</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\texture_icon_charcreate06.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>40 40</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>icon06_panel</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft>icon06_button</SelectionLeft>
+                  <SelectionRight>icon08_button</SelectionRight>
+                  <Name>icon07_button</Name>
+                  <Position>180 2</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon07_panel</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\item_panel_quickbar-HUGE.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>74 74</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon07</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\texture_icon_charcreate07.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>40 40</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>icon07_panel</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft>icon07_button</SelectionLeft>
+                  <SelectionRight>icon09_button</SelectionRight>
+                  <Name>icon08_button</Name>
+                  <Position>270 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon08_panel</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\item_panel_quickbar-HUGE.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>74 74</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon08</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\texture_icon_charcreate08.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>40 40</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>icon08_panel</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft>icon08_button</SelectionLeft>
+                  <SelectionRight>icon01_button</SelectionRight>
+                  <Name>icon09_button</Name>
+                  <Position>360 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon09_panel</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\item_panel_quickbar-HUGE.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>74 74</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>icon09</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\texture_icon_charcreate09.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>40 40</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>icon09_panel</TouchWidget>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>category_arrow_left</Name>
+                  <Position>-415 0</Position>
+                  <Texture>UI\arrow_left.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>20 30</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 200</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>category_arrow_right</Name>
+                  <Position>415 0</Position>
+                  <Texture>UI\arrow_right.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>20 30</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 200</Color>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>category</Name>
+              <Position>0 19</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Category</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-2</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>790 50</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>CenterCenter</Anchor>
+          <Selectable>true</Selectable>
+          <SelectionUp>icons</SelectionUp>
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>charactercreator</Name>
+          <Position>0 5</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>panel</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_charactercreator_ipad-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>628 372</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="WidgetGrid">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>grid</Name>
+              <Position>-82 150</Position>
+              <Offset>0.5 1</Offset>
+              <Bounds>422 300</Bounds>
+              <ItemHeight>64</ItemHeight>
+              <ItemsPerRow>7</ItemsPerRow>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>avatar_position</Name>
+              <Position>210 0</Position>
+              <Children />
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>42.2 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>grid_fade</Name>
+              <Position>-82 125</Position>
+              <Texture>UI\list_fade.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>10 50</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>gender</Name>
+              <Position>-82 0</Position>
+              <Children>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>background01</Name>
+                  <Position>-80 0</Position>
+                  <Texture>UI\item_panel.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>52 52</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>background02</Name>
+                  <Position>80 0</Position>
+                  <Texture>UI\item_panel.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>52 52</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>gender_male</Name>
+                  <Position>-80 0</Position>
+                  <Texture>UI\Gender_Male.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>40 40</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect>Menu_Tick.wav</SoundEffect>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>gender_female</Name>
+                  <Position>80 0</Position>
+                  <Texture>UI\Gender_Female.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>40 40</Size>
+                  <Scale>0 0</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_gender_male</Name>
+                  <Position>-80 50</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Male</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>None</EdgeBehaviour>
+                  <CharSpacing>-2</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>100 20</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_gender_female</Name>
+                  <Position>80 50</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Female</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>None</EdgeBehaviour>
+                  <CharSpacing>-2</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>100 20</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>textentry</Name>
+          <Position>0 250</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>panel_textbox</Name>
+              <Position>0 0</Position>
+              <Texture>UI\panel_textentry.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>428 112</Size>
+              <Scale>0 0</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_entername</Name>
+              <Position>0 -25</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Enter character name</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>0</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>400 20</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect>Menu_Tick.wav</SoundEffect>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_textbox</Name>
+              <Position>0 22</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text />
+              <Offset>0.5 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-3</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>350 40</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>textbox_preview</Name>
+              <Position>275 0</Position>
+              <Children />
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<NinePatchData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Columns>
+    <int>1</int>
+    <int>3</int>
+    <int>4</int>
+    <int>6</int>
+  </Columns>
+  <Rows>
+    <int>1</int>
+    <int>3</int>
+    <int>4</int>
+    <int>6</int>
+  </Rows>
+  <TextColumns>
+    <int>1</int>
+    <int>3</int>
+    <int>4</int>
+    <int>6</int>
+  </TextColumns>
+  <TextRows>
+    <int>1</int>
+    <int>3</int>
+    <int>4</int>
+    <int>6</int>
+  </TextRows>
+</NinePatchData>

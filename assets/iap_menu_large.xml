@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\..\Content</RootFolder>
+      <XResolution>1280</XResolution>
+      <YResolution>720</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>1 1</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>false</VisibleInEditor>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopLeft</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Dialog_Screen</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Dialog_Box</Name>
+              <Position>0 0</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>DialogBox</Name>
+                  <Position>0 -30</Position>
+                  <Texture>UI\iap_Button_BlueSolid-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>380 180</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Dialog_Message</Name>
+                  <Position>0 -30.5</Position>
+                  <Texture>Fonts\0_andy_48.png</Texture>
+                  <Text>Hoi, ik ben Tom en ik wil graag dat je dingne bij mij gaat kopen. Ik wil hier wel graag normaal geld van zodat ik ook een beetje kan verdienen. Ik heb niks aan die ingame currency. Dusseuh... wil je?</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>1 1</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Top</VAlign>
+                  <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+                  <CharSpacing>0</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>354 153</Bounds>
+                  <Color>0 0 0 0</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Dialog_Confirm</Name>
+              <Position>0 0</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Dialog_Accept</Name>
+                  <Position>-100 89.5</Position>
+                  <Texture>UI\iap_Button_Gold-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>180 43</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Dialog_Yes</Name>
+                  <Position>-80 88</Position>
+                  <Texture>Fonts\0_andy_48.png</Texture>
+                  <Text>Ja, geld teveel!</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>1 1</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+                  <CharSpacing>0</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>113 15.70001</Bounds>
+                  <Color>0 0 0 0</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Icon_BuyButton2</Name>
+                  <Position>-182 79</Position>
+                  <Texture>UI\iap_icon_Money.png</Texture>
+                  <Offset>0 0</Offset>
+                  <Size>17.00002 9.18924</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Dialog_Decline</Name>
+              <Position>0 0</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Dialog_No</Name>
+                  <Position>100 89.5</Position>
+                  <Texture>UI\iap_Button_Blue-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>180 43</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Icon_CloseButton</Name>
+                  <Position>19 79</Position>
+                  <Texture>UI\iap_icon_Close.png</Texture>
+                  <Offset>0 0</Offset>
+                  <Size>14 9.18924</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Dialog_NoThanks</Name>
+                  <Position>120 88</Position>
+                  <Texture>Fonts\0_andy_48.png</Texture>
+                  <Text>Ben niet gek...</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>1 1</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+                  <CharSpacing>0</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>113 15.70001</Bounds>
+                  <Color>0 0 0 0</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopLeft</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Screen_Store</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>BG</Name>
+              <Position>0 -1</Position>
+              <Texture>UI\iap_background.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>960 540</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Bar_Silver</Name>
+              <Position>0 0</Position>
+              <Children>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>SilverBar</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\iap_Edge_Silverbar.png</Texture>
+                  <Offset>0 0</Offset>
+                  <Size>1283 86</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>SilverBar_Shine</Name>
+                  <Position>201.6 0</Position>
+                  <Texture>UI\iap_Edge_Silverbar_shine.png</Texture>
+                  <Offset>0 0</Offset>
+                  <Size>200 86</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopRight</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Button_Close</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="NinePatchWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Button_Frame</Name>
+                      <Position>-83 4</Position>
+                      <Texture>UI\iap_Button_Gold-n9.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>82 82</Size>
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Cross</Name>
+                      <Position>-72 15</Position>
+                      <Texture>UI\icon_closered.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>60 60</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Ornaments_Top</Name>
+                  <Position>0 84</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament3</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament23</Name>
+                      <Position>57.60001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament223</Name>
+                      <Position>115.2 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament2223</Name>
+                      <Position>172.8 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament22223</Name>
+                      <Position>230.4 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament222223</Name>
+                      <Position>288 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament2222223</Name>
+                      <Position>345.6 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament22222223</Name>
+                      <Position>403.2 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament222222223</Name>
+                      <Position>460.8 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament2222222223</Name>
+                      <Position>518.4001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament22222222223</Name>
+                      <Position>566.4001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament222222222223</Name>
+                      <Position>614.4001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament2222222222223</Name>
+                      <Position>662.4001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament22222222222223</Name>
+                      <Position>720.0001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament222222222222223</Name>
+                      <Position>777.6001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament2222222222222223</Name>
+                      <Position>835.2001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament22222222222222223</Name>
+                      <Position>883.2001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament222222222222222222</Name>
+                      <Position>931.2001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament2222222222222222222</Name>
+                      <Position>988.8001 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament22222222222222222222</Name>
+                      <Position>1046.4 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament222222222222222222222</Name>
+                      <Position>1104 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament2222222222222222222222</Name>
+                      <Position>1161.6 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament22222222222222222222222</Name>
+                      <Position>1219.2 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>Fancy Ornament222222222222222222222222</Name>
+                      <Position>1276.8 0</Position>
+                      <Texture>UI\iap_Edge_Pattern.png</Texture>
+                      <Offset>0 0</Offset>
+                      <Size>58 36</Size>
+                      <Scale>1 1</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Ornaments_Bottom</Name>
+              <Position>0 0</Position>
+              <Children>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament32</Name>
+                  <Position>0 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament322</Name>
+                  <Position>57.60001 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament3222</Name>
+                  <Position>115.2 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament32222</Name>
+                  <Position>172.8 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament322222</Name>
+                  <Position>230.4 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament3222222</Name>
+                  <Position>288 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament32222222</Name>
+                  <Position>345.6 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament322222222</Name>
+                  <Position>403.2 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament322222223</Name>
+                  <Position>518.4001 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament322222224</Name>
+                  <Position>460.8 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament3222222232</Name>
+                  <Position>576.0001 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament32222222322</Name>
+                  <Position>633.6001 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament322222223222</Name>
+                  <Position>691.2001 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament3222222232222</Name>
+                  <Position>748.8001 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament32222222322222</Name>
+                  <Position>806.4001 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament322222223222222</Name>
+                  <Position>864.0001 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament3222222232222222</Name>
+                  <Position>921.6001 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament32222222322222222</Name>
+                  <Position>979.2001 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament322222223222222222</Name>
+                  <Position>1036.8 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament3222222232222222222</Name>
+                  <Position>1094.4 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament32222222322222222222</Name>
+                  <Position>1152 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament322222223222222222222</Name>
+                  <Position>1209.6 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>BottomLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Fancy Ornament3222222232222222222222</Name>
+                  <Position>1267.2 0</Position>
+                  <Texture>UI\iap_Edge_Pattern.png</Texture>
+                  <Offset>0 1</Offset>
+                  <Size>58 36</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterRight</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Button_Arrow_Right</Name>
+              <Position>-117 50</Position>
+              <Texture>UI\iap_Arrow_Silver.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>80 120</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Button_Arrow_Left</Name>
+              <Position>117 50</Position>
+              <Texture>UI\iap_Arrow_Silver.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>80 120</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+        </Widget>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>false</VisibleInEditor>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopLeft</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Screen_Confirmation</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Overlay_Dark</Name>
+              <Position>0 0</Position>
+              <Texture>UI\iap_overlay_dark.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>1049 693</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 200</Color>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Confirmation_Window</Name>
+              <Position>0 0</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Confirmation_Box</Name>
+                  <Position>0 -50</Position>
+                  <Texture>UI\iap_Button_Grey-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>446 187</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Confirmation_Message</Name>
+                  <Position>-428 -219</Position>
+                  <Texture>Fonts\0_andy_48.png</Texture>
+                  <Text>IK ZOU WILLEN dat je dit gewoon kocht. Please PLEASE. Please PLEASE. Please PLEASE. Please PLEASE. Please PLEASE. Please PLEASE. Please PLEASE.</Text>
+                  <Offset>0 0</Offset>
+                  <Scale>1 1</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Top</VAlign>
+                  <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+                  <CharSpacing>0</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>858 335</Bounds>
+                  <Color>0 0 0 0</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Button_Decline</Name>
+              <Position>0 0</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Confirmation_Decline</Name>
+                  <Position>240 189.6</Position>
+                  <Texture>UI\iap_Button_Grey-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>208 49</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Confirmation_DeclineMessage</Name>
+                  <Position>120 158</Position>
+                  <Texture>Fonts\0_andy_48.png</Texture>
+                  <Text>Nee Ik wil dit niet!</Text>
+                  <Offset>0 0</Offset>
+                  <Scale>1 1</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+                  <CharSpacing>0</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>309.8 61.79999</Bounds>
+                  <Color>0 0 0 0</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Cross1</Name>
+                  <Position>48.00001 157.2</Position>
+                  <Texture>UI\icon_closered.png</Texture>
+                  <Offset>0 0</Offset>
+                  <Size>62 62</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Button_Confirm</Name>
+              <Position>0 0</Position>
+              <Children>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Confirmation_Accept</Name>
+                  <Position>-238 189.6</Position>
+                  <Texture>UI\iap_Button_Gold-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>208 49</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Confirmation_AcceptMessage</Name>
+                  <Position>-319 158</Position>
+                  <Texture>Fonts\0_andy_48.png</Texture>
+                  <Text>Ja! Natuurlijk!</Text>
+                  <Offset>0 0</Offset>
+                  <Scale>1 1</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+                  <CharSpacing>0</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>269 61.79999</Bounds>
+                  <Color>0 0 0 0</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="SpriteWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>2 2</RelativeScale>
+                  <Anchor>CenterCenter</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>Icon_BuyButton1</Name>
+                  <Position>-422.4001 163.2</Position>
+                  <Texture>UI\iap_icon_Money.png</Texture>
+                  <Offset>0 0</Offset>
+                  <Size>46.50003 26.52225</Size>
+                  <Scale>1 1</Scale>
+                  <ColorPicker />
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\..\..\..\devTU5\Terraria\Content\</RootFolder>
+      <XResolution>960</XResolution>
+      <YResolution>640</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetList">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopCenter</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>credits</Name>
+          <Position>0 768</Position>
+          <Offset>0.5 1</Offset>
+          <Bounds>800 768</Bounds>
+          <ItemHeight>50</ItemHeight>
+        </Widget>
+        <Widget xsi:type="TextWidget">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>BottomRight</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>supportversion</Name>
+          <Position>0 0</Position>
+          <Texture>Fonts\andy_48.png</Texture>
+          <Text>Version # / support@505games.com</Text>
+          <Offset>0.85 0</Offset>
+          <Scale>0.5 0.5</Scale>
+          <HAlign>Center</HAlign>
+          <VAlign>Middle</VAlign>
+          <EdgeBehaviour>None</EdgeBehaviour>
+          <CharSpacing>-2</CharSpacing>
+          <LineSpacing>0</LineSpacing>
+          <Padding>0</Padding>
+          <Bounds>0 0</Bounds>
+          <Color>228 230 50 255</Color>
+          <RollOver>false</RollOver>
+          <RollOverColor>0 0 0 0</RollOverColor>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

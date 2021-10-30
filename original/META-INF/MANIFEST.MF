@@ -1,0 +1,4005 @@
+Manifest-Version: 1.0
+Built-By: 1.1.0
+Created-By: Android Gradle 1.1.0
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: GnT22Uh8XozObRvuJwbfo+2p7O0=
+
+Name: assets/panel_characterbar_iphone-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: nKaHZR/SZMMQaMr3tIMJk0K1+k0=
+
+Name: assets/texture_manasection_04.png
+SHA1-Digest: h2/MZXKdUDpZhRBsNGGos5OpyI0=
+
+Name: assets/Zombie_15.wav
+SHA1-Digest: vUIPnNMeVblSx36ZOUvwPTvi4cY=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: 9aVwwDJLurzAdd/0dY0hcfBsZLI=
+
+Name: assets/panel_textentry_sign2.png
+SHA1-Digest: 0SVECZT9IgRNzEYtKBv9n94DY28=
+
+Name: assets/panel_characterbarfb_ipad-n9.xml
+SHA1-Digest: QnoWXe+juS5mnO8AjvP9Rx5Vs4s=
+
+Name: assets/indicator_damage.png
+SHA1-Digest: KzL75bnOvmUTTFO2ePpatsYBhJk=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 2zGuWTNe/mXuDfUEMVNWpRpYsB4=
+
+Name: assets/options_menu_no_controller_small.xml
+SHA1-Digest: Q5MOHvt7ZlXd77A6hUBHpEkd7Xw=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: HSo66NSY39XTXO777pXaLU1UHYM=
+
+Name: assets/worldmap_large.xml
+SHA1-Digest: ySSFF7EEFpVUK4tBzA+ZYPRE5Fc=
+
+Name: assets/world_menu_large.xml
+SHA1-Digest: bcE0Vq3eWslqndzDmOjQ7tSPHbk=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: +bjkZfnp7jH8HvA5wzYQ85O04Ic=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: IuYI5vQjWWP1qL2ucpoSX2vYK8Y=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: xkhp1rcZD/R/IbP6gh4QPtAh5cY=
+
+Name: assets/itemwidget_small.xml
+SHA1-Digest: W2zpznA/nKegnx2SZg82yYd+89E=
+
+Name: assets/button_pausebig-n9.xml
+SHA1-Digest: cekUVZuGTWy81+qkqJ27wCyW3Dg=
+
+Name: assets/iap_Button_Gold-n9.png
+SHA1-Digest: Wz1xRrzljz/8yc8O33gbslGZaq0=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: AppXOewxC/QI7e8k90KnlawH5MA=
+
+Name: assets/softfont.dat
+SHA1-Digest: /Mt3hv3IH5w6DlGUdscCszU0iWc=
+
+Name: assets/Passcode_menu_small.xml
+SHA1-Digest: HZzXqGxak7N8CcTxCZnStFckhrU=
+
+Name: assets/Jump_2-old2.wav
+SHA1-Digest: rvBe8G3s9S315X2wxMArSIsvZ3Q=
+
+Name: assets/item_panel_trashdrop-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 8pvrUMgikaLGOMW8rQ65pwo3A2E=
+
+Name: assets/iap_Arrow_Silver.png
+SHA1-Digest: u/pansh09eB1FQRobBa8vzNVRDI=
+
+Name: assets/button_random_ipad-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/Logo.png
+SHA1-Digest: Sm7Izi0c0dA32e06O6QBjdEuaQ0=
+
+Name: assets/panel_characterbar3_iphone-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/button_cancel-rollover.png
+SHA1-Digest: C/2K0s9iGi4Se4KF5e8f1Wyh9T4=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: eBowFMNpfZGoRXjkZOZIgHNcz2w=
+
+Name: assets/VS_PositionColorTextureAlphaOnlyColored.glsl
+SHA1-Digest: xt+0Rj39Yr7ukcRz87cEN3IvpWI=
+
+Name: assets/NPC_Killed_11.wav
+SHA1-Digest: zTrdoUb2djv1UsMWrqjxzvjkX7A=
+
+Name: assets/item_panel_quickbar.png
+SHA1-Digest: eEiLQgMrl37jPM5OYW0qhC4GeBA=
+
+Name: assets/Shatter.wav
+SHA1-Digest: Q5mWrxvKbRzaCGUkZ/aMeXeAD5s=
+
+Name: assets/play_menu_small.xml
+SHA1-Digest: DkY5NADid2etf0yHcZ8kkABzB04=
+
+Name: assets/achievement08-rollover.png
+SHA1-Digest: ka4KvH6YZ8dkkZgWznii/fTlyGg=
+
+Name: assets/pause_menu_wp8.xml
+SHA1-Digest: TOe1t49yqL805H0M6uL9gdokwto=
+
+Name: assets/joystick_area-sword2.png
+SHA1-Digest: d2Ys7+BHu/7wwEeyqR37UG0186Y=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: dgOODFlTpfHDDTUL6xuLQSdAG7w=
+
+Name: assets/button_arrow_left-rollover.png
+SHA1-Digest: MtZTB9cOE6CnNkStO15jfbbmfrc=
+
+Name: assets/0_andy_48.png
+SHA1-Digest: GHnpaTW7m4HPjtulSys2jtruKAA=
+
+Name: assets/PS_PositionColorTextureAlphaOnlyColored.hlsl
+SHA1-Digest: cXgIVYxgPO72fbo+tUkHNdARmDg=
+
+Name: assets/indicator2.png
+SHA1-Digest: wB9yic5RI+iwsxfjIu8wi5pMsPY=
+
+Name: assets/VS_Sprite.hlsl
+SHA1-Digest: mPjHa2sY9G9S/ReueF/Y/m5bZ1I=
+
+Name: assets/PS_Negative.hlsl
+SHA1-Digest: QVgNvUgaXHfbni6xXKkl/9U1kkM=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: IVjsZMMVr/ce0JFlSQDbVTn2lZ8=
+
+Name: assets/menus.guiproj
+SHA1-Digest: HFQXEFkBsiRvLvqNNTkXn+ae7rE=
+
+Name: assets/button_pause-rollover.png
+SHA1-Digest: iP5Eu5vbLv6NPvDVJI1l+5nt6xM=
+
+Name: assets/panel_npc.png
+SHA1-Digest: tCPrnY+Uj06i9PY4HVTH2TiDnoE=
+
+Name: assets/PS_PositionColorTexture4.glsl
+SHA1-Digest: WuOBjPanUYICzFmdcdjr/1pX8pM=
+
+Name: assets/ingredient_panel.png
+SHA1-Digest: VWAfADDthhoWqDFLQ2XobHEUnFw=
+
+Name: assets/button_create-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/item_panel-rollover.png
+SHA1-Digest: kcUddC1irfWoEMDufLuK4aqkLCU=
+
+Name: assets/item_panel-rollover-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/Item_33.wav
+SHA1-Digest: VZ65Zk7Xi01AmvlR9P8cJ66ExDE=
+
+Name: assets/NPC_Hit_5.wav
+SHA1-Digest: H7qOR+ZUUTLHFRir7orDhCLRzSs=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA1-Digest: iN/uNjBfhVbAIr76ujTy7rKk9Iw=
+
+Name: assets/icon_closered.png
+SHA1-Digest: fmX2T19KGilDzNbCgT4eOgVQhn4=
+
+Name: assets/item_panel_quickbar-big-rollover.png
+SHA1-Digest: eP4hT0RRy3AtF9E7cApqEUPrIbY=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: y5NEiGadCzArYseq09UiAUCI9Ys=
+
+Name: assets/world_menu_cloud_console.xml
+SHA1-Digest: cuXFramXqnsVE1ZoZQIwdR1Boy4=
+
+Name: assets/ruLocalization.txt
+SHA1-Digest: VK50sucmv492PQuCT0n/uXkbnCE=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: h7hNXJrcbvKMv9bbGrTrvd0dOgs=
+
+Name: assets/pauseoptions_menu_wp8.xml
+SHA1-Digest: yjoU93GZeMkjqk5mc6mbE/lU6sw=
+
+Name: assets/character_menu_cloud_large.xml
+SHA1-Digest: OO2JqayDzEStwMs9dkTC4bw7A3k=
+
+Name: assets/iap_Edge_Silverbar.png
+SHA1-Digest: aBn1NKbDS3DNaKWOPYGbbWv64zU=
+
+Name: assets/Tink_0.wav
+SHA1-Digest: C5wwVszU1AfHuAb34r9nKl2X3lk=
+
+Name: assets/NPC_Killed_10.wav
+SHA1-Digest: 2yTatnPkz79biIma1iisMiV5WRA=
+
+Name: assets/NPC_Hit_3.wav
+SHA1-Digest: WXQmCmjeqvXluNkHHh1qCByGA+g=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: NNwe3FKHs47gjoFv3kwcJmKiUOw=
+
+Name: assets/itemwidget_console.xml
+SHA1-Digest: bqnEP+EXtpYDVj/fKW88BSCrEKw=
+
+Name: assets/Jump_1-old3.wav
+SHA1-Digest: I0YXnKKouFx7hggva05hODTfKKI=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: nRtiU5b/2GCMrB/FhPJC0XFk+lU=
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: uyottmZzDUEWjbHtQsMbW4FWg88=
+
+Name: assets/panel_characterbar3_iphone-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/leaderboards_menu_small.xml
+SHA1-Digest: xM/RnNeNsEzh8JrfQzUVHl5ys9g=
+
+Name: assets/redslot_highlight.png
+SHA1-Digest: 5MChIqiyZttVCvQUaad8EH6Q2NM=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: shNXHm8u9RHC3HS/vCs37ZzB16A=
+
+Name: res/layout/abc_action_bar_view_list_nav_layout.xml
+SHA1-Digest: xhl+ifECeDY63eOKXOJ4BHWZ3HY=
+
+Name: assets/NPC_Hit_1.wav
+SHA1-Digest: ABFfWH6oCJWGQTR+FlI6oFsy/oY=
+
+Name: res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: rDjkEjKiK/nrEgQWcUD2KRvUbLk=
+
+Name: assets/main_menu_large_japanese.xml
+SHA1-Digest: u2ti/0OWZbpPTVIJyiKqdYTu12w=
+
+Name: assets/MaxMana.wav
+SHA1-Digest: OdTJKd4PYYLoN6ms2g5hlN/ul5Q=
+
+Name: assets/Player_Hit_0-old1.wav
+SHA1-Digest: KUZ6JpAjc9xD/CUgRxaHoRr4Y3s=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: oHKnBBbWgjP4o7A/6GgdHOh1E3M=
+
+Name: assets/buff_temp.png
+SHA1-Digest: vzmS/L7ENZsGaDQT9ZTdIw1Oo1E=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: YBdDQbyB2IFfhjwKI6NSPOXqz7g=
+
+Name: assets/iap_Frame_object-n9.png
+SHA1-Digest: hIktHR5CH8BckHmUQKB8yA5l944=
+
+Name: assets/pause_menu_ios_small.xml
+SHA1-Digest: MA/plbTkEHX+x7zXxSpJXVSNnI4=
+
+Name: assets/character_menu_console.xml
+SHA1-Digest: X5Vt0ncs0+QaJMvQRMoURuQs9UQ=
+
+Name: assets/main_menu_small_japanese.xml
+SHA1-Digest: PNwtJHZuxonNsCR9C+DOZPjOt8g=
+
+Name: assets/leaderboard_button.png
+SHA1-Digest: V2hlxGIcvQxJt0BQpMHlaKZxDhs=
+
+Name: lib/armeabi/libTerraria.so
+SHA1-Digest: uXQcS2vOm8KekHiiFXJDd/1yMUU=
+
+Name: assets/icon_gamerscore.png
+SHA1-Digest: mR3ubLR1WNK2EnbGrgesLXquzlo=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: 5mBeXI9LxIQsdnWUicqJekxUrnI=
+
+Name: assets/button_create_iphone-touch.png
+SHA1-Digest: aGjNBypJKlbiUtA2eM2qyPCh3ek=
+
+Name: res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: KVPasUIEwylEuHQRSTZ6eGpVtYg=
+
+Name: assets/leaderboard_button-rollover.png
+SHA1-Digest: oOBw8mTX5Z9KZMPWfO7aJmLxbF4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: assets/iap_menu_small.xml
+SHA1-Digest: 5+slCqg9936FVLJJw+kJNM2eqqM=
+
+Name: assets/button_square-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/TrashWidget_large.xml
+SHA1-Digest: genSVcjW4gONoIGUdeFZeBsTRN4=
+
+Name: assets/Item_39.wav
+SHA1-Digest: JIybJWMgEJ8LFP2Y6cAeLQt6Ff8=
+
+Name: assets/button_square-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/craftingstation_panel-rollover-n9.xml
+SHA1-Digest: iRYnsiu7SBSRthp6/fNkAQWUwL0=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: ZliTihZ+8kHBA4SfvPIPI00Y7uE=
+
+Name: assets/Error_Button_01.wav
+SHA1-Digest: SIIZw4cKq6WV7RQ/padp2E/uz4o=
+
+Name: assets/icon_blocked.png
+SHA1-Digest: uN+XxfObnr6t7lG6UGkF4KlvnL4=
+
+Name: assets/main_menu_trial_large.xml
+SHA1-Digest: rmwzQS3DqBBzUjCNLruaCi9ZHp4=
+
+Name: assets/icon_stacksplit.png
+SHA1-Digest: ZuV37Y0JIybyL/2vvvBQq2U2H3g=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: Zpm+uanjIZounXjdWPevociI0a8=
+
+Name: assets/achievements_menu_wp8.xml
+SHA1-Digest: UcJ0Z20mRSGpB1qCcB2HX6MY4dA=
+
+Name: assets/PS_SpriteAlphaOnlyColored.hlsl
+SHA1-Digest: RzyrNXxBVX+qBlQZnOq/lLuhiCE=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: I0fJnm2C40ttgRLhK8Lu19+8io8=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: pf9NIIotZsMzZhGmwThV2jglFL8=
+
+Name: assets/achievement10-touch.png
+SHA1-Digest: NPte5cFwLOUtnwNgJiOvxbR4wko=
+
+Name: assets/main_menu_trial_console.xml
+SHA1-Digest: K+Ow3CesqnCATxFcpMfGSxtwXnM=
+
+Name: assets/button_pause-touch-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/panel_characterbar2_iphone-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/achievement03-rollover.png
+SHA1-Digest: Mwo50wkqFHqb39utAVaYC3FOk3I=
+
+Name: assets/icon_quickStack.png
+SHA1-Digest: UhrSpXVN2YskKyQ6nG+/7Lwf3AQ=
+
+Name: assets/achievement12.png
+SHA1-Digest: NDWZgXvp1Jxmjo+Y9hPN+iyJG30=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: NhV2sZqVWW5UUoJmNFGXO3uM/A4=
+
+Name: res/drawable/abc_ratingbar_full_material.xml
+SHA1-Digest: sIaPXAHGiBMELuBD5M8P4eT7kgE=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark
+ .9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: assets/Zombie_11.wav
+SHA1-Digest: NKJEQaCdSQQrIJn/Ev0R2mXRuic=
+
+Name: assets/splash_codeglue.png
+SHA1-Digest: f4a9bgJJ08YaPPeJcRCAtbVG/hU=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: f8NYPVOXcYBwuQSENH+eJEOJeV4=
+
+Name: assets/Item_32.wav
+SHA1-Digest: K8bbecGXwgNiCbjj+nbRVXNMlfA=
+
+Name: assets/Item_46.wav
+SHA1-Digest: QIv/3AzKrZHALU5FmmI+aR+4wUM=
+
+Name: assets/Player_Hit_0.wav
+SHA1-Digest: QvBX7mf2rFWemgw3quseONCkRqI=
+
+Name: assets/indicator.png
+SHA1-Digest: HyEkjVflZ7yaOD9keohW5Mp5eBA=
+
+Name: assets/button_create-touch.png
+SHA1-Digest: rj+7mOsIwT4Iz7/0chsnbUc8/Go=
+
+Name: assets/panel_upsell_ipad-n9.xml
+SHA1-Digest: cekUVZuGTWy81+qkqJ27wCyW3Dg=
+
+Name: assets/icon_chest.png
+SHA1-Digest: A0Jkjp2lABc8Yj09YhRDeroikVY=
+
+Name: res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: QHJrTKnGAS7xrsv3f4q+dcGKg1g=
+
+Name: assets/texture_icon_charcreate06.png
+SHA1-Digest: 5deje5clvUfu7sBU1+u7Hv7stHg=
+
+Name: assets/LoadingSplash.png
+SHA1-Digest: Tm6mjvpjDXlpmhlC1bpG6GVqeCQ=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: eKx4ZX8uxPQScA0cj5eCO2+ZgJw=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: yxZIFKBp76nmHvorGMDxToR03xw=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 1BuFFGqXKd2oLlGoMWaCcT0oFug=
+
+Name: res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: J10MbRypNxo+JeKfGf61OMkWgdY=
+
+Name: assets/panel_crafting-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/button_gplusbig-inactive.png
+SHA1-Digest: QPP41EyXnZoL+92LIgnDTWJJsTY=
+
+Name: assets/iap_Arrow_small.png
+SHA1-Digest: 8FC17wF9+kQv4hrJtXwwoGw2ZCE=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: amTHp+ttVms8n2SMceDC8FO0aqU=
+
+Name: assets/panel_charactercreatorbar_ipad-touch.png
+SHA1-Digest: mZ8fjzi/NNJLZewZdRp+OxmmlJs=
+
+Name: assets/icon_craft04.png
+SHA1-Digest: Qf6NfH0VgzMK1FHGtDq5SLWIbYg=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: PqTpPBDW7Mw+tiTo97Mdprm+VVU=
+
+Name: assets/splash_raknet.png
+SHA1-Digest: C0m5jLkOD1u0JaWq2zd25tG7VGI=
+
+Name: assets/achievement09-touch.png
+SHA1-Digest: eslnO5cnWziTclNq1A8SEFkDaGM=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.pn
+ g
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: assets/hostgame_small.xml
+SHA1-Digest: oW/JEKN2mmo24uIkdFbfGvFCv2M=
+
+Name: assets/header_bar-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: +W21ZNQRN0oDMKb9p9oNUq/o5as=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: PqzD1Bva41x/4FJI5xe2uDeGmiE=
+
+Name: assets/texture_icon_charcreate09.png
+SHA1-Digest: MMFTk3or4RBnV2GcJ08yaDq8/Ws=
+
+Name: assets/multibutton_ipad-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: PQepBgnG9/NfWmEsB0xZninuUKM=
+
+Name: assets/iap_icon_Money.png
+SHA1-Digest: JOCp+w/+ixKsakntntbbFUUoCsQ=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: l8EI8skn68wNTc/ak4rIUV30BMw=
+
+Name: assets/Pixie.wav
+SHA1-Digest: oA6QI0YKzUUp9WHYLTKXQty8GHw=
+
+Name: assets/icon_save.png
+SHA1-Digest: d/kaToIA+Ozv6lI1ciGwCe/tyt8=
+
+Name: assets/iap_Edge_Silverbar-n9.xml
+SHA1-Digest: pZGdiVX283nHHlKbr7vG+l5cd3Y=
+
+Name: assets/andy_48.dat
+SHA1-Digest: Du+OkSaSkTLINXbTht0xWOp5IYo=
+
+Name: assets/NPC_Killed_15.wav
+SHA1-Digest: fkjc17foszl9EEofdptlB19Dqus=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: Cv+J7vU8p5tdCif6GMDKlPPRC6M=
+
+Name: res/drawable-hdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: SBKgHrI8+WG2Q5nUL763ra3tcmc=
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: VJa6PrhxyIRS2huzDuIN1KH+I2c=
+
+Name: assets/PS_ColorizeGradient.hlsl
+SHA1-Digest: f2+Rgf6urylrjboKoAALOzgE6yQ=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: hqxe2Ap9MZsAqBPDoV+yim7NXFM=
+
+Name: assets/Double_Jump.wav
+SHA1-Digest: 5aM4MlJuH3D2o5/tuFOBmp7l7x8=
+
+Name: res/layout-v11/abc_screen_content_include.xml
+SHA1-Digest: t5N19514VltkmIIHkN+ObPZByqk=
+
+Name: assets/NPC_Killed_14.wav
+SHA1-Digest: 7yx3FUtvgSfjfc5dD3mnnyBiGjA=
+
+Name: assets/options_menu_large.xml
+SHA1-Digest: WIeZhhvdWzRV8QWCSocmUO0/A3Q=
+
+Name: assets/Player_Killed.wav
+SHA1-Digest: egLteTw7V38fBoqFiPszgYaP48M=
+
+Name: assets/button_random_ipad-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/icon_team.png
+SHA1-Digest: lDn1ZHuLO0GL2bLrOdekJy05ZcM=
+
+Name: assets/NPC_Killed_16.wav
+SHA1-Digest: CN8Xrxpdfwt1j5Q3ndGovaBVXYE=
+
+Name: assets/Item_36.wav
+SHA1-Digest: F5/Syzq2mf/Jvq9cKCVxzAHib64=
+
+Name: assets/multibutton_ipad-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/Zombie_18.wav
+SHA1-Digest: 3VHV/LaQyQsVmR6RfRYB7CpK02s=
+
+Name: assets/Splash_0.wav
+SHA1-Digest: EQxj6pNUB1MGVoCBDpKjaGODyuU=
+
+Name: assets/Item_15.wav
+SHA1-Digest: h3xLer6yhUBkvTjXxa1S2V9eH7M=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 2gdfs4MdNrmZ5fPzRYQKwf3z8nA=
+
+Name: assets/Zombie_0.wav
+SHA1-Digest: OLCLp2HvVIAaz0GRUXq0ni1PMl0=
+
+Name: assets/VS_PositionColorInstance.hlsl
+SHA1-Digest: FMbKwohjcuN+giNYFZhLDQQRp5E=
+
+Name: assets/main_menu_trial_small_japanese.xml
+SHA1-Digest: TR9Y48L8HVHgdpIIdonwwPz3j0g=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.pn
+ g
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: assets/multibutton_ipad.png
+SHA1-Digest: HQiYAcdZ9k3X9jKKd21+F85yc8w=
+
+Name: assets/multibutton_iphone-highligh-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: dHrJLOCrsWTa/lKq15rpkuaM2bk=
+
+Name: res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: 6eRtpYyE2B45gWd2aZtCG4kO5FM=
+
+Name: assets/character_menu_cloud_console.xml
+SHA1-Digest: Yx951H98sfNBkBPZBnaP/QFEIlc=
+
+Name: res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: zND8CPcT8wBLOji5D5ZGNvi5kR8=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: rG5iJ8LJqs0d2oExcr38IP+z/7s=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: H3IfE7NWe2qX8Lw8zD2tmCu/mjk=
+
+Name: assets/Terraria-iOS-Game-Icon_76x76.png
+SHA1-Digest: RC0v0Zurs1lKpFGD48WxhP5/UZs=
+
+Name: assets/VS_ColorizeGradient.glsl
+SHA1-Digest: eFcfGqldWVCdN3Maoi9sxGyMa00=
+
+Name: assets/Gender_Male.png
+SHA1-Digest: 7bqFpLum52A97F1FHiIaLK6vdAM=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA1-Digest: ODxlqCsHPkUQSgGjmjijrdga9AM=
+
+Name: assets/character_menu_large.xml
+SHA1-Digest: KSSaiefXmfJfaHmq3atvc0oBYt4=
+
+Name: res/drawable/spinner_12.png
+SHA1-Digest: uMOyHLtZhC+XOzmLS8oHZUfHxUw=
+
+Name: assets/icon_house.png
+SHA1-Digest: 7xvnqoZk7Kg3qFTl49HHcRcsViI=
+
+Name: assets/icon_pause.png
+SHA1-Digest: 5mLHS/V8xHvZYKMi1zeoAF8ojpg=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: 7cbhDCczI6UqNznVjRassusJFiA=
+
+Name: assets/panel_upsell_iphone.png
+SHA1-Digest: urCl+eCba3lUmfX0MS24HLajcwQ=
+
+Name: res/drawable/world_icon_tif.tif
+SHA1-Digest: oahGArZ+Y71A4WDh0cN9SmBgZyk=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: I2JJHnuKjt9jtF8C76fBatEScaE=
+
+Name: assets/color_block-n9.xml
+SHA1-Digest: EaPjp8vf7e4NS2pqfpaTCjueDJA=
+
+Name: assets/main_menu_wp8.xml
+SHA1-Digest: oPBsPBAfD6svAbmB/+7dwrutSGY=
+
+Name: assets/console_toggle.png
+SHA1-Digest: yitHa+RDXl2LiwiGGEo5p/8H8Pg=
+
+Name: assets/texture_heartframebig_full.png
+SHA1-Digest: mJkAecUgoVjfB7d6St/Im9oBi4g=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: 6kDKAFhVEOkC4+4MhYD3DT/HWTY=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: T5slVQklwytRhhFRjSw66UZR3vQ=
+
+Name: assets/iap_Thumbnail-n9.png
+SHA1-Digest: xh6og441ajkeLMWMf87N8KwwJ0k=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: StjC3BA1LtHVLp7GTDic4k0PU08=
+
+Name: assets/craftingstation_panel-highlight-n9.xml
+SHA1-Digest: iRYnsiu7SBSRthp6/fNkAQWUwL0=
+
+Name: assets/iap_icon_Close.png
+SHA1-Digest: H49QB1iFcGsi+kwraLBg8oqAy6A=
+
+Name: assets/achievement01-touch.png
+SHA1-Digest: denpbvb0Fj/d8plJmhS0g+XfXYg=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: c6UHlDP2WF/CTLcgoeTY3w+h0DQ=
+
+Name: assets/button_pause.png
+SHA1-Digest: pioRxeoXxiGca15pv+tHj/2svTE=
+
+Name: assets/NPC_Hit_8.wav
+SHA1-Digest: RfNxKVRhsgRkaTGS/1/w6rXlIi0=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: B+cN6iKZSO8ykyZHYqOhXoO7dJA=
+
+Name: assets/button_record.png
+SHA1-Digest: o6oJgrBwo/Jf74HcJdelnisWgtw=
+
+Name: assets/PS_PositionColorInstance.hlsl
+SHA1-Digest: ipqDw9YlG8h15li1XaxfMMKAQtQ=
+
+Name: assets/icon_craft03.png
+SHA1-Digest: S+Dk/m7DNSEmBgc45Ae2U5Q+89A=
+
+Name: assets/list_fade.png
+SHA1-Digest: ephy7L8rd0JbV/EoW4SmMz0ioy4=
+
+Name: assets/loading_console.xml
+SHA1-Digest: Jq3nuCI1ZHnw8VEjOCeB5FSRktQ=
+
+Name: assets/panel_characterbar_iphone-touch.png
+SHA1-Digest: D4Go3iCXLbh4uwX/6ueOylhVgj8=
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: nNpQ2cq1fhlyzVMZB6yre+ujuJw=
+
+Name: assets/PS_PositionNormalTexture.hlsl
+SHA1-Digest: 2PorWM62S28LS29AKQsg/AvvkUg=
+
+Name: assets/iap_Edge_Silverbar-n9.png
+SHA1-Digest: QipBDXKIQTYK6hue1Bgr45JbOyc=
+
+Name: assets/tabsmall-rollover.png
+SHA1-Digest: A+4f7IGXW7m++ANmeiMzQfQlhh4=
+
+Name: assets/Zombie_20.wav
+SHA1-Digest: NikPQjVu6fzAjTyBurY6IUrBQDI=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: BoLkfiIFe77i34exfP7BramG/ho=
+
+Name: assets/icon_menu_record.png
+SHA1-Digest: Tu2dPpvtXovwmY5cO6mQeOM25SM=
+
+Name: res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: E74c3aj78MFnidZIhyjcbYdMtVs=
+
+Name: assets/icon_trash-touch.png
+SHA1-Digest: eblh3Q3bdf3C7eItIrtdie6JPIo=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: Hbv8fxGq/mrRENo8y7tSa5jsUD8=
+
+Name: assets/Player_Hit_1-old1.wav
+SHA1-Digest: aIYlEA7Monrz/QCfRqSwP0RZRTo=
+
+Name: headtracking-filter-api.txt
+SHA1-Digest: Vj4uRdLje7i5RGqyP9+aaCOK4dU=
+
+Name: assets/VS_ColorizeRainbow.glsl
+SHA1-Digest: eFcfGqldWVCdN3Maoi9sxGyMa00=
+
+Name: assets/button_gplus-rollover.png
+SHA1-Digest: /EBQ3dJwoe7iD+O56NBaadk0/ss=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: tzTcef8Cl/GZ8VQZxEe7wkiF/yM=
+
+Name: assets/button_random-rollover.png
+SHA1-Digest: fH/FW+ImWaRsVWO3p6eI5mgfmVg=
+
+Name: assets/Drown.wav
+SHA1-Digest: msX99Z1eZDEKt57NTTl4LLNvChc=
+
+Name: assets/panel_characterbar_ipad_inactive-n9.xml
+SHA1-Digest: EaPjp8vf7e4NS2pqfpaTCjueDJA=
+
+Name: assets/Female_Hit_2.wav
+SHA1-Digest: ZKuNq78DVEeHq02VEfiO1N5FPPw=
+
+Name: assets/panel_characterbarfb_iphone-touch.png
+SHA1-Digest: R84Uc1blwC7Rgd4p3gWn5ldETo0=
+
+Name: assets/Dig_1.wav
+SHA1-Digest: HEEM/9NKQONUkEmRc0TA8tN7QfA=
+
+Name: assets/item_panel-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/loading_icon.png
+SHA1-Digest: ySQkShtT0kN52Z1DYtM+xX+5NvI=
+
+Name: assets/button_square-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/button_square-touch.png
+SHA1-Digest: mx7aobzbma8l6L4Q7lXsq38fg1g=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: lE9emiDkxOmBmaNeDovU1EZQC2A=
+
+Name: assets/Item_11.wav
+SHA1-Digest: R59we3vSD8faJrAkGsvDxusJcPI=
+
+Name: assets/Item_20.wav
+SHA1-Digest: WYaDsBw/9/pCNOqwAnjOHO4QCdw=
+
+Name: assets/button_halfbar_ipad-touch.png
+SHA1-Digest: ZjZaE4oWIhvm0ouEm1mFCEl4ZSk=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.
+ 9.png
+SHA1-Digest: 3u3fLmehvZBhy/5ikwcph94VGWM=
+
+Name: assets/VS_ColorizeSilver.glsl
+SHA1-Digest: eFcfGqldWVCdN3Maoi9sxGyMa00=
+
+Name: res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: RwOTCkvoy8JfKjFQZXnNiOHbxpQ=
+
+Name: assets/itemwidget_ingredient_large.xml
+SHA1-Digest: udnxzlJ9WOqIPuX5AOESz7DBM4U=
+
+Name: assets/header_online_iphone.png
+SHA1-Digest: Z/q8Qxsu496ldBd6R6j1iZykXfA=
+
+Name: assets/Item_48.wav
+SHA1-Digest: 0ubcxdDbHY5CQxucdPdjwSYcjig=
+
+Name: assets/button_halfbar_ipad-rollover.png
+SHA1-Digest: xDWo2NqsQGwFbnxvWT/PzTSbe2w=
+
+Name: assets/panel_characterbar3_iphone-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: GcBbKJcMWdQ42ssCQexb9kGH6us=
+
+Name: assets/item_panel_quickbar-rollover-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/multibutton_iphone-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 8UdqvLb0HOmVMH2qCnY9uOrXQWM=
+
+Name: assets/achievement07-touch.png
+SHA1-Digest: b6addgEm+I7xMR2EeJVPLnDC5uM=
+
+Name: assets/achievement11.png
+SHA1-Digest: SSQ94WH+9X1h7ZH8YA/2futRInI=
+
+Name: assets/deLocalization.txt
+SHA1-Digest: J8rUVa8p95zY6TEUj0spYroUU8s=
+
+Name: assets/texture_heartsection_04.png
+SHA1-Digest: WfH6r+7xTkuRmUn7M9p0s+pZFF0=
+
+Name: assets/Item_34.wav
+SHA1-Digest: CxLu/kjKSApGgNskO2VKQDBPd+Y=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: T7jCCqaBHZydFrghJhlARmdI7xk=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: v0iWBlI5czWXCEaTRPjNNmieAL8=
+
+Name: assets/icon_SfxOption.png
+SHA1-Digest: O59ulSImri76tUhPNUktzDBOrtY=
+
+Name: assets/Green-n9.png
+SHA1-Digest: oJa3PGqBGgr5Fz7s1vSVrxpm94M=
+
+Name: assets/Thumbnail-n9.png
+SHA1-Digest: seWzxwYdGdFQeW/aVgtKBMga2GE=
+
+Name: assets/Logitech_Controller.png
+SHA1-Digest: TZofg5o0I4DAY2CRI0ldlvutJY0=
+
+Name: res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: ZyFTNu8NFk5e/z1RVkprfr1u2DU=
+
+Name: assets/achievement04-touch.png
+SHA1-Digest: +DtKmEdE7ZRpCaO5UCcRud1gDDQ=
+
+Name: assets/iap_menu_large.xml
+SHA1-Digest: yluDT02zWjYhOQo6tEgfzhzKYHk=
+
+Name: assets/button_upsell_ipad-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: IQigDcUqx/ZENd/r5p3e7r0Ftvc=
+
+Name: assets/player_console.xml
+SHA1-Digest: Aoyvj9+gtI27gx06oNSglu5YwHc=
+
+Name: assets/panel_charactercreator_iphone-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ZCWbX0fQHZsWK6AU9JmOADI6oXA=
+
+Name: assets/iap_pack_small.xml
+SHA1-Digest: +v1QnjKU74MANJwUUCot+mm8M0E=
+
+Name: assets/leaderboards_panel_icon.png
+SHA1-Digest: WG90K5jkjZyReqgxfAHfi/AgdnY=
+
+Name: assets/Jump.wav
+SHA1-Digest: jr6ZE6SjlWcEG3H2a7cInqmpKuw=
+
+Name: assets/button_gplusbig.png
+SHA1-Digest: aoJ6IE/CNfdLI54l0Et/16+skuQ=
+
+Name: assets/iap_Button_Gold-n9.xml
+SHA1-Digest: 9G3XNWootEZAdASynGTxErXxYsA=
+
+Name: assets/VS_SpriteAlphaOnlyColored.glsl
+SHA1-Digest: 4hkA8sgfu5IUtO0j3rFA02MtwfU=
+
+Name: assets/confirmation_panel-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/button_upsell_ipad-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/character_menu_list_large.xml
+SHA1-Digest: 8U1tQ23HInNwCCvx/KavX9rflb0=
+
+Name: assets/joystick_area-projectile.png
+SHA1-Digest: BksagRWb6H/B2FzQPK49tsibpb8=
+
+Name: assets/multibutton_iphone-highlight.png
+SHA1-Digest: ELKCudJ78qihyBiWI5yTQJGZx9g=
+
+Name: assets/NPC_Killed_8.wav
+SHA1-Digest: SQf+ejH7ioyUy2MdVCNak3u8zrI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: pBR99OG39RSH5mvInfhWhS5HH80=
+
+Name: assets/color_block-rollover.png
+SHA1-Digest: 50lvmpiGNwyQrhcG2ILhoP23E7Q=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA1-Digest: CILGEhkwmHl8m0qG9HNRBg8a+8E=
+
+Name: assets/NPC_Hit_7.wav
+SHA1-Digest: 25wr8XsiMeYmhrf3yqy8ftKTO78=
+
+Name: assets/Item_4.wav
+SHA1-Digest: 6jkfMowqc2qfPKFYhLUNrS0ZDp8=
+
+Name: assets/Zombie_3.wav
+SHA1-Digest: xejwz2i5T1KshqUY50nmAtO+iNU=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: tbKOWkoq8X/O9SqZLE2Z7VwIrfw=
+
+Name: assets/leaderboards_menu_large.xml
+SHA1-Digest: ObVLqwUCgurQUBLx8NXhq6MXfrg=
+
+Name: assets/upsell_console.xml
+SHA1-Digest: 7PODjdwWRhG/GV+YiZY5Wu2/2B0=
+
+Name: assets/tutorial_panel-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/panel_characterbar_iphone.png
+SHA1-Digest: hhhEQA9dMn4NuiMxIn1sg1t71Y4=
+
+Name: assets/button_square.png
+SHA1-Digest: y6eNK12IGjKgd1xWnSL9c7GbHjs=
+
+Name: assets/options_menu_ios_small.xml
+SHA1-Digest: +0sXDRc2ps/aMtr29KeP1tamWBA=
+
+Name: assets/button_create_iphone-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: QZ9FkSY1uLrLNUoYvFP8D6yQGLQ=
+
+Name: assets/buff_border-n9.xml
+SHA1-Digest: cekUVZuGTWy81+qkqJ27wCyW3Dg=
+
+Name: assets/Zombie_16.wav
+SHA1-Digest: ZL5FDPQM7gJsY+9Ux6EkcfvbEQc=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: it2AchlJHAokbNYNewkIV+Zzdm0=
+
+Name: assets/NPC_Killed_4.wav
+SHA1-Digest: A1ItpMM8uLNQmDSaMgV6DaC2kIk=
+
+Name: assets/world_menu_list_console.xml
+SHA1-Digest: uw55suCcOfAU7lTx498CpYktbJ0=
+
+Name: assets/worldmap_small.xml
+SHA1-Digest: 8hMYglAN+NC8LgFJ9fh5WOwZwsk=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: YsHF4VJihRr1oEZ76cu42zsHjek=
+
+Name: assets/button_pause-touch.png
+SHA1-Digest: zFmOVJxfM755XKGxfOSSRIKNMFw=
+
+Name: assets/VS_PositionTexture.hlsl
+SHA1-Digest: rP7pmrXgzFNe5KiIfECYXjbtQa4=
+
+Name: assets/PS_PositionColorTexture.hlsl
+SHA1-Digest: UWWadrXMomRxSngT7WHYJO7OkIs=
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: MTJWZc22b5LNeBboqBhxcQh5xHQ=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA1-Digest: 8rMcHets/V6/fzt3gsFk/9A6qaw=
+
+Name: assets/panel_characterbarfb_iphone.png
+SHA1-Digest: yB0DmC5wRWpSct+4pRUbYqCbAmk=
+
+Name: assets/splash_505.png
+SHA1-Digest: oJwrOnnBRvo/a+ptV/2B3mE3dlA=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: WYYEXP9zXPHmkO70T8BA20aSj+U=
+
+Name: assets/button_small-rollover-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/online_console.xml
+SHA1-Digest: r5D5HKMJZjZvKYy9lg8h+etiS5c=
+
+Name: assets/panel_characterbar3_iphone.png
+SHA1-Digest: fn7EjbcKVmjLWo+JIt+gDTqf85Q=
+
+Name: assets/panel_characterbar3_iphone_inactive.png
+SHA1-Digest: ecqbEhHPM/KcwunjpOaMgAFlQbQ=
+
+Name: assets/icon_music.png
+SHA1-Digest: iCL4S3Cb6xPXsOXvbB9Pif737Hs=
+
+Name: assets/leaderboards_entry.xml
+SHA1-Digest: Rqv4iole9Y3Dhk7SSCxZa2D/yoU=
+
+Name: assets/PS_ColorizeBlack.glsl
+SHA1-Digest: 251ySJZmy2uUA1X6qI0gpo6i3p0=
+
+Name: assets/VS_PositionNormalTexture.glsl
+SHA1-Digest: WxT0pjPKlGDrpb4m2ngEhd5uMzE=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: BLQq1kPx0/JPxPxgp/MrxD6Ft1Q=
+
+Name: assets/NPC_Killed_2.wav
+SHA1-Digest: pYVXIofNvsjqQewnT94A2+VGIkg=
+
+Name: assets/icon_loot.png
+SHA1-Digest: OzHVnsNZgEi5RyZEsQBZntTn6pk=
+
+Name: assets/Zombie_9.wav
+SHA1-Digest: s3VpqkydSlv8D+Bpn3dp6aFBi/M=
+
+Name: assets/button_upsell_ipad-touch-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/Item_27.wav
+SHA1-Digest: aWAgBWIWOcFG974ifR3ffliKn9w=
+
+Name: assets/Mech_0.wav
+SHA1-Digest: NPj9ywO016QA3fAb+j1GU2bBKRk=
+
+Name: assets/button_small-touch.png
+SHA1-Digest: IJ1yY1a7k9eISawu+C+Xs4KzmaI=
+
+Name: res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: VGMW9qiaWlu7OsYPKl/hPbRdfs8=
+
+Name: assets/api_key.txt
+SHA1-Digest: Jh1rxbxjC9ebRtP42BV36UnVMh0=
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: j4YCzt0aE3XiVuR90dIkNXUHnHE=
+
+Name: assets/button_pausebig-touch-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/item_panel_quickbar-touch.png
+SHA1-Digest: +qpsOl5ck5ejlsOyeD/Dy6QXJgM=
+
+Name: assets/options_menu_no_controller_large.xml
+SHA1-Digest: YHV8Y8cQGGBfruOdSTKXdl+fRMU=
+
+Name: res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: sSd73UlwBBESVH63lNNrS2c8dsI=
+
+Name: assets/TerrariaUI.pack
+SHA1-Digest: G1dRNjqUigK8F5+mDdkreTqMy8g=
+
+Name: assets/button_arrow_left-touch.png
+SHA1-Digest: TYFcHRCv2DO6mOXfUkQa88MLnhs=
+
+Name: assets/PS_ColorizeSilver.hlsl
+SHA1-Digest: yaSUZ/TglgsBIV2t0RsSpExqKrE=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.pn
+ g
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: assets/Menu_Tick.wav
+SHA1-Digest: WQEc9bkJBQ0KpwY5ifdGIZzY2M8=
+
+Name: assets/achievement03-touch.png
+SHA1-Digest: mB+A1AWb53Hr4mpwSMSobXMGUfM=
+
+Name: assets/craftingstation_panel-inactive.png
+SHA1-Digest: 6dt81IDSDr6U/ksFH3Cjt02lWBA=
+
+Name: res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: stIAi0l6do5PtxTEEt+OuazTScA=
+
+Name: assets/VS_Negative.glsl
+SHA1-Digest: EuVpVVjNfqG+47ZAvzQb+NWwgek=
+
+Name: assets/NPC_Killed_18.wav
+SHA1-Digest: lAbEU4BSIwjyv8IHx61ClJC7VrQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA1-Digest: vq3AaVX19jU0c0v1npZsAQOh+CI=
+
+Name: res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: RMsgj4KJpKAEXVBRBwDt8FeaMY8=
+
+Name: assets/icon_crafting.png
+SHA1-Digest: 0Z373Kw78MTDKY3kHkU5XuwlQYs=
+
+Name: assets/main_menu_amazon.xml
+SHA1-Digest: QJBKoZdWuxmrAozOLOaFvD9dcz4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.pn
+ g
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/Item_2.wav
+SHA1-Digest: q/dqcMvd6JbLfroiO+Ia1tLK1II=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: CyHUb+nEtXS5lCR5jTCXKlZ0AzU=
+
+Name: assets/FreeLogo.png
+SHA1-Digest: DhAdFW60r/nwPIgrse73zPpjQZE=
+
+Name: assets/enLocalization.txt
+SHA1-Digest: rqMXZBQ505rQE3ql+fpU1vKrUHQ=
+
+Name: assets/VS_PositionNormalColor.glsl
+SHA1-Digest: o8DO00sw+xHpQlS38VnOjP5bSKI=
+
+Name: assets/PS_PositionNormalColor.hlsl
+SHA1-Digest: ot7KgCxHggwP/dDHncKuF3w/tFM=
+
+Name: assets/icon_options.png
+SHA1-Digest: P+cDbGKf3j8pBhyZ3SltxnVJlqk=
+
+Name: assets/NPC_Hit_10.wav
+SHA1-Digest: u3+Q52AD6q3EHofdSaztCVLV3+0=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 53DYKltMU34zhaYZHtlNZkme+Co=
+
+Name: assets/iap_Button_BlueSolid-n9.png
+SHA1-Digest: H0RZv4RVknEAu5XJhRPTuoRoLlI=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 6bGD4jGKEnE3B0EkCpW5Emm9up8=
+
+Name: assets/iap_frame_header-n9.xml
+SHA1-Digest: WHt8UyzWdwQzz0ERHap9kvPdjGo=
+
+Name: assets/ptLocalization.txt
+SHA1-Digest: qz05Up7qFaR4QJIglQbVhxbqosw=
+
+Name: assets/joystick_area-tools.png
+SHA1-Digest: /TR00IAYPtPuQW2Pqj/bs/uKJ9U=
+
+Name: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: CT87uAFW2S+oSiDq6Ta7ae0xJWs=
+
+Name: assets/Item_13.wav
+SHA1-Digest: 1OUkUSYnCGqS8eSNUEWrSPMOrp0=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: D6dilO+UMcglambujyMOhNbLZuY=
+
+Name: assets/watermark_coins.png
+SHA1-Digest: ZFW76OyqBGUMI1T8zG4Oz9tR0wk=
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: cSmvBnWdaxdHtGnfvRvt7BnWyZ8=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: MMkP0OZqp3er4oTF2Gl+RImzkzI=
+
+Name: assets/achievement11-rollover.png
+SHA1-Digest: qsJaUO29UUqWNXw6sTFUcHliLQA=
+
+Name: assets/arrow_right.png
+SHA1-Digest: j3QRpycxaW3e6cmgvi35iChkJPw=
+
+Name: assets/Item_51.wav
+SHA1-Digest: q5BN3qMyyJdF3X9QD71k+IMTPr4=
+
+Name: res/drawable-mdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: 5mRZ2sFLI0LRLV8zEdkzMhgnR9I=
+
+Name: assets/watermark_helmet.png
+SHA1-Digest: jdTqPdGl6JWAR9Ukk3Dd1wi4WO4=
+
+Name: res/layout/status_bar_ongoing_event_progress_bar.xml
+SHA1-Digest: Wtxk4a9Z8D1XrBvgWJ0lMDj6V2w=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: vBwm0ihe3tJu932F0b7IvAec1Ho=
+
+Name: assets/CharacterWidget_small.xml
+SHA1-Digest: rlE3tfoviEZS+1qe0osFOzO+GN8=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: F15Y7TDgoQ90hOj/LqmJmzvUv5I=
+
+Name: assets/item_panel-touch.png
+SHA1-Digest: +qpsOl5ck5ejlsOyeD/Dy6QXJgM=
+
+Name: assets/generic_popup.xml
+SHA1-Digest: 1tZ7bP5Ut+YIUXHx+cQJ/CGeTpM=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: meTbFvJL0s3oA4sDj2GzpobVb3Q=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: xeutaZvABw40/AIzFqNqXOs2vyw=
+
+Name: assets/pause_menu_large.xml
+SHA1-Digest: /IY/WS25gJYpEEFYlU8X7hK0s4k=
+
+Name: res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: hjf9hvwtitJD8jRTc+L89zr4i1I=
+
+Name: assets/panel_charactercreator_ipad-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: VI4dX5B2Y48SEkB7kbHeKlBvZ4s=
+
+Name: assets/hud_large.xml
+SHA1-Digest: RmERFml9Dgk9SwPbjKs8RhmVXwM=
+
+Name: res/drawable/spinner_8.png
+SHA1-Digest: 7HfFkCAUqWraAjORT/Qz2xmRPxw=
+
+Name: assets/Item_21.wav
+SHA1-Digest: E3AQ652GefhZVliv9vJlvb2iQng=
+
+Name: assets/itemwidget_quickbar_small.xml
+SHA1-Digest: Womco/2lnehfOsU8Ng0jfWavY3k=
+
+Name: res/drawable-v21/abc_cab_background_top_material.xml
+SHA1-Digest: 7Z3cYWVNpQVa6qFNkJlUHQyVmik=
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: assets/iap_Button_Grey-n9.png
+SHA1-Digest: Zty/J1vggbqGzt8xBXeGKSXPaYA=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: tOuiTf7qLHudHHS2BEMDpwatMcs=
+
+Name: assets/main_menu_trial_large_japanese.xml
+SHA1-Digest: jPw3Zl89kLM+2uJd7GD15PDmym4=
+
+Name: assets/achievement09.png
+SHA1-Digest: 4KL/WHuIwj/X0TSVTdYdQKRCKgE=
+
+Name: res/raw/world_icon.png
+SHA1-Digest: IKBKbWY+okdOnQzCh4kKyJXYiu4=
+
+Name: assets/icon_quickequip.png
+SHA1-Digest: /alfQaD+MN/ryRcDFInnaF9G3zI=
+
+Name: assets/texture_icon_charcreate04.png
+SHA1-Digest: Sn7hEr4JPzjPLUKElVn2F4klV6E=
+
+Name: assets/icon_startworld.png
+SHA1-Digest: c66T6NqlsY3GgvwHH9Q7VwEUy3E=
+
+Name: assets/Tink_2.wav
+SHA1-Digest: jdFEgRyXR8pqpWDf1ECK7dF5p38=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: FKOjkNJTMFQ2MpZe7lFshoUiC8w=
+
+Name: assets/leaderboard_row.xml
+SHA1-Digest: ybrSub9j15XIsqo/koKzuqarYhs=
+
+Name: res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: assets/itemwidget_large.xml
+SHA1-Digest: uAVOJsRpGSbBzrz3BLzw+gdSszA=
+
+Name: assets/character_menu_list_console.xml
+SHA1-Digest: 5cBu2QxutmJ0RGe25z2hpRz7MV0=
+
+Name: assets/panel_upsell_ipad.png
+SHA1-Digest: MJvC/h5yCO+81IqRqtj5BL7p4w0=
+
+Name: assets/credits_menu_small.xml
+SHA1-Digest: 6RsejweJg9mTiMwe22zghuZvpwo=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: TtBU8d63+I+lSLj+Tm5DZvZ5i2c=
+
+Name: assets/watermark_arrows.png
+SHA1-Digest: Tt8D3UTDu38FP3vSJfo3OkVQTZQ=
+
+Name: assets/icon_closesmall.png
+SHA1-Digest: NW7D60AwkCuF2x2pXjLm7s0N3ck=
+
+Name: assets/esLocalization.txt
+SHA1-Digest: BpT44liyRfJJaafsdFqdFA2NdBg=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: f97WbUY/Cdv4XUcmlN1SR5GCamY=
+
+Name: assets/icon_musicoption.png
+SHA1-Digest: KuhRhuipz9RHLOly830a3B9GuH4=
+
+Name: assets/PS_Negative.glsl
+SHA1-Digest: 8pnNWeLqzsHRZ4zMJGh0uruOZlA=
+
+Name: assets/icon_startgame.png
+SHA1-Digest: dda/jlfyehu8I1sZ9dWQM4saf/U=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.pn
+ g
+SHA1-Digest: MNi9MV8wCkdDwmYH6J7+SbIAI1k=
+
+Name: assets/button_cancel-rollover-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/achievement04.png
+SHA1-Digest: t1AXxJxVr8pNzHxSMzi6vixUt2o=
+
+Name: assets/panel_charactercreatorbarbig_iphone.png
+SHA1-Digest: cT/mJmS1Yxs5T5MIE1h+ROq3hkg=
+
+Name: assets/panel_characterbar_ipad.png
+SHA1-Digest: bem65hRWGF4SxtRUqgdlHbajeo4=
+
+Name: assets/button_arrow_right-touch.png
+SHA1-Digest: B6Dr9khUS38bbLGa7SywxVpgEz8=
+
+Name: assets/PS_Sprite.hlsl
+SHA1-Digest: fXx1joRXp8N/fEnAwsMTorHfONo=
+
+Name: assets/Dig_0.wav
+SHA1-Digest: j5T8S4My8hH7RE1/a8iC6oGRcR4=
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: 8TGvVLbABMGx0gU3ldKg01URLyQ=
+
+Name: assets/button_halfbar_iphone-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: KQunCQh0E4bP0utgN0cHdQr9OwA=
+
+Name: assets/texture_heartframe_full.png
+SHA1-Digest: WMTekMQCpKlPUV0qNIUsszlxEuQ=
+
+Name: assets/color_block-rollover-n9.xml
+SHA1-Digest: EaPjp8vf7e4NS2pqfpaTCjueDJA=
+
+Name: assets/panel_characterbar_ipad-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: Bv9tm41JQtGQ+LTyKeRDhV81r4w=
+
+Name: assets/UIiap_Frame_object-n9.xml
+SHA1-Digest: WHt8UyzWdwQzz0ERHap9kvPdjGo=
+
+Name: res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: 3/V70VS4FuQQoCawksAvAWwj4JI=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: assets/texture_heartsection_01.png
+SHA1-Digest: TeAutdNzoa6XqfQkSC92eJIr+G8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: pyKGvlDIcuabjUP3XyADkEc6qG4=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: lFwWIsf1l1uVpW1Xm0iz19TBZG0=
+
+Name: assets/button_side-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/item_panel_quickbar-HUGE-rollover-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/Door_Closed.wav
+SHA1-Digest: B1InlU5+3OuqbjzT7OAOdItZ61I=
+
+Name: assets/Zombie_1.wav
+SHA1-Digest: rtCGzVLBtir3/CncH0mIGepLQ+o=
+
+Name: assets/panel_charactercreatorbar_ipad-rollover.png
+SHA1-Digest: sUIuTwSmnwPK7fjc42WzuGWmLag=
+
+Name: assets/Item_17.wav
+SHA1-Digest: aHianCNV5sZS7g711oTw3+Nf+Ls=
+
+Name: assets/ingredient_panel-inactive-n9.xml
+SHA1-Digest: iRYnsiu7SBSRthp6/fNkAQWUwL0=
+
+Name: assets/Item_1.wav
+SHA1-Digest: RkrLwLf3rR8L6YAUO3dvqHaz4jM=
+
+Name: assets/Roar_0.wav
+SHA1-Digest: ROBEAPw70z3tOYH4K04OqfuZQR8=
+
+Name: assets/pause_menu_small.xml
+SHA1-Digest: mYGjWPeo95N0Khtx13TZyRr7sLg=
+
+Name: assets/iap.xml
+SHA1-Digest: 1V/LYikTrIduemiGZ5fH+azJOEg=
+
+Name: assets/Menu_Close.wav
+SHA1-Digest: fLpoiLWnoDd502cxbeSGoCBVJZc=
+
+Name: assets/loading_large.xml
+SHA1-Digest: kvkSptwV1WkYDAT0VtInW9eOwyE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: XfiPEQDAz6Ng5Q70xPZblJiqGT8=
+
+Name: assets/button_random-touch.png
+SHA1-Digest: cTPAjHwWeCAe/oLF5o+xQWKv6Mc=
+
+Name: res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: +XwNOsyv2DWN30GlWVSISZnhYYI=
+
+Name: assets/achievement05.png
+SHA1-Digest: 0nDdXa+GMBwr9tH+WfeH5v4YJuI=
+
+Name: assets/icon_craft02.png
+SHA1-Digest: hkAfF/1gPSFQK5CT31cLOPUvRWM=
+
+Name: assets/panel_characterbar3_iphone-touch.png
+SHA1-Digest: uTD/HSMpF2U2VPM0B8bdAx9NFnc=
+
+Name: assets/iap_Edge_Pattern.png
+SHA1-Digest: bxrw1491KBxkUjMo6Dooy1+4cDw=
+
+Name: assets/button_arrow_right-rollover.png
+SHA1-Digest: MXpgfxBVQEmAsu/09a7VHsY4o7U=
+
+Name: assets/craftingstation_panel.png
+SHA1-Digest: 9aNQCWDplL7GKfcRuig2SBU/cM4=
+
+Name: assets/world_menu_cloud_small.xml
+SHA1-Digest: ZNtg9JND1EJKQ7qorasuAJKWSWg=
+
+Name: res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: z0xEJNNl6qN3MKa3Uq4y93mF7Cw=
+
+Name: assets/texture_heartsectionbig_03.png
+SHA1-Digest: uDInHuYVdY0o5b45FaxdhOROnaI=
+
+Name: assets/panel_upsell_iphone-n9.xml
+SHA1-Digest: cekUVZuGTWy81+qkqJ27wCyW3Dg=
+
+Name: assets/button_halfbar_iphone-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/icon_shop.png
+SHA1-Digest: vtSSRSuFJwIpDszjey/2trZhr6c=
+
+Name: assets/icon_options2-touch.png
+SHA1-Digest: HZjQiCreA9PuTqg18UFwBobm8gs=
+
+Name: assets/NPC_Killed_12.wav
+SHA1-Digest: DE1nLGwPt1D9c6NoR1jXUGj7pVc=
+
+Name: assets/character_menu_small.xml
+SHA1-Digest: Psan54lt3Vh/JAOKB29dGcW5XqA=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: NKiwT1Cicrvb5S9HSLoNH7C2DQY=
+
+Name: assets/splash_relogic.png
+SHA1-Digest: EKoz76HdOAk33DJik+l6UM4nJgQ=
+
+Name: assets/icon_sfx.png
+SHA1-Digest: IwVO9USVNhv+VJVGzVUW6BmPgfk=
+
+Name: assets/options_menu_ios_large2.xml
+SHA1-Digest: 0GTchSTUXt0Qndv+wtR91ACE0UU=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: HsVJgF/fNJeHxpxvNr8ETQwOAbY=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: 4LnPZ0EIh2yTqhOvCTdrDYEF9vg=
+
+Name: assets/item_panel_quickbar-big.png
+SHA1-Digest: bvWQNFt67qPta+1/dK7xqm2AliQ=
+
+Name: assets/main_menu_large.xml
+SHA1-Digest: eajhpJUSlwB56Pspgch+FBHzEmk=
+
+Name: assets/panel_charactercreator_iphone.png
+SHA1-Digest: BNqCKLF97Qk9Kg4LK5wArQrX5SM=
+
+Name: res/drawable/spinner_4.png
+SHA1-Digest: syzR6ZCgGB+mlYWJIoQCwTdfa7I=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: m5ZFB8xM9wLJXlv+RqbEVelyZ9M=
+
+Name: assets/upsell_large.xml
+SHA1-Digest: U+Ow050bslH+yGViqd1tvvEdu9w=
+
+Name: assets/item_panel_quickbar-rollover.png
+SHA1-Digest: kcUddC1irfWoEMDufLuK4aqkLCU=
+
+Name: assets/progressbar_back.png
+SHA1-Digest: lUyEH8IvjVZDRidnT0PMusdjRIQ=
+
+Name: assets/NPC_Killed_5.wav
+SHA1-Digest: mjSNwcV/7flV6Y1Rn6BpbsnO5WU=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: bIAQSJr/EfWZjIQk19BSgzvxEPU=
+
+Name: res/drawable-hdpi-v4/terraria_android_icon.png
+SHA1-Digest: GHfRhKa5dD27Q2Mj/efc7pseSsM=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: su35tR254hEzF/zblUSfTEhBc/I=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: WWSiT05uvnFd8lCqgPtpCr8IYBc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: IRY9orSUNBiHDRmCdZDLwsHlvFM=
+
+Name: assets/button_gplusbig-touch.png
+SHA1-Digest: YbTCxfKzxFLdFMPlZM7S3qoUP/U=
+
+Name: assets/PS_PositionColor.hlsl
+SHA1-Digest: VWHyuwYmf8Y1qXIe9YnpX8k23lc=
+
+Name: assets/Door_Opened.wav
+SHA1-Digest: FDYN9SXzBQ5lqTgvEoJCg+wLB2U=
+
+Name: assets/iap_pack_large.xml
+SHA1-Digest: YH6ecBWtZVxSqyIqXezUSgtCmcA=
+
+Name: assets/NPC_Killed_7.wav
+SHA1-Digest: KDcjDSZk6oFxZ5yx70SMJJ1t4Uk=
+
+Name: assets/Grass.wav
+SHA1-Digest: C24wKc5pcWV0ox/E045mrlgA/78=
+
+Name: assets/button_random_ipad-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/main_menu_console.xml
+SHA1-Digest: NPGAQSymaOdKpgugABFrtM2O/d4=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: igV6Z9qyPsoUBNkEZPzj+DDt0kE=
+
+Name: assets/texture_heartsectionbig_04.png
+SHA1-Digest: h6wLvcUEskF5oBiX7GtUI0XUQPI=
+
+Name: assets/craftingstation_panel-active.png
+SHA1-Digest: 9aNQCWDplL7GKfcRuig2SBU/cM4=
+
+Name: res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: z7zwna5/785Ly8ahNPOE2jNcEWg=
+
+Name: res/drawable/spinner_3.png
+SHA1-Digest: URf9E9qWZFr1NfJ/b6jQJmrvQ+4=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ejUHf+Zq02w7OdVBf+PoNjou6Xc=
+
+Name: res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: SJGqgQ03I4Lll5vmMETj1ZIac+I=
+
+Name: assets/icon_inventory.png
+SHA1-Digest: pxbuH8Vb6qY5I5/t4HJxIqfPpOU=
+
+Name: assets/icon_Worldx2.png
+SHA1-Digest: RklGYrOvPcZcVVRx+59hO/qRY+k=
+
+Name: res/drawable-hdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: iP8qRXkY+XNmRoVEr+A6b2fLfF4=
+
+Name: assets/achievement08-touch.png
+SHA1-Digest: VmmPDYo0iBT/8oXcconyovfSNP8=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: qFfG6dXcF1UdzYPLJ5SEjR/3CiE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: WDwqcy6yDbnca5VTvWWktckJuL4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.pn
+ g
+SHA1-Digest: ZKYQRM+6FnZ8NFfqxj2cRG8euKk=
+
+Name: res/raw/icon.vbl
+SHA1-Digest: g2KT5CNFEYVLj4ZcSvTeWAshzy4=
+
+Name: assets/TerrariaUI.png
+SHA1-Digest: sYbEdsOvilBAyQytnU221aTq/uY=
+
+Name: assets/panel_characterbar_iphone-rollover.png
+SHA1-Digest: yUD+oDIJ2M1llYe8JXCGgGF02U4=
+
+Name: assets/Item_19.wav
+SHA1-Digest: zCMMglownSgzX3BykI9tHpiU/Ow=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: /5RFzsw1zwQJHkUKjDGzni0BQNE=
+
+Name: assets/TerrariaUI4.png
+SHA1-Digest: SNeq+YloMn5z5TinsyaFSeg8N9Q=
+
+Name: assets/NPC_Hit_13.wav
+SHA1-Digest: qyTCfGWdn7jiG23GzMDlOZ+TCQ8=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: 8TSJifDdlA1J4leugOVG9Peg+k4=
+
+Name: assets/achievement06-touch.png
+SHA1-Digest: 5NXzdDejFownmT0CK3cn4mFwT9s=
+
+Name: assets/Item_41.wav
+SHA1-Digest: JUHB+ITXpJd9MHBBxJMD/JlCc5w=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: H5lDzV2Zw0y5I4W+edSWTSrKjWg=
+
+Name: assets/VS_ColorizeSilver.hlsl
+SHA1-Digest: xqRwWd1H652qFhyHHq70mfXRQQ4=
+
+Name: assets/scroll_handle.png
+SHA1-Digest: R5Vj1ApWME6YV3Ok1K8KGbJvBAI=
+
+Name: assets/multiplayergame_entry_small.xml
+SHA1-Digest: o5tWoE/5Ad/pmZ2dJcycOrl2bZ4=
+
+Name: assets/button_pausebig-rollover.png
+SHA1-Digest: qdNe2ZnYJnoEOZtDjUSRhjEQHds=
+
+Name: res/drawable/world_icon_alt_png.png
+SHA1-Digest: w1VTLLF27qd/0xlLKXRO+7J9yg0=
+
+Name: assets/button_small-touch-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/TerrariaUI2.png
+SHA1-Digest: W7WKVo/VZ5W5oqUsWE8wATsRpQQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: assets/achievement12-touch.png
+SHA1-Digest: D/60S4gbwGO/TyM02HteHKHpvFI=
+
+Name: assets/Item_26.wav
+SHA1-Digest: YoarZZfX943cVh85P4Vz4EhSlgI=
+
+Name: assets/iap_Button_Blue-n9.xml
+SHA1-Digest: r6uUfJ1eHycSQDdZARQKWR2kQY0=
+
+Name: assets/iap_Edge_Silverbar_shine.png
+SHA1-Digest: gAmfwOBhRBVkBcjR3ekVHvPdfCA=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: rRjIC9V51TgZe2Muk+QxNRxDB4k=
+
+Name: assets/Player_Hit_2-old1.wav
+SHA1-Digest: odOhy/6K+IWThHyoQFETYwZ35v0=
+
+Name: assets/npc_button-touch-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/inventory_small.xml
+SHA1-Digest: HN9z+pqaRYUX3mSndUcZ6WZnVG8=
+
+Name: assets/Item_42.wav
+SHA1-Digest: F610i0V3ml5f7qz2LMlxzcGIzY0=
+
+Name: assets/inventory_bottom_3ds.xml
+SHA1-Digest: 3bNKmJaGWoHJZNqtx3T5yE8DyZE=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: W5TvXvoCtsDZ8z420pI8yCW94Yc=
+
+Name: assets/Item_18.wav
+SHA1-Digest: iSRGDfdGW8+q1a5R9Cqfu+qq3M8=
+
+Name: assets/button_create-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: l4wPPYunAqUs5TQYb14SXXQJQ+I=
+
+Name: assets/texture_manasectionbig_04.png
+SHA1-Digest: 5tTCeSNmWJD4EdWTMlORX8XQInc=
+
+Name: assets/button_pause-n9.xml
+SHA1-Digest: cekUVZuGTWy81+qkqJ27wCyW3Dg=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: zKSssjxQFGFG7gu3adc+QhvqZWU=
+
+Name: res/layout/abc_simple_dropdown_hint.xml
+SHA1-Digest: 9QsIz7oIlTWay0j7V/AhOBXdPX8=
+
+Name: assets/panel_crafting.png
+SHA1-Digest: kT8URdjEulHgKVWb15KRINZayps=
+
+Name: assets/icon_shop2.png
+SHA1-Digest: vRr4/LS+ulMkDy4xlXZVA7/mRjI=
+
+Name: assets/jpLocalization.txt
+SHA1-Digest: TOM/lnfcNy/+TQnGZec5angDfH0=
+
+Name: assets/Item_44.wav
+SHA1-Digest: r5SAhb/ii/LkwI6AfyWy23tYbUI=
+
+Name: assets/icon_dice.png
+SHA1-Digest: ZCLPP7BDq7UiPbgUW2ZES5+GMpg=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: oJkL4xtlN87pNrCzPgueqqvY2nU=
+
+Name: assets/button_halfbar_ipad-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/options_menu_ios_small2.xml
+SHA1-Digest: R7AcpJDnFNNyfvBMu3/k32IEjX4=
+
+Name: assets/item_panel_trashdrop-rollover-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 4oU1S0T6qbsEVVg1vrykxhO0l2Y=
+
+Name: assets/button_cancel-touch-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/button_create_iphone-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/achievement01.png
+SHA1-Digest: WuLwqWmLN7xkF/k1PGEug3pOLFk=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: xzR4QYhDLijnhAqvCWT+8WMmqNQ=
+
+Name: assets/Inventory_Back3.png
+SHA1-Digest: YDNJnMFeeNqfdi6YGZ065YRhgP0=
+
+Name: assets/arrow_left-rollover.png
+SHA1-Digest: +xcRv9ALaWb77K1vU2gVAi/j6n0=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: vkqm8TXp3yy/Qg5JatgD5k3KN+g=
+
+Name: assets/itemwidget_ingredient_console.xml
+SHA1-Digest: uRUnqibAVVAAujHaysi6uwR8xbQ=
+
+Name: assets/Terraria-iOS-Game-Icon_72x72.png
+SHA1-Digest: r11U+2k8Rs6dJKBhBuUUD3ojTu4=
+
+Name: assets/PS_Colorize.glsl
+SHA1-Digest: z4Hc8Ygd1HiWMMR0Qv0zeWAgTOg=
+
+Name: assets/texture_manasection_02.png
+SHA1-Digest: 7aBrNYBHKMvUStalgB76ZiS5His=
+
+Name: assets/CharacterWidget_large.xml
+SHA1-Digest: xKYxmwgeCb0m3qFw1qzzSIW+Xhc=
+
+Name: assets/button_gplus-touch.png
+SHA1-Digest: jLdYR19WOKM54HYo+NNJ8h81wLE=
+
+Name: assets/pause_menu_amazon_small.xml
+SHA1-Digest: JhL5G+JPiiYKf70mX213/leK09k=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: qdpVIcOeVOJG3xTaI3TbVDJS/j8=
+
+Name: assets/achievement03.png
+SHA1-Digest: BDa5REzzxONz8ds5zQ4QUYcIvbI=
+
+Name: assets/Zombie_8.wav
+SHA1-Digest: deKiLhLXLFLtdG1TfUPXuAzjZYo=
+
+Name: assets/panel_characterbarfb_iphone-n9.xml
+SHA1-Digest: Qc1J0EUR8cFZP388DHXo+04s0nA=
+
+Name: assets/NPC_Hit_9.wav
+SHA1-Digest: 857/C88NfT1VZWxZHZgbmfrjGsc=
+
+Name: assets/main_menu_amazon_large.xml
+SHA1-Digest: e/LzsFiVw10JoyVO5nqDpUVPFFI=
+
+Name: assets/Item_14.wav
+SHA1-Digest: 7yx3FUtvgSfjfc5dD3mnnyBiGjA=
+
+Name: assets/cloud_upgrade_menu_large.xml
+SHA1-Digest: quLB/HEHSUSLCly7UQP5Cf0RP9s=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 8fFdZoyOA0FyEP0K/a0QnLk0bbE=
+
+Name: assets/button_halfbar_ipad.png
+SHA1-Digest: YOdqN9VdgWNwdNb+ZwGkAPMEkDg=
+
+Name: assets/achievement05-touch.png
+SHA1-Digest: VyAAOJTS7HX7TZxF/R23qUdRqp0=
+
+Name: assets/button_small-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: assets/icon_everplay.png
+SHA1-Digest: 48RW3cUmhJ/62wlcWUc07PCENjU=
+
+Name: assets/button_small-rollover.png
+SHA1-Digest: qdNe2ZnYJnoEOZtDjUSRhjEQHds=
+
+Name: assets/button_random_ipad-rollover.png
+SHA1-Digest: faVlRGjAb/8PvcqBWbZW0etePyo=
+
+Name: assets/PS_ColorizeGradient.glsl
+SHA1-Digest: aUKH3vV/lmkEBxFDuHb2Gr/9Bug=
+
+Name: assets/icon_onlinegame.png
+SHA1-Digest: wnNOk3iaQutqOlY+kcGFDiehess=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: 82y1nmHvqxAwXtlM9HanNgjP5hc=
+
+Name: assets/multibutton_ipad-rollover.png
+SHA1-Digest: p5+6HC2Wj9nbLWMKn13W+Dl9Wzs=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: in/uM6gaoddhlniDyLN3qnCoO90=
+
+Name: assets/Jump_1-old2.wav
+SHA1-Digest: 1QfLJEa6ieo/utv6H5nXXm+YGxg=
+
+Name: assets/itemwidget_quickbarlong_console.xml
+SHA1-Digest: miyQHzu0DXE5hRbZPPGKSWlCPho=
+
+Name: assets/online_hosting_screen_small.xml
+SHA1-Digest: ekvPyGvYDqWl89EwakRJmK5SG+g=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.
+ png
+SHA1-Digest: s9/qxuNt34tuDKZEbu3WbQxLGWs=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: srU1La0aKxKcB1CLvKiSYa09NHU=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: TGHVlpw1mq1IC2cB7ulwjQ18wdc=
+
+Name: assets/zhLocalization.txt
+SHA1-Digest: Vs3UGxjxOQT7F9tE3Ns1Lw+/Txk=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: g2USB8po5f17zq2bzhZdtnxSmOg=
+
+Name: assets/npc_button.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: u8lEY+2Bl006RY/NojCiasl0Huw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: assets/Item_50.wav
+SHA1-Digest: mMHcqtso+G3tu2PWVpX7j8AjbeY=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: o+8NFbzkmHYkqnNEQEZFfu2Scxs=
+
+Name: assets/icon_craft01.png
+SHA1-Digest: Lyoh8x9ZO6NxKuaLRLSlwUcouPo=
+
+Name: res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: +eLoSt8uctg1cY5up3uNj7FsoEI=
+
+Name: assets/Item_6.wav
+SHA1-Digest: 35ET1ratWRfAHc2pFEVcr4pfa7g=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: VPmKAqmLJ6ke7a8XellbYKiIBh8=
+
+Name: assets/arrow_right-rollover.png
+SHA1-Digest: FglxD7fBSOvHPgXoXrBLtwaQuYQ=
+
+Name: assets/hostgame_large.xml
+SHA1-Digest: vaDKizMAoVKyJ3rtpA3EwL+1yPA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: D3OTzMV535uT6sXCK160AaIEUdI=
+
+Name: assets/panel_textentry_sign.png
+SHA1-Digest: cD+TSp0NcyfZzn7gLzRJMk8/eNU=
+
+Name: assets/NPC_Hit_11.wav
+SHA1-Digest: eoFj5bXeX99RvV2JxJMwhZVW+jE=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: qaK4e1gDhaSXVr673Ke38Qdp/V4=
+
+Name: assets/koLocalization.txt
+SHA1-Digest: iyLUvFHJ4eyWNfn7S6mV2TepGrs=
+
+Name: res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: idNZFNqwX4NjrkS539jMeovyeGY=
+
+Name: assets/softfont-small.png
+SHA1-Digest: 5RxcUDrl3tTx6UhGv9rOSoR1Lfw=
+
+Name: assets/panel_cloud-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/icon_trashslot.png
+SHA1-Digest: RMGSA14tcs7OWFFA5tOiFpWdkW8=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 4YsKb2IwvWnlnKLr79msGTpIdXg=
+
+Name: assets/icon_joingame.png
+SHA1-Digest: FcO6W/ntxukrOAfgnNXQ7r7ryi4=
+
+Name: assets/panel_cloud-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/icon_joinworld.png
+SHA1-Digest: ofIcYpyaogW+HqfJ11K04/czZe0=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: 9JWJR0qt9ACSmUHvHpdMc/ljSx0=
+
+Name: assets/leaderboards_wp8.xml
+SHA1-Digest: uCjy2lzG4XpHn6t/1+C7giNCmVg=
+
+Name: assets/Terraria-iOS-Game-Icon_57x57.png
+SHA1-Digest: FfjCCTjtk39ZipcvvgGfcQEVr60=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: LRWlMCeV4/Lq+wNklDndVFmtRHU=
+
+Name: assets/leaderboards_panel_small.png
+SHA1-Digest: z3bmX+BRLKVURLL/e6mJaSnYLUQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: A+A9MdQmrAvMMxMOybyfoSwgnqw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: assets/panel_cloud-n9.png
+SHA1-Digest: qsgfHG99lgVOYBczkNxRgEVaDsA=
+
+Name: assets/stylist_ios_large.xml
+SHA1-Digest: Knc+iF66iiFepN8g1jTqyPy6tEU=
+
+Name: assets/VS_PositionColor.hlsl
+SHA1-Digest: tzwWa7ATmy5jVCH8CN2gydrXmG0=
+
+Name: assets/PS_PositionTexture.hlsl
+SHA1-Digest: TFcDUob6jqVwtywNBcM7e8YmD98=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: DK56Y6UjLNHOo/ha0XddWTzD+NE=
+
+Name: assets/character_creator_small.xml
+SHA1-Digest: Gri8oe+DwyZWCuwmi0To+TMhS04=
+
+Name: res/drawable-tvdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: res/drawable/spinner_9.png
+SHA1-Digest: vwIF6vPVgj25NrtchdvXG7amIP8=
+
+Name: res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: NJuMq0n7Coq8s/ff6QHhDQhI9uw=
+
+Name: assets/button_random_ipad.png
+SHA1-Digest: 4Ud8OT+p5b719hPv2AI9t3dVykc=
+
+Name: assets/options_menu_ios_large.xml
+SHA1-Digest: OFRZPeqUYcoEEdtZCQCid4p74NU=
+
+Name: assets/panel_characterbarfb_iphone-rollover.png
+SHA1-Digest: 89V7PgmMV5/vqPVE55rzMTYD6po=
+
+Name: assets/MaxMana-old1.wav
+SHA1-Digest: Wu04YZkfltbdN3M/xohp5lQVHcI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: UXCDxpOg7UXbnFoDNGrU88J4zC4=
+
+Name: assets/Female_Hit_1-old1.wav
+SHA1-Digest: 0IEKITEqGxtva1Dmg1NSRPDNYpk=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: bc4cHrfDdreRI9LavnblRLzCjDk=
+
+Name: assets/Chat.wav
+SHA1-Digest: Q1fo2+e3jCqdonnxtVyqgf0dUuI=
+
+Name: assets/player_small.xml
+SHA1-Digest: IsC7DcarOMqao2mqB+GyfiYiwQY=
+
+Name: assets/item_panel_trashdrop.png
+SHA1-Digest: GHQrXQpEGJY+LV7oxeLv0nm3W1g=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: +3A3jUbzRBRBAJ8oRmGYp+sMfXc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: alk9qCjovoayqfBmhKb0OSABN44=
+
+Name: assets/confirmation_panel-iphone-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: tpEM52vWcakmOwaErjJ4ZPrPYyg=
+
+Name: assets/Female_Hit_2-old1.wav
+SHA1-Digest: KLWCt+DkQVLmYnqYkXV2hx/zJRo=
+
+Name: assets/achievement09-rollover.png
+SHA1-Digest: 6SAsyzT3cjxMKaOb7X7WSRSn/qI=
+
+Name: assets/Item_47.wav
+SHA1-Digest: 3LLfbExn+ORIQA5zKHGHHacs1aA=
+
+Name: assets/watermark_chest.png
+SHA1-Digest: YTcrehUOgeItjdnPrXZhgSCHcdE=
+
+Name: assets/recipe_panel_iphone.png
+SHA1-Digest: iMzpw4Mk/s5dJDtaFn3ytJSIleM=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: yP2hhhdWfqPQ6VTBFpcZM+5I8sg=
+
+Name: assets/Item_23.wav
+SHA1-Digest: hoCKXjgbnbK5gudTys83ZESIWQw=
+
+Name: assets/softfont.png
+SHA1-Digest: OSuYgqogUibewArhvwxpjerhlz0=
+
+Name: assets/panel_characterbarfb_ipad-touch-n9.xml
+SHA1-Digest: n8j6T6yOOTl3yELRpSC/BmMgwOI=
+
+Name: assets/joystick_area-tools2.png
+SHA1-Digest: H0SjcVxWwlURjEJsLQrz/vDrsws=
+
+Name: assets/Item_49.wav
+SHA1-Digest: lDBDEJlXC7C8pBWIpkhfiQVN+tI=
+
+Name: assets/Cloud.png
+SHA1-Digest: +XkpsDdbOLXDlWtDoqJaAlllPH8=
+
+Name: assets/Zombie_19.wav
+SHA1-Digest: fsWzXerSZZ19fECgdqGnG0IcWl8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: CG3lDkcP/GHQTYwc/aOmdEm1/oA=
+
+Name: assets/console_background.png
+SHA1-Digest: Qyvx01CCImJd7OKyzdvtcr/8RN8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dar
+ k.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: assets/PS_ColorizeSilver.glsl
+SHA1-Digest: qP/Q+jBGUHHXhlDUcQobcJ5rJD4=
+
+Name: assets/PS_SpriteAlphaOnlyColored.glsl
+SHA1-Digest: 5afckOF8eNZIycm7ysIieBv6/3s=
+
+Name: assets/button_halfbar_ipad-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: vr8JJvN7KaAKRPBfNk2x9HKjTnM=
+
+Name: assets/button_create-rollover.png
+SHA1-Digest: bWmq9/RgtaYfIyzTnjjdsQiOOBE=
+
+Name: assets/texture_heartsectionbig_02.png
+SHA1-Digest: dzkrgIpgEAY0va9u7KrKlN2cHhY=
+
+Name: assets/hud_ios_large.xml
+SHA1-Digest: AQ8qD9okgrokq9B0P/le/J63kx8=
+
+Name: assets/npc_button-rollover.png
+SHA1-Digest: fdtvrbqJ1Rrj439xLKu9HrJSvHY=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: MYhK6MDmNSOEu1U8SfgDMqzNtSc=
+
+Name: assets/VS_ColorizeBlack.hlsl
+SHA1-Digest: xqRwWd1H652qFhyHHq70mfXRQQ4=
+
+Name: assets/redslot-rollover.png
+SHA1-Digest: 5MChIqiyZttVCvQUaad8EH6Q2NM=
+
+Name: assets/icon_gamecenter2.png
+SHA1-Digest: RyzqlSv7Ve6RtNodD/jK4imGvzM=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: Kaq0rPlAfI+aKSb89rpu+DUQnQM=
+
+Name: assets/panel_charactercreatorbar_ipad-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/upsell_small.xml
+SHA1-Digest: cnCfp+r+2Sq6Q2HExNpqUUu4Kz0=
+
+Name: assets/Grab.wav
+SHA1-Digest: g05qV41Nr9QfbbaJ6bVY9qwdPmM=
+
+Name: assets/VS_PositionColorTexture4.hlsl
+SHA1-Digest: mPjHa2sY9G9S/ReueF/Y/m5bZ1I=
+
+Name: assets/icon_googleplay.png
+SHA1-Digest: Pt94p8zcLjeUQD5Fir2Hdq4SYbU=
+
+Name: assets/online_large.xml
+SHA1-Digest: qXwMtUSS7pzY9/9h5veJtilTdO4=
+
+Name: assets/achievement01-rollover.png
+SHA1-Digest: cwsNsP7wFKEQUwUOyVVF1a5bNX8=
+
+Name: assets/Liquid_1.wav
+SHA1-Digest: ZnsbNa+b2ANiBpWxyEg2hNA5ZUE=
+
+Name: assets/panel_characterbarfb_iphone-touch-n9.xml
+SHA1-Digest: Qc1J0EUR8cFZP388DHXo+04s0nA=
+
+Name: res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: 4HH3Bsrr5QDXIXVKrtF7nXNxySk=
+
+Name: assets/joystick_area.png
+SHA1-Digest: 0wsfvTlLX/T0hLL97G0Ih/NdXJA=
+
+Name: assets/Item_3.wav
+SHA1-Digest: RIRGJb7pySXWZu91OiOzA7Dzy7o=
+
+Name: assets/panel_characterbarfb_ipad-rollover.png
+SHA1-Digest: xKPNzHmiTfkYn9HFUUzPm36I1s0=
+
+Name: assets/Images.zip
+SHA1-Digest: sgFK/6Pr2A9KPRjk6xmayyaDPgk=
+
+Name: assets/craftingstation_panel-highlight.png
+SHA1-Digest: PFi1jIHn87X6HRNNjwSx0VvPZz0=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: 21LVrkYeQ5X/ROkyklkgL5qWqrE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: +gmuhIqM5fxBv3rZoih1jHA7u0A=
+
+Name: assets/button_cancel-touch.png
+SHA1-Digest: dp0cwEHWYUfHxQ3TRHVsUVyShYs=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: OmnUaY+p5G6VhFOZbHtleiKe6pk=
+
+Name: assets/PS_PositionColorTexture4.hlsl
+SHA1-Digest: UWWadrXMomRxSngT7WHYJO7OkIs=
+
+Name: assets/iap_Button_Gold-touch-n9.png
+SHA1-Digest: GCSGqyQNYjfEsQqmpeMk8gMjhOg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 3P2Q/ZAE5zdB3clrfhpWK44ry8k=
+
+Name: assets/iap_test_menu_small.xml
+SHA1-Digest: EeVfEciggM5+VDzHaGZnAx0Russ=
+
+Name: assets/color_block.png
+SHA1-Digest: a8EAAJatiQXupsvZP7SIUpN3iUA=
+
+Name: res/layout-v17/abc_activity_chooser_view.xml
+SHA1-Digest: 7QMiOmeCEyRFo7odPaY/qtl6sfE=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: 0o8o2VUpudmZwLvprsmCa0DfZlM=
+
+Name: assets/Menu_Open-old1.wav
+SHA1-Digest: FKrJ8MmuIFzCqBzYlLwuQ5qRKvw=
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: +5f5J84eLIoVJmf+raKGpEmYDBQ=
+
+Name: assets/button_pausebig-touch.png
+SHA1-Digest: IJ1yY1a7k9eISawu+C+Xs4KzmaI=
+
+Name: res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: assets/Item_38.wav
+SHA1-Digest: qNJzrmv8P+Kwq0cLJ8xGOy3EyEM=
+
+Name: res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: uX86MGhu4M8vmPbtFYpYLNhN0I0=
+
+Name: res/drawable-hdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: zYEVoFXucmJpZuzXxsGneYWIlNU=
+
+Name: assets/craft_panel_big.png
+SHA1-Digest: +ZGV/A50gg45+RfR5KATa4MXi44=
+
+Name: res/drawable/spinner_6.png
+SHA1-Digest: gEcnNNv7MGIHnOgQ4rXxMuLNoZY=
+
+Name: assets/texture_manaframebig_full-white.png
+SHA1-Digest: Tg9eDXSs6I8ySjol4j5HxgULJ3Q=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: 43CFSZrA4bH7N3aQHkhCueTKX6M=
+
+Name: assets/header_online_ipad.png
+SHA1-Digest: UKICJPNE3QnBWyWG1jhunOFOWjk=
+
+Name: assets/main_menu_ios_small.xml
+SHA1-Digest: RjmHPc/pJdc1sRHWC16prcI+BfQ=
+
+Name: assets/PS_ColorizeRainbow.hlsl
+SHA1-Digest: QAi6MTVvkk7wOCOC4/v15aIr0l8=
+
+Name: assets/texture_heartframe_full-white.png
+SHA1-Digest: KfHUIl7YsoU1EjkWlGiQHEvMUIk=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 7I7bReLRQHlqabBYSFGTaGGtVk4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: res/drawable/gc_overlay_spinner.xml
+SHA1-Digest: WzcAnRevXsye9LKwndS6Fy2PhvU=
+
+Name: assets/icon_checkmark.png
+SHA1-Digest: qu7dcY/Zy05Ea5E6u4QmbXuWrec=
+
+Name: res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: jc4oJEYTLIrf2udsvTHr7e9rH+E=
+
+Name: assets/tabsmall.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/Inventory_Back.png
+SHA1-Digest: v5b9QYfPj5HdT72aY4N1Ji/oN2M=
+
+Name: assets/NPC_Killed_19.wav
+SHA1-Digest: UDdwc5lxPxuUn+3qeTBOziMhUIc=
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: JK+SO98DvE2zb2cpp1SVOIO+XsU=
+
+Name: assets/achievement10.png
+SHA1-Digest: A4BgdDo5Ulljnu64f/l5btQ/8cc=
+
+Name: assets/world_menu_console.xml
+SHA1-Digest: TJVhSfhXC8dTSrHqfeFG6EDiq8s=
+
+Name: assets/Terraria-iOS-Game-Icon_144x144.png
+SHA1-Digest: QZLiMLkOmjq9kwrr43lo9qbbQ2w=
+
+Name: assets/pause_menu_console.xml
+SHA1-Digest: YF8f8ArKl1GLclcJ+eGedlzO6AE=
+
+Name: assets/achievement04-rollover.png
+SHA1-Digest: E5o9mj9zzz2PMaScmuuhUyOjqpU=
+
+Name: assets/PS_PositionColorTexture.glsl
+SHA1-Digest: 2IU4VbmBe9kHYDGcyEIc5TG691w=
+
+Name: assets/recipe_panel.png
+SHA1-Digest: OZm8sOvK4jaAxyEx3mEz4QrSRNE=
+
+Name: assets/arrow_right-touch.png
+SHA1-Digest: qDl1wdfMo60xkw6UgkNfRMmTRZE=
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: QqPpbBwEr9nywoEL/OHp+2+gZ1Q=
+
+Name: assets/iap_Frame_object-n9.xml
+SHA1-Digest: WHt8UyzWdwQzz0ERHap9kvPdjGo=
+
+Name: assets/joystick_area-projectile2.png
+SHA1-Digest: uKjQu1u5UExqTNDcIS02/Rh4bcY=
+
+Name: assets/texture_heartframebig_full-white.png
+SHA1-Digest: t0B+0o96CP4KBbHGHOpBoV6HRZc=
+
+Name: assets/multibutton_iphone.png
+SHA1-Digest: N0O+GKWRC498Hbh1UcPZWiWtlJg=
+
+Name: assets/NPC_Killed_3.wav
+SHA1-Digest: vEx530ccSHafFNZ2hiTCCnDPX6w=
+
+Name: assets/Tutorial.world
+SHA1-Digest: 0f4Bw0QClFpk/sAuHhbtOAixhXQ=
+
+Name: assets/texture_icon_charcreate02.png
+SHA1-Digest: EYic8DjyqWLYjGdH6kXa6oy/pGA=
+
+Name: assets/NPC_Killed_13.wav
+SHA1-Digest: OwXsXtnXVsqSbRV2QWPdQbKERcc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: LewhoID0LjtBYVPp7OCVxcpi4Ls=
+
+Name: assets/NPC_Killed_17.wav
+SHA1-Digest: GJlupgB5iOpNaipHW9Jwrvqr02E=
+
+Name: assets/button_gplus.png
+SHA1-Digest: 7jxrTQAe5s7u9agYVAQC880+dTw=
+
+Name: assets/character_creator_large.xml
+SHA1-Digest: pMchTs5MGvgreHDVIhsVF1e4vsQ=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: i9edT4Ogf13v+M0Gf/OCJk7jAIM=
+
+Name: assets/achievement11-touch.png
+SHA1-Digest: enmT2FYUzNtbvKQk8LlwYq67iH8=
+
+Name: assets/player_list_small.xml
+SHA1-Digest: kv4P324q+PGidHqMlYrKVPtGon8=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: Mlwb9Wl58hgqZe59BGUFigLas4A=
+
+Name: assets/Tempesta_10px.png
+SHA1-Digest: 8iSjS3405P2R4A6xyj0S7sYAj+M=
+
+Name: assets/softfont-jp.dat
+SHA1-Digest: /Mt3hv3IH5w6DlGUdscCszU0iWc=
+
+Name: assets/icon_trash-rollover.png
+SHA1-Digest: CimoxlUv/F5evij1pLnhs1g0XqU=
+
+Name: assets/icon_next.png
+SHA1-Digest: /2yF5xkUEGghRUmKSvcnuIdlxjc=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: W6K3P94iAz0CiSFCp6GiJlxogqs=
+
+Name: assets/header_online_iphone.xml
+SHA1-Digest: rMWgfpIssZt6fGxaFz4KRbFB/RE=
+
+Name: assets/Zombie_13.wav
+SHA1-Digest: s3TCJKD0jnl+Tv+eKIv6wlBoBck=
+
+Name: assets/character_menu_cloud_small.xml
+SHA1-Digest: eKM5Co/0a94ao1JcvJzTgNZxSJU=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: GM6Gg8bygrpDhPd6uqy6G0H7PQs=
+
+Name: assets/button_pausebig.png
+SHA1-Digest: ucx/er4sDG2LivEhzHapUaHD+Z8=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: hMf/FoHQ1ncswR3Ha2oj+rtb3FA=
+
+Name: assets/Run.wav
+SHA1-Digest: 82csu4e9wGhC5zyirVjHLGNnevI=
+
+Name: assets/Item_9.wav
+SHA1-Digest: KuLzWi0YzKlOsCQBU/oUXm4GUgY=
+
+Name: assets/main_menu_ios_large.xml
+SHA1-Digest: IFyzdBL304XpcHIaqOTrqceo+Is=
+
+Name: assets/item_panel_quickbar-big-rollover-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/Liquid_0.wav
+SHA1-Digest: zxyzI5Ffgx8XdaGSrmirlRUscx4=
+
+Name: assets/item_panel.png
+SHA1-Digest: n8Hj0AnE/dtkZRUizZzKI2T2rbk=
+
+Name: assets/PS_PositionColor.glsl
+SHA1-Digest: 5lx/yrHeY3dMJA+gEXBB3hhhgyM=
+
+Name: assets/texture_heartsection_02.png
+SHA1-Digest: u9QT6/JUviRfVkOpCyyY9Hu+q4k=
+
+Name: assets/color_block-inside-n9.xml
+SHA1-Digest: E8LU1dfDDcNVd+MnPDO8V6R552M=
+
+Name: assets/NPC_Killed_1.wav
+SHA1-Digest: QInVVsjHD0K10HbOkFxKK/NMb2s=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: BVq1bOBmFDayB0wL48mPRe3Q1tQ=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: TLz0shtwfe+lkIdH+pFYAuOhfeM=
+
+Name: assets/Zombie_17.wav
+SHA1-Digest: r2ZR1CcZi3B6yVs2nIenZgQFQ5A=
+
+Name: assets/hud_ios_small.xml
+SHA1-Digest: +Dulvy4DAdfx9YqQKNuo5OFghMQ=
+
+Name: assets/Item_7.wav
+SHA1-Digest: QnsWcFFB6wwbilbaGLWidU13bOY=
+
+Name: assets/icon_drop.png
+SHA1-Digest: rl3thUORILMiId7hK81L09Ts2Qo=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: Xl1MI4LBgT4cg3LBs3r+czIVsLg=
+
+Name: assets/tabsmall.png
+SHA1-Digest: y5CFl3jKiK4GxKhkqlc9sxdXz6o=
+
+Name: assets/Item_30.wav
+SHA1-Digest: BoMSfZ38SLjfeuTF0YZGSnFC0rw=
+
+Name: assets/ingredient_panel-rollover.png
+SHA1-Digest: Y4bvDvwEQWfeD8mk00n3NOdkbEE=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA1-Digest: gg3/UrmZNXiRHFtIFDCxopYcVEs=
+
+Name: assets/Item_5.wav
+SHA1-Digest: 5++iVH6HWEVvKwqAFmcuz09+vFY=
+
+Name: assets/logo_jp.png
+SHA1-Digest: kGxLKBPNvExTNMyl8TSBZPvScb4=
+
+Name: assets/panel_charactercreatorbar_ipad.png
+SHA1-Digest: oezYM1PzSaHaNPA0sAsxoD0Wapc=
+
+Name: assets/tutorial_panel_iphone.png
+SHA1-Digest: FaAkDbOGTo0EMRO/vfmyB3hL2A4=
+
+Name: assets/icon_deposit.png
+SHA1-Digest: Qvo1/DT0gLlZrVPsMBh4gUPMjzQ=
+
+Name: assets/icon_options2.png
+SHA1-Digest: CQq28fB3vzU3O2AW3Wj5WDqCKcA=
+
+Name: res/drawable/rounded_corners.xml
+SHA1-Digest: nmk6X02TZRCDh//7AaTl01M0uU4=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: Yn/foyTGGk0p/XduTeJatoNSwKg=
+
+Name: assets/NPC_Hit_4.wav
+SHA1-Digest: l/WFEMbaPID1Jx2NXyC3YeGZf2M=
+
+Name: assets/button_pausebig-rollover-n9.xml
+SHA1-Digest: cekUVZuGTWy81+qkqJ27wCyW3Dg=
+
+Name: assets/join_menu_small.xml
+SHA1-Digest: dzT5pGmccgWHa/PJGbACTcJ7Z0Q=
+
+Name: assets/main_menu_trial_small.xml
+SHA1-Digest: 9lj/9m4DlBhzIw9o2+C7C8SZ+xY=
+
+Name: assets/hud_small.xml
+SHA1-Digest: ZKuR8ZGB/oyKHZ9nL3Hes+CIWqs=
+
+Name: assets/pauseoptions_menu_large.xml
+SHA1-Digest: XX2Q3hUcUqhVzPTlUTMLkL0Foqg=
+
+Name: assets/achievement08.png
+SHA1-Digest: PHVfxk0CzEJO6iP7M9MuGu2qfD4=
+
+Name: assets/button_random.png
+SHA1-Digest: THDcDkHWO2TC9hzXTawhP0NPaQA=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: UrMd5Q/nT3zvFgkiyUUEZqSex7A=
+
+Name: assets/panel_textentry.png
+SHA1-Digest: iKuDcfscDLt80GDYkCufcHn5P/M=
+
+Name: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: C4a5xmVEzcIJxede0Urh0qZwCmg=
+
+Name: assets/ingame_multiplayer_small.xml
+SHA1-Digest: PabzNxfXRukStnpYahpwcoBlRms=
+
+Name: assets/button_square-rollover.png
+SHA1-Digest: 28opkcIUx1C58Aw3oPDSt5UzJFQ=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: j2NWST7vEd6i0CVDqQ9UCzVtf+4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: assets/tabsmall-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/Menu_Open.wav
+SHA1-Digest: wQxAoX4Wj5YtoJ/R/jbKPh1MDXw=
+
+Name: res/drawable-xhdpi-v4/terraria_android_icon.png
+SHA1-Digest: pAI+CxuOWIkQONLmu2NYohrxVJ4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: aLOtkEElPKVQnb/x08i/wBkFiH8=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: PIrE1bETED2AcFA+Z0PCJDOewO4=
+
+Name: assets/black_texture.png
+SHA1-Digest: O+xKXUI5EayjcKv6lxNHd1NYbyA=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: dLfzQYstUFtj/aPH5XmVLHDqaXc=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: RZEy8bgWVKqrQaQC1gEYgTL6BbA=
+
+Name: assets/achievement07.png
+SHA1-Digest: upzS4JljRXxGAtdRRF86x5m+9bc=
+
+Name: assets/panel_npc-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/world_size_menu_large.xml
+SHA1-Digest: 18IwQa/UiEdKIDXJ9tXfgKNLcFU=
+
+Name: assets/Item_43.wav
+SHA1-Digest: 29zw3cProQyd8VrfOoe+eB8uE+c=
+
+Name: assets/iap_frame_dark.png
+SHA1-Digest: pmD7FgT8HQGiNCZ4zp/X3rXhowM=
+
+Name: res/drawable/spinner_2.png
+SHA1-Digest: A2uFK2cbEo+LvTDKk105K0TaFNY=
+
+Name: assets/Terraria-iOS-Game-Icon_152x152.png
+SHA1-Digest: 2BFnojXrmI0ks/TNnDWNoWrg0xo=
+
+Name: assets/iap_Edge_ornaments.png
+SHA1-Digest: I/eJFh1fvkFYjQErDqdT8P3EY9o=
+
+Name: assets/redslot.png
+SHA1-Digest: c39i38t+gLQu/XB+pvVbo7wZ2u4=
+
+Name: assets/hud_console.xml
+SHA1-Digest: gqz3/DzEUtqt/leD7ioxNq2vTw8=
+
+Name: assets/texture_icon_charcreate03.png
+SHA1-Digest: bBE5gkr3gT8i/uMJTSFoXAx+C5Y=
+
+Name: assets/button_halfbar_iphone-touch.png
+SHA1-Digest: IY+wJJmWZxAOZbr01dBv6E8EZu4=
+
+Name: assets/panel_characterbar2_iphone-touch.png
+SHA1-Digest: qfpMOC0GIPH7iohtgJgPbNEaUNw=
+
+Name: assets/charactercreator_highlight-n9.xml
+SHA1-Digest: cekUVZuGTWy81+qkqJ27wCyW3Dg=
+
+Name: assets/iap_Button_Gold-touch-n9.xml
+SHA1-Digest: 9G3XNWootEZAdASynGTxErXxYsA=
+
+Name: assets/texture_manasection_01.png
+SHA1-Digest: wxAeGsU5aqxbe5R9MBg2uPT6scU=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: Ctu9p40E4P5fvzBufyBMmPaVWbA=
+
+Name: assets/texture_upsell01.png
+SHA1-Digest: g/YMY7FSmTjg5Gou351PXodreA0=
+
+Name: assets/VS_PositionColorTexture.glsl
+SHA1-Digest: LAvHAfMMtMI/GbddLxVQ3d6t7aE=
+
+Name: assets/achievements_menu_console.xml
+SHA1-Digest: kfDera4S8qqkuWob3RGLQGqt7z8=
+
+Name: assets/VS_PositionColorTexture.hlsl
+SHA1-Digest: mPjHa2sY9G9S/ReueF/Y/m5bZ1I=
+
+Name: AndroidManifest.xml
+SHA1-Digest: g+L1XewocGFxPnw+/GEFD1o5a4I=
+
+Name: assets/FontScaler.exe
+SHA1-Digest: ZzlIMqD4dIvwhjIE72yScWW6ZL0=
+
+Name: assets/button_small.png
+SHA1-Digest: ucx/er4sDG2LivEhzHapUaHD+Z8=
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: GFCjouEOsx2zwJ4qrfooYQ63590=
+
+Name: assets/iap_overlay_dark.png
+SHA1-Digest: xqYbvTLi6D5XzwnfxzZgXrokJHE=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: pKvLZQAMN9NjTaiTdidsDCbllUA=
+
+Name: assets/tutorial_panel.png
+SHA1-Digest: YLxVJ6BgJE9Jzav2op83ejedsS8=
+
+Name: assets/texture_manasection_03.png
+SHA1-Digest: oKDBa3zhg1nSVkgaHc33k3YKEBM=
+
+Name: assets/console_add.png
+SHA1-Digest: yGZFktO33fSrorXQeUhMuhQRqTE=
+
+Name: assets/Tink_1.wav
+SHA1-Digest: fIEdW2URuXGNDu2r/HNe/I9/FTo=
+
+Name: headtracking-api.txt
+SHA1-Digest: DCvoFO11unOZlQeDOZ27uiCy1xY=
+
+Name: assets/icon_star.png
+SHA1-Digest: OqdirCDnBc7zbaoUxOBkwM44vLU=
+
+Name: assets/panel_characterbar_iphone-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/texture_manasectionbig_01.png
+SHA1-Digest: m3N3z3uY2uvRQqIKhytHksa8kd0=
+
+Name: assets/credits_menu_large.xml
+SHA1-Digest: hdCJkfWWdphdu5lEihaZtlfdVXg=
+
+Name: assets/3ds_button_grey.png
+SHA1-Digest: 9HcYyB+j9YBvpVoxn5TSxr53uf4=
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: qQpaYoGWL908h/WoyV81hrJSp9E=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: lsCLR2XlXhS2SIGQjEcPfWqirCQ=
+
+Name: assets/Coins.wav
+SHA1-Digest: sKEKWZ/7EYcSuiyZirBzgjaCsWo=
+
+Name: res/drawable/worldicon.png
+SHA1-Digest: STCuFMQvxI9IeQ8CIajkdk6z0jA=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3WOChYu3Ms2kyEHXijAnPBxAgRA=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: jREdQVBBNFBk4VfilZyzAey6rbI=
+
+Name: assets/texture_manasectionbig_03.png
+SHA1-Digest: 0AObFkazBwJurMgrCUTwV+XQWJk=
+
+Name: assets/iap_background.png
+SHA1-Digest: wBtromDDMjTilIhozqq1SIJJcw0=
+
+Name: classes.dex
+SHA1-Digest: 8D1JpaRx1JYM97NI1OoqZJpqiCA=
+
+Name: assets/itemwidget_quickbarshort_large.xml
+SHA1-Digest: 6984v9MgHbBoWvpGLGdsWn36/ZQ=
+
+Name: res/layout/modal_alert_container.xml
+SHA1-Digest: vNE0uZvlYMkcEv43jS5VhDqgI0w=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: UQIfUco5NA1oznSGh2hyxgD5Vuc=
+
+Name: res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 99b1k6o3uE4SJ+yIBAjga+3czGs=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: A92PbPheHa+C5hP2bAXLmZFjEYY=
+
+Name: assets/NPC_Killed_9.wav
+SHA1-Digest: Ni0psw1dX1EpJ2y7VwZ/PVK6T9E=
+
+Name: res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: mKelBYxIm5wlrcb8sZ5VCCPnGJs=
+
+Name: assets/leaderboard_button-touch.png
+SHA1-Digest: 6QX5xOgF4nrwisKYdytFMy3u4yo=
+
+Name: assets/world_menu_list_large.xml
+SHA1-Digest: kaxVHVDVJJbTxJtI66/ofYjADXo=
+
+Name: assets/redslot-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/PS_PositionNormalTexture.glsl
+SHA1-Digest: a2elnNm/uNTq+8k8Luvp7miJcuI=
+
+Name: assets/item_panel_quickbar-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: assets/bounding_boxes.xml
+SHA1-Digest: /KaJmM3+j+ThE2VWNE37jC7Su3Q=
+
+Name: assets/button_pause-rollover-n9.xml
+SHA1-Digest: cekUVZuGTWy81+qkqJ27wCyW3Dg=
+
+Name: assets/texture_manasectionbig_02.png
+SHA1-Digest: +dp64C1psKj+sh6g+GYVNp0ljY4=
+
+Name: assets/panel_charactercreatorbarbig_iphone-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/button_halfbar_iphone-rollover.png
+SHA1-Digest: lSHzg3kT5IbY7O/hCsdarXXCb88=
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: jJIIxBXFlVwxMesuJlFFhjvLhPM=
+
+Name: assets/credits_menu_console.xml
+SHA1-Digest: ZtMkIdFYHkMjlmI9K4x58tojW/U=
+
+Name: assets/panel_characterbar_ipad_inactive.png
+SHA1-Digest: 2k1cc+l8KCn66jpn9oeFU5oAO70=
+
+Name: assets/Menu_Open-old2.wav
+SHA1-Digest: 0gaUOiJtP4eaRNUv+gAEgAewA4A=
+
+Name: res/raw/amazon_gc_prototype.zip
+SHA1-Digest: +iffntv7DPy8XqvhN8PqGHNo1Ck=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: FHCsTwuTNTPGmGaj9wS5Cf8LnZE=
+
+Name: assets/world_size_menu_small.xml
+SHA1-Digest: cHRw/tIHGCdvbzdDg8v4dSMrDUI=
+
+Name: assets/iap_frame_header-n9.png
+SHA1-Digest: eD8PXWat0fBE07EyI2h8RSZKvgs=
+
+Name: assets/iap_test_menu_large.xml
+SHA1-Digest: AjUsUqotkT4GkwiFzszvl6l4uYs=
+
+Name: assets/icon_options2-rollover.png
+SHA1-Digest: TILoo5ajDP+xihomR/hbzxu9n/s=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: Wl0x3/PQYrRDwagaXHH4f7mABgs=
+
+Name: assets/icon_xboxlive.png
+SHA1-Digest: oQ53a++vLMvtnHHaMEBJch+2v8I=
+
+Name: assets/craftingstation_panel-inactive-n9.xml
+SHA1-Digest: iRYnsiu7SBSRthp6/fNkAQWUwL0=
+
+Name: assets/world_size_menu_console.xml
+SHA1-Digest: 2jmE1lTzcDJmpsOH5ksFizsUePE=
+
+Name: assets/redslot-rollover-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/pause_menu_ios_large.xml
+SHA1-Digest: ibC8UitgITMxdC5o3turRg/42uA=
+
+Name: assets/jaLocalization.txt
+SHA1-Digest: B5ARZ4shiyndk7o7RdQcZSp0pGg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/Green-n9.xml
+SHA1-Digest: r6uUfJ1eHycSQDdZARQKWR2kQY0=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: Kt5Py8gmqS/Ew/Rs8Jsl2K4AdeM=
+
+Name: assets/Item_29.wav
+SHA1-Digest: DImDiTmEndS8/PeAna8YpIOS+xM=
+
+Name: assets/joystick_area-directional2.png
+SHA1-Digest: FGQ9ddp1mvxv/rT40LriouJ4uDw=
+
+Name: assets/joystick_area-ipad.png
+SHA1-Digest: YPsMZDh2CDdDGyCTAPtCkRWHjbs=
+
+Name: motiongestures-api.txt
+SHA1-Digest: LKalaIu6RYVPRb+0yG2utFMY98A=
+
+Name: assets/texture_icon_charcreate07.png
+SHA1-Digest: 1bMJTHEdwYSSZsgq7oaMKtWmAlk=
+
+Name: assets/button_random_ipad-touch.png
+SHA1-Digest: Nupj7v09BczSQQgFSAoDvbYeQFQ=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Txi4nHde0NvRVGH4WjelV6dyOKU=
+
+Name: assets/panel_charactercreator_ipad.png
+SHA1-Digest: d7tGV/BZjRkNan8xIwTZ1RyQEy4=
+
+Name: assets/Item_35.wav
+SHA1-Digest: 98oUC0Q9NmfVuAqME6+jdeQdDy8=
+
+Name: assets/icon_Money.png
+SHA1-Digest: JOCp+w/+ixKsakntntbbFUUoCsQ=
+
+Name: assets/NPC_Hit_6.wav
+SHA1-Digest: jCTEOGliWCyYAZIUCps+EAwIBwI=
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: 0MMPUBC/hxFmt1Ak92Vmj3X0hfs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: YA4050FPgpAFuw6xQI3jFSgIwVQ=
+
+Name: assets/button_random-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/Menu_Close-old2.wav
+SHA1-Digest: Q3ohZwWQUwcLKoBbnP3PSMkWjXk=
+
+Name: assets/item_panel_quickbar-HUGE.png
+SHA1-Digest: miskrTIeklZBW13cr8CEgRuYCos=
+
+Name: assets/header_online_ipad-n9.xml
+SHA1-Digest: rMWgfpIssZt6fGxaFz4KRbFB/RE=
+
+Name: res/layout-v17/abc_search_view.xml
+SHA1-Digest: iW16q61AR2V3LklbgMaGnYm23kc=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: /7bw14nZmssFy3hqySiiFfoRLtE=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: Uaax8TsSlV1ssfdd4JM/P9lAyjc=
+
+Name: assets/Player_Hit_2.wav
+SHA1-Digest: JJkUB9D2HMQfOW7d0qtUdY4IQWo=
+
+Name: assets/button_upsell_ipad-rollover.png
+SHA1-Digest: GB/ks8vR8Ks5JXaDSlNvHu54bV0=
+
+Name: assets/TrashWidget_small.xml
+SHA1-Digest: 9aID5x7gvyi2XXqGlRq/XmRfGlQ=
+
+Name: assets/watermark_boots.png
+SHA1-Digest: BzX2VGjrCKdFnaoOFJbmvkV4YSM=
+
+Name: assets/options_menu_console.xml
+SHA1-Digest: CnSTBAH7lXCKpwsSJjbU9AEHJco=
+
+Name: assets/stylist_large.xml
+SHA1-Digest: 0H1FHDpm7XP1BLCHzdy0YOR5GK0=
+
+Name: assets/Zombie_14.wav
+SHA1-Digest: F4HePa/zIi+e+01FKRSQ8s5ra6E=
+
+Name: assets/3ds_button_green_square.png
+SHA1-Digest: wvbrAQPVCWjWvZ3pV54s2kXzCZA=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.pn
+ g
+SHA1-Digest: e4+xS2IHT21cqoB/yQU6OyS1b7o=
+
+Name: assets/craftingstation_panel-rollover.png
+SHA1-Digest: PFi1jIHn87X6HRNNjwSx0VvPZz0=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 0sCo4kwonCjyXdol2LjGSe4b7T8=
+
+Name: assets/NPC_Killed_6.wav
+SHA1-Digest: ShDugncuOkfRUUHvripJR3LwN9k=
+
+Name: assets/NPC_Hit_2.wav
+SHA1-Digest: erYrVqeMOd7tdsZInUl7sRiWjtE=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: HbS7bZl1Ei75cnz675LU3TM55ww=
+
+Name: res/drawable-mdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: 5whZWZwuRck5OpUfQtK68/nh9Ac=
+
+Name: assets/texture_upsell06.png
+SHA1-Digest: dsf6zDiA1Uy/lFxRFHWsN/4m+pE=
+
+Name: assets/panel_characterbar_iphone-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: 3vEw5lfFZlWT6Swrx29rYcuu/h4=
+
+Name: assets/button_create_iphone-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: QluevaTHgv86WnKHj0Dyu1BcXpk=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 2SSuJk3m1pafpmf81TSs7M6iuf0=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: VGopKME/CRuJo7IuyiWDsb9VBzI=
+
+Name: assets/button_halfbar_iphone-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/button_random-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/inventory_large.xml
+SHA1-Digest: iFYZ66ictkIRy/ocvi4tEdCnRhQ=
+
+Name: assets/Gender_Female.png
+SHA1-Digest: 3RJ1XZRB1skWNWh5ImMIcTQ/8qk=
+
+Name: assets/item_panel-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable/terraria_android_icon.png
+SHA1-Digest: lwa3zs+0BzpzdZYmVRyAf/DgKNY=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.p
+ ng
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: assets/texture_manaframe_full-white.png
+SHA1-Digest: wxysOuG1r/vhnlXWToNs9BZa7fc=
+
+Name: assets/pause_menu_amazon_large.xml
+SHA1-Digest: IxF1QV+k6/qdyzg1/NVBwPVVN0o=
+
+Name: assets/button_create_iphone.png
+SHA1-Digest: K+1fz45gfxx6xOvJizL59dOkLV0=
+
+Name: assets/multibutton_iphone-rollover.png
+SHA1-Digest: 8/AxJpVau4TlOfLqiBRFa4KjH5g=
+
+Name: assets/panel_characterbarfb_iphone-rollover-n9.xml
+SHA1-Digest: SVXiRG7ngIrSNq4QM3SE0d6xXG8=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Liu4ZSvXVbRTfKfw/Sf1BCXStdc=
+
+Name: res/drawable-mdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 3ocjamXiDDzZQ9Er9Iv+AG/CvIc=
+
+Name: assets/achievement02.png
+SHA1-Digest: hv3ArO/zrHdfujXq/yq1U3jLIow=
+
+Name: assets/Female_Hit_1.wav
+SHA1-Digest: jMWw+tHQCm4kTKDWgSFgQk7XBDQ=
+
+Name: res/layout/modal_overlay_container.xml
+SHA1-Digest: PhJJ1nDehDtWCv1C7m31PJoDYnM=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: xa+o97ZNQDyD6tCp4L4gmqdoPrs=
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 8QLweU4p1rehkS9Zii3jepzESPg=
+
+Name: assets/VS_ColorizeBlack.glsl
+SHA1-Digest: eFcfGqldWVCdN3Maoi9sxGyMa00=
+
+Name: assets/icon_pausebig.png
+SHA1-Digest: wI5R+VtwVzkfkrM77FVO4CeE9bo=
+
+Name: assets/findgame_large.xml
+SHA1-Digest: liw+05K7003VxHol1pU1xFtdWes=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: dT9O498/3E1mpkpzpSmdy7tcxxU=
+
+Name: assets/achievement07-rollover.png
+SHA1-Digest: f91lSXF2iYY+tCF1nCwwaoxnSTg=
+
+Name: assets/craftingstation_panel-active-n9.xml
+SHA1-Digest: Ntg0PA2jTnStEPESlJXKYND1aGk=
+
+Name: assets/item_panel_trashdrop-rollover.png
+SHA1-Digest: +DSFcUp3YhNz2AIihqYsMVtpW3U=
+
+Name: assets/main_menu_amazon_small.xml
+SHA1-Digest: QJBKoZdWuxmrAozOLOaFvD9dcz4=
+
+Name: assets/cloud_upgrade_menu_small.xml
+SHA1-Digest: quLB/HEHSUSLCly7UQP5Cf0RP9s=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: sSo2eVyCVNeDBah+XyDsR3c+eao=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: assets/button_gplus-inactive.png
+SHA1-Digest: 6rQw9/Dr42wwpnaphGRw8taN9M0=
+
+Name: assets/VS_PositionColorTextureAlphaOnlyColored.hlsl
+SHA1-Digest: mPjHa2sY9G9S/ReueF/Y/m5bZ1I=
+
+Name: res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: rBBvnGEEgdETBrMQyET5EQQ57f0=
+
+Name: assets/achievement02-touch.png
+SHA1-Digest: 8c5SUH6SBOzSw4ij+SddS/pYjYM=
+
+Name: res/drawable/spinner_11.png
+SHA1-Digest: wTYYQdINYS5hsrX4VnRfiD8nmls=
+
+Name: assets/Terraria-iOS-Game-Icon_114x114.png
+SHA1-Digest: shx4VZoXY143+dBLv5/WeizLc68=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: assets/panel_characterbarfb_ipad-rollover-n9.xml
+SHA1-Digest: I3ZmsxAw/JzS8I7l8fsoz0r7Ho4=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: djKFkDkWGPg2BYwzFGu3ANv+SXQ=
+
+Name: assets/joystick_area-sword.png
+SHA1-Digest: Auvxg7/kZUnVIG5ejvch68Pqe1E=
+
+Name: assets/joystick_handle.png
+SHA1-Digest: ggVkTH7eEmIHiSv7dUPoiTBBqX8=
+
+Name: res/drawable/spinner_10.png
+SHA1-Digest: /ktbd3Hpd+vH/NAhOMqLuMJBmgI=
+
+Name: assets/button_create-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/Jump_1-old1.wav
+SHA1-Digest: KcqB1iPlzWIx6j6QB3Xe1BdKrL0=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: S/+WIalIT7QGoZ4J/VOqr0XEGEM=
+
+Name: assets/npc_button-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/button_halfbar_iphone.png
+SHA1-Digest: 98M6m5/vzkoDpEa5egfLR3Izabs=
+
+Name: assets/VS_PositionNormalTexture.hlsl
+SHA1-Digest: V9+ZBfUuZ5y0G2Dxuie7Ww9I4FE=
+
+Name: assets/item_panel_trashdrop-touch.png
+SHA1-Digest: um0m8Pqe4mylUHNmukF1hRuI0rY=
+
+Name: assets/panel_crafting_arrowup.png
+SHA1-Digest: 2j1y6Oa1bdBev7QEy4i0M4Ogek0=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: nhOdszX2MHoKx6H7uBb+tEWPyJ0=
+
+Name: assets/button_gplusbig-rollover.png
+SHA1-Digest: N4HMrY1cUKcxX8l0cmBD/mfoUcg=
+
+Name: assets/PS_ColorizeBlack.hlsl
+SHA1-Digest: eQD2bU6IPWyLq4JqDcjNCbIwabc=
+
+Name: assets/leaderboards_menu_console.xml
+SHA1-Digest: +3Vaq3UKKS6Z9KL7oZvUBkfEFuU=
+
+Name: res/drawable/spinner_7.png
+SHA1-Digest: s/Pk4IeP+HN+zezu1reapFcDdA8=
+
+Name: assets/panel_charactercreatorbar_iphone.png
+SHA1-Digest: 55II/44oe96L/UCSVw2mH3WLfAM=
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: 4DOQEZTzxRHVExXsV3yBBOV06SA=
+
+Name: res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: /c5bL7iVveqlG+34t96HN1xBRuc=
+
+Name: assets/atlas.meta
+SHA1-Digest: qcZ88OQd6NVAVKsR0lFElG3ML3I=
+
+Name: assets/credits.txt
+SHA1-Digest: VNf6hXUa1vwBs8Rr0Pxnnb104Q4=
+
+Name: assets/joingame_large.xml
+SHA1-Digest: b+2wLvHSvlGIyYn/oHyXPHK8a14=
+
+Name: assets/texture_touchzoom.png
+SHA1-Digest: ljyyKxt0j8Q9XH+ebf7iMhpKVWY=
+
+Name: assets/ingredient_panel-rollover-n9.xml
+SHA1-Digest: iRYnsiu7SBSRthp6/fNkAQWUwL0=
+
+Name: assets/panel_characterbar2_iphone-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-mdpi-v4/terraria_android_icon.png
+SHA1-Digest: yPzEED1MYo377do7S13RC+YkcD0=
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: k0FMguOXHvmVqqQT8jnVO1rQacs=
+
+Name: assets/button_halfbar_ipad-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/icon_back.png
+SHA1-Digest: vlTOlh9ONWpsrEW61pxwTtTXIyY=
+
+Name: assets/panel_characterbar2_iphone-rollover.png
+SHA1-Digest: lW6AXIr+kzr8ealNwrRvWqyrrfo=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: jRDpYM91mjqHK5ma3wpm8URdz+w=
+
+Name: assets/iap_background_text-n9.png
+SHA1-Digest: 1a8PF/2V1RddvXgXkbVByu2vcBM=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: PPX0wbFZU0U9e9T+GeboA0Qfa9Q=
+
+Name: res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: cK/LCW7Y07tXQ8e5BdotU64US0I=
+
+Name: assets/achievement10-rollover.png
+SHA1-Digest: UK/jDLqt2pj9BT5K9hkSWr5rjnc=
+
+Name: assets/Item_22.wav
+SHA1-Digest: HJMWfxMNwuV683F42t8g1LKzPNA=
+
+Name: assets/iap_Button_Grey-n9.xml
+SHA1-Digest: r6uUfJ1eHycSQDdZARQKWR2kQY0=
+
+Name: assets/panel_crafting_arrowdown.png
+SHA1-Digest: BROhlHwk0hOpWR94XlVTwE11ZQg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: qUes7E1WY2JY7Fd6HKCYNy966/o=
+
+Name: assets/VS_PositionTexture.glsl
+SHA1-Digest: 4EHj3kLLMeqHp3Oa11sj3hVaDPQ=
+
+Name: assets/button_cancel.png
+SHA1-Digest: f7l+8wsnldw1w7S+RLfL2bMvumk=
+
+Name: assets/TerrariaUI3.png
+SHA1-Digest: bdijqFuGRCUpEmPmXHakR2tWbTs=
+
+Name: assets/button_random-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/texture_icon_charcreate08.png
+SHA1-Digest: aqfTDNPRdE8QuSLh9i8s/R5e76Q=
+
+Name: assets/tab_notpressed.png
+SHA1-Digest: oAEAJISyyzv5Fcs8v5tNW2kXAi8=
+
+Name: assets/charactercreator_highlight.png
+SHA1-Digest: 7EyuyXobVsXrM2iZ0sacc8UOKUc=
+
+Name: assets/buff_border.png
+SHA1-Digest: yK4kK5rh/6PPvZQD+O7VJ3NfzWM=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: I2alztROdN2tY9l33w6AjQcZb1g=
+
+Name: assets/achievement06-rollover.png
+SHA1-Digest: NVTZx2yfJ8NqFyeRDwLInQozvMg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: assets/scroll_background.png
+SHA1-Digest: k72pGIw1GArNbEwRLskCPCDliHM=
+
+Name: assets/VS_ColorizeRainbow.hlsl
+SHA1-Digest: xqRwWd1H652qFhyHHq70mfXRQQ4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: assets/tutorial_panel_iphone-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/Splash_0-old1.wav
+SHA1-Digest: 7ik4PANMj6CLiuIs1VYVXmkrYPU=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: WXKtpz66pJSKelShj899BDnb29U=
+
+Name: res/drawable/spinner_5.png
+SHA1-Digest: jspKlXwi+0Yn0X4E2pZM8txC50M=
+
+Name: res/drawable-mdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: W063SlyrzTvVLq8T+B8TBmOdWCk=
+
+Name: assets/popup_craft.png
+SHA1-Digest: VJ4H8hagYQ7Mgh0zzLu5I5B3CB8=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: zZurrSYAwBsyNtHv58yh4NOk06U=
+
+Name: assets/Drown-old1.wav
+SHA1-Digest: n5p0AV47YYebuc8tC6MOFIj/VdA=
+
+Name: assets/panel_charactercreatorbar_ipad-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/inventory_console.xml
+SHA1-Digest: u+SfJNv/KmxQQob8+eH4Qu+9E3E=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: bCfalDf3dtwVG4mH7KjMYlR/m8c=
+
+Name: assets/Menu_Close-old1.wav
+SHA1-Digest: hwFfvrOaXK1Db/FSWXAAZZh3Wns=
+
+Name: assets/popup_trashdrop.png
+SHA1-Digest: R+90Ers+IVmzwA8DeDCLny7eSTc=
+
+Name: assets/button_cancel-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/world_menu_cloud_large.xml
+SHA1-Digest: zcAk72qSIUYf7LJBNIRCh5VTIUU=
+
+Name: res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: W43Punvqo2fBC25d9EZ4Fcvhnqo=
+
+Name: assets/Terraria-iOS-Game-Icon_120x120.png
+SHA1-Digest: dnHd9TAviGEXq6Z/GqBxW7Iwyvk=
+
+Name: assets/Item_31.wav
+SHA1-Digest: Yje90vXf8xgypvbzVMZCDtzCvlg=
+
+Name: assets/itLocalization.txt
+SHA1-Digest: KsZQ/i3J5S8/JRdLdlPTwGlE5aM=
+
+Name: assets/meta.data
+SHA1-Digest: piABhhGgVGshxO9eyRV+4hSZdXM=
+
+Name: assets/multiplayergame_entry_console.xml
+SHA1-Digest: P/QXTmXmhVWkJKgJizgn9BPOjI0=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: rzMvBNO7qXZsiGIkazfnE1fvV/o=
+
+Name: assets/panel_charactercreatorbar_iphone-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/item_panel_quickbar-HUGE-rollover.png
+SHA1-Digest: yiA1Z/p3KQEpEM2E9YHoaqPanTI=
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: rSv1DhC6X4oie9qro50Ohfy7FA4=
+
+Name: assets/Splash_1-old1.wav
+SHA1-Digest: 3mbVcVCZ+jf05c7C3pskCBurFXs=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: Gr88G2zQ2X0grlFxAco+5IsVZzU=
+
+Name: assets/findgame_small.xml
+SHA1-Digest: RtnaYeZpJXGc6IdeyJLJNjVMCu0=
+
+Name: assets/ingredient_panel-inactive.png
+SHA1-Digest: EPvWT5BAUOZ1cIvECXz8X6idnrY=
+
+Name: assets/texture_grid.png
+SHA1-Digest: 5yxh2I9UKe1SX+AqQ3D5bOY2U5k=
+
+Name: assets/texture_heartsectionbig_01.png
+SHA1-Digest: Y9mEYSBCb5yqT1EeAeEbNXGyCrQ=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: +96NH1NJOncqgaIjD9wfzefrtIw=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark
+ .9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: assets/Thrash_can.png
+SHA1-Digest: YUsVY3nsVu4pt3OeLLPvTOPmMzA=
+
+Name: assets/Item_37.wav
+SHA1-Digest: PxaeLDvviCg8wZTVIWaoWQyeCBA=
+
+Name: assets/PS_PositionNormalColor.glsl
+SHA1-Digest: POPpfsTUfIWZrtK1DjQkYt+sshc=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: assets/iap_Frame-n9.png
+SHA1-Digest: wiMo3Jvnxz8nKd7mNSfJgET2dC4=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: qyyA8++tpZMeE5woicJ8hRb+SDY=
+
+Name: assets/iap_Thumbnail-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/panel_characterbar3_iphone-rollover.png
+SHA1-Digest: hZIMwDE+jxsWmdg8RlFB6OS+nA4=
+
+Name: assets/iap_Frame-n9.xml
+SHA1-Digest: r6uUfJ1eHycSQDdZARQKWR2kQY0=
+
+Name: assets/loading_small.xml
+SHA1-Digest: x9HMxgdOt8bvn8mlOvT9hyfejx4=
+
+Name: assets/Zombie_12.wav
+SHA1-Digest: Th1nRzMxGZ2hIPX4ViK77Ca8cas=
+
+Name: assets/VS_Colorize.glsl
+SHA1-Digest: eFcfGqldWVCdN3Maoi9sxGyMa00=
+
+Name: assets/Item_12.wav
+SHA1-Digest: gJuZrTOrt6600RYGBE36+JwNxHM=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: h591GjAtEZ+scBz50reA/1QaVeU=
+
+Name: assets/button_upsell_ipad.png
+SHA1-Digest: A9C/xb0P5WJMde8ufkr3RdbVPMI=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: ZGa5KUTOdSU2J4s2wiAg6YjzYjQ=
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: mKb40R7xcuZM96zo643mq8SVoL0=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: KNgaBl1KV/4hqZf2mRSkhqFvYpI=
+
+Name: assets/leaderboards_panel_big.png
+SHA1-Digest: mdm24PvwVajKsytGj6i71ljPS7c=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: s4uIGxiw82Eldwc4SK5gHwRLmgU=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
+ g
+SHA1-Digest: bwjSzuahpvwVgJavscLUKen/ZqQ=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: KhYs3OgngrsQpHbyXG/jm5H+8wU=
+
+Name: assets/pauseoptions_menu_small.xml
+SHA1-Digest: j1zAKt9f83Y4VFiXGdXuTrVtu0U=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: xnOZWd5iKfMhUIiVItkroLpL49U=
+
+Name: assets/button_arrow_right.png
+SHA1-Digest: H4IIFSbCuhE+5kpjT99kFDkxAFA=
+
+Name: assets/worldmap_console.xml
+SHA1-Digest: a3IxsHiOXHbJHmWIiod0o20uOp4=
+
+Name: assets/progressbar_fill.png
+SHA1-Digest: CHctzay9zeo/EFhswBtqhzmqLxQ=
+
+Name: assets/panel_characterbar_ipad-rollover.png
+SHA1-Digest: hVYlwjTkZZG0sf7mGIWqV5y3Qjo=
+
+Name: res/drawable-hdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: SfY+3G0ROn26yscNfyqLheYZY3o=
+
+Name: assets/color_swatch.png
+SHA1-Digest: ZzSKydzpAX48Wl0Mfx9ZhMp4HjU=
+
+Name: res/drawable/world_icon_tga.tga
+SHA1-Digest: lGie3vXUU32BRQNk2nS5VYlzFW4=
+
+Name: assets/Zombie_10.wav
+SHA1-Digest: MLIkq8V33Wn3g6wiRR3iFEZLYUw=
+
+Name: assets/Female_Hit_0-old1.wav
+SHA1-Digest: 74jEN8mHrp3UAsSbf1WE13I0cR4=
+
+Name: assets/tab_pressed.png
+SHA1-Digest: XRySDf3hOb+BS2JWQdmEfKijcS8=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: deH5E0yKjBo6CYdnvx70e1ZcVb4=
+
+Name: assets/item_panel_trashdrop-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/stylist_ios_small.xml
+SHA1-Digest: hFccmtUkvPcWRvYGaVfla7epZbo=
+
+Name: assets/world_menu_list_small.xml
+SHA1-Digest: oxh+hDVRZDLRExwJ8knJGUE0xFA=
+
+Name: assets/icon_localgame.png
+SHA1-Digest: F+yBl3c2S56eFJmzY0PAjL+77EY=
+
+Name: assets/itemwidget_ingredient_small.xml
+SHA1-Digest: kBXn5Av+r0dhw+T1y9m/s/kPzTo=
+
+Name: assets/cloud_upgrade_menu_console.xml
+SHA1-Digest: quLB/HEHSUSLCly7UQP5Cf0RP9s=
+
+Name: res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: 0aZCnWRDvk/w5pzK5QQc0tyxtHc=
+
+Name: assets/LoadingSplash_jp.png
+SHA1-Digest: MDAgg0M1H3kjoPqGyVFRJDHJWmw=
+
+Name: assets/softfont-small.dat
+SHA1-Digest: y8ORicPjnRDyPENXVVKffRUpRc4=
+
+Name: res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: ivaTCfBR/9/xdUOYU0Y9t9A9BkY=
+
+Name: res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: /2mBmivLSyY7rFj/FYlp78++b/g=
+
+Name: assets/confirmation_panel-iphone.png
+SHA1-Digest: ZoErNj4D2edLONvdXy9QTreVlXw=
+
+Name: assets/pauseoptions_menu_no_controller_small.xml
+SHA1-Digest: 13isRQfevybdX9KxFAY19A4mgXc=
+
+Name: assets/multiplayergame_entry_large.xml
+SHA1-Digest: PezL+OnjCYzeL362FuIZkWqQ2TQ=
+
+Name: home-api.txt
+SHA1-Digest: kQFZHd2P5ImETUaR7UDA3H3jk6Y=
+
+Name: assets/Player_Hit_1.wav
+SHA1-Digest: lc2eHfpLQuvRkSSRBpo0nMUXnTM=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: zeUJW+N1oH+oj9U7hL70+0TC4pk=
+
+Name: assets/background_inventory.png
+SHA1-Digest: DvIOarO6cUCI61AXKD3YoMfX4qE=
+
+Name: res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: assets/header_bar.png
+SHA1-Digest: JnCLolgnRPdXHbiVOUKbVLTzzJI=
+
+Name: assets/panel_characterbar_ipad-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: BmwsKC3uNvwcF8agRRgehS1CAm0=
+
+Name: assets/Zombie_2.wav
+SHA1-Digest: vJS8s2/6vafd1zChWmUlz0j2F4Q=
+
+Name: res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: 3/M33ElldnGYpXd83Qxt6UHPIg4=
+
+Name: assets/Zombie_5.wav
+SHA1-Digest: qUvt9BuYfoazj4sSs26XrOp5PyU=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 6rSm6kORk3gR7sN+Kxa8/fR2reU=
+
+Name: res/drawable-mdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 0tNMOXXmuQbid1TzI7vwe4GNLsE=
+
+Name: assets/VS_ColorizeGradient.hlsl
+SHA1-Digest: xqRwWd1H652qFhyHHq70mfXRQQ4=
+
+Name: assets/arrow_left.png
+SHA1-Digest: GVbMdnHMXOUC9pFVfLuKT6q5etc=
+
+Name: assets/button_side.png
+SHA1-Digest: o/vXtKKrFMKvS+LvpVuwIacrvOw=
+
+Name: res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: F5P0P5x15oLSQ50Yn8x7hPMmw78=
+
+Name: res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: 3PaqrIbYXWJg4tMXULVMzvNu3Qo=
+
+Name: assets/button_create.png
+SHA1-Digest: J2I33Rtq8JNzAEFhbNpdWPC0LyE=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 5DJcJTVQZ/5EfOcHn52XOrGisZk=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: JCchW37ep9rQAe5fTxcGI2f2woY=
+
+Name: assets/PS_Colorize.hlsl
+SHA1-Digest: jebOp9CUXaQ9qfwIVAVpJNkKSB8=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: kQaPz7kWIGFGtvYhNRm0hTnycVg=
+
+Name: assets/button_side-rollover.png
+SHA1-Digest: l+M20zH7LWZxjV7wngRMuuCgzkA=
+
+Name: assets/achievement02-rollover.png
+SHA1-Digest: YMoPdBFJIXyOd6UH2vidkNa9GAw=
+
+Name: assets/button_arrow_left.png
+SHA1-Digest: EfZNHDm+oaF6B42LkMkFq9CRPas=
+
+Name: assets/Roar_1.wav
+SHA1-Digest: h14hCEvOcYAgk6nGOwiAXdFwcAw=
+
+Name: assets/Unlock.wav
+SHA1-Digest: OsAUCSWESjxbwkdHMgxp8Dp85uY=
+
+Name: assets/npc_button-touch.png
+SHA1-Digest: /qSSJt68AYvq+fQawsdzUadO0B8=
+
+Name: assets/stylist_small.xml
+SHA1-Digest: +5ZWr7W0YwieBWqE15xAu9WGtek=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: yNy/0nbqv1m6g9WaanRcTwPjDmE=
+
+Name: res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: gzqpohXWJM2gFnRT3iBL2AD2vm0=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA1-Digest: Ay1qOaJ2aLiCf8NAaujbkp0H1cQ=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: j7hOh3KyWDhnimjUpATg2As4ulA=
+
+Name: assets/PS_PositionColorTextureAlphaOnlyColored.glsl
+SHA1-Digest: 5afckOF8eNZIycm7ysIieBv6/3s=
+
+Name: assets/panel_characterbar_ipad-touch.png
+SHA1-Digest: SJY5G6D3fUCPHpPn56WPgHj0rIM=
+
+Name: assets/pauseoptions_menu_no_controller_large.xml
+SHA1-Digest: lvnlZ3dMKOk9w/WUAvcGPqFiiw4=
+
+Name: assets/Logo_02.png
+SHA1-Digest: da+AapbMuR1U7iS6gI5tDFa0VyY=
+
+Name: assets/character_menu_list_small.xml
+SHA1-Digest: wsRQjArETGzlFz23tKAWcIa+VAE=
+
+Name: res/drawable-xxhdpi-v4/terraria_android_icon.png
+SHA1-Digest: ifRsV12zLenYrFai07Joc1x409o=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: pxni+y0etDEj2lBgg/0qLkhIOdk=
+
+Name: assets/Item_25.wav
+SHA1-Digest: H7qOR+ZUUTLHFRir7orDhCLRzSs=
+
+Name: resources.arsc
+SHA1-Digest: iaCNuIzU2tbRU5qLsJCt3Mj9ko8=
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: ohPEA4mboaFUu9LZMUwk7FmjbPI=
+
+Name: assets/joystick_area-directional.png
+SHA1-Digest: C6LEaFT69yec/3qjKCG9NwyskMw=
+
+Name: assets/texture_bubble.png
+SHA1-Digest: HYgc0aU/aqT+gIXjfyGf2ZxV8lY=
+
+Name: assets/joystick_handle-ipad.png
+SHA1-Digest: NPhEX9dRf8HO/sjAqMKsNqLqWlg=
+
+Name: assets/panel_characterbarfb_ipad.png
+SHA1-Digest: l9Mw3mIkJ9GrYvT3MW1+YeUGPyc=
+
+Name: assets/texture_white.png
+SHA1-Digest: 7ur1ePGLOKzfEW/5fOx6dzo4YRU=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: NIDt6KLeR4flVU1rLpOw0SWN48A=
+
+Name: assets/arrow_left-touch.png
+SHA1-Digest: 3b3FsXDQXg8XjnVyK4UYnAA88fI=
+
+Name: assets/ingame_settings_small.xml
+SHA1-Digest: wy7XknJ9DU5MtHxJ1CO0jnLx7es=
+
+Name: gamecontroller.txt
+SHA1-Digest: 4cMnmLrw1aZKrCyWypv/SiF0EPI=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: ddaW7hAOIptvyPWUX696r7dRIBI=
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: OY6s/SLgja32E/fu3f0/kMgnJDI=
+
+Name: res/drawable/spinner_1.png
+SHA1-Digest: Sp90buMV8KqVpTocOs7VX1cxdCc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: GWc6ybKC9nsIf6Z+0RBEJ2TFdQ0=
+
+Name: assets/indicator3.png
+SHA1-Digest: SMg6MuGmQq94Knb7Tn2Qn7TvpYU=
+
+Name: assets/watermark_accessories.png
+SHA1-Digest: 9NN+CN0ma8d/mUiwDVQqiZeYw7Q=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: CbQKQR4v+KUpSOw8jtj/8rngelU=
+
+Name: assets/icon_record.png
+SHA1-Digest: JTqjuyBHFL6qh23aOPp6NiR7U6o=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: uydbJgKa3slWmNXNrLXAoiFkEdU=
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: FsvLP65iWVfEfIkCPXw4wimwY7M=
+
+Name: assets/icon_close.png
+SHA1-Digest: zeZ5JAFQs63pGup9EtKrAf96JLc=
+
+Name: assets/itemwidget_quickbarlong_large.xml
+SHA1-Digest: blkDEhOJYsSZeCYlZ4oRixcTAPk=
+
+Name: assets/PS_PositionTexture.glsl
+SHA1-Digest: vUsTy8PYC6vvx+fHR2IbtGLYR0I=
+
+Name: assets/Item_40.wav
+SHA1-Digest: 1Dd0DkuBe3SLdd63OB0F2/sdrX4=
+
+Name: assets/VS_Sprite.glsl
+SHA1-Digest: TbLMqcg7NuhpKJ5Vs4yR60rM6ro=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: vcwRsQMt5KcijRN96+KvPrJwP20=
+
+Name: assets/Roar_1-old1.wav
+SHA1-Digest: ZSLpnfT2VPz8C8iSb4/ocgC4z1c=
+
+Name: assets/panel_charactercreatorbar_ipad-touch-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/Item_10.wav
+SHA1-Digest: vEx530ccSHafFNZ2hiTCCnDPX6w=
+
+Name: assets/Item_16.wav
+SHA1-Digest: vZOyw0ELWlYIVQL/j7vzr7L+DgQ=
+
+Name: assets/texture_icon_charcreate05.png
+SHA1-Digest: 57Td64Lx2hUwtvrDPv6uN/QluyA=
+
+Name: assets/atlas.dmeta
+SHA1-Digest: jK2XYM3dCEkOqrKPBeNT5Zpg4yQ=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 5rSZbdJDOTdM5kJhhIdl8m8briI=
+
+Name: assets/Female_Hit_0.wav
+SHA1-Digest: aJs49cfRQ6N8fWJyXQMTNJj03BA=
+
+Name: assets/panel_characterbarfb_ipad-touch.png
+SHA1-Digest: njZMC6GjQmm0hm3ADfoIz/HW4VA=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: Pz5rsvZTd9eVNnjcXVU39QzrqM8=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: OIRGcM9wwTMJqudjfOzKjfWhqx0=
+
+Name: assets/color_block-inside.png
+SHA1-Digest: NLr/JbN4Nb7OwrKFLA4BhZRF3vg=
+
+Name: assets/npc_button.png
+SHA1-Digest: KqYxI6v/6srQ/NOe1tPaOE/a0x8=
+
+Name: assets/Zombie_7.wav
+SHA1-Digest: 7KGaHKU0xMqBr93dTD7J957URI0=
+
+Name: assets/icon_trash.png
+SHA1-Digest: 8KH9Etdrh+X4ljKkF/J0OhmF6BU=
+
+Name: assets/achievement12-rollover.png
+SHA1-Digest: vqBt+vH1e/30q/z0zWp58LxbWbU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: m3YAtUmXDcAGXG5Zyr9q08Mbs2Q=
+
+Name: assets/Dig_2.wav
+SHA1-Digest: Y59sWIlDWIxIJ42F0AeP4ryTEHw=
+
+Name: assets/VS_PositionNormalColor.hlsl
+SHA1-Digest: njBPNUnOXw4ppJa1oRVy3l0Ruso=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: kvy6NVZis2HTuWhGbjSTUHivrS8=
+
+Name: assets/Achievement_panel_big.png
+SHA1-Digest: l8V4fst3taKQyL7WbYU2gWLrvPQ=
+
+Name: assets/Splash_1.wav
+SHA1-Digest: Is20zkZBDwxOaUeTP5YpzqYd0uI=
+
+Name: assets/Item_24.wav
+SHA1-Digest: aFLAUaGYRfGIFiTTe4rm4SqQwQ8=
+
+Name: res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: FAeK6kMIMcPX6Q0OGOz0U4uK9I0=
+
+Name: assets/achievement05-rollover.png
+SHA1-Digest: zl4FcEB4ZBEMt86c53Z+S6pW7Ek=
+
+Name: assets/Zombie_4.wav
+SHA1-Digest: /bJVQ9TKpeJ0I5oxsgxy/jN132o=
+
+Name: assets/online_small.xml
+SHA1-Digest: GzPm5/JYDEbbYGTotazJUGx/WBo=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: iWnBegj7xEgPRnzxfo119q3abR4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: TwWXY0poQcBhLXrZXIM9dyV+eP4=
+
+Name: assets/craftingstation_panel-n9.xml
+SHA1-Digest: Ntg0PA2jTnStEPESlJXKYND1aGk=
+
+Name: assets/findgame_console.xml
+SHA1-Digest: kYSzCywlo04BdZc5CCvn28nOUjY=
+
+Name: assets/icon_craft05.png
+SHA1-Digest: yyxvRe0/9pm8KRpEmAKGbYRE/aM=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dar
+ k.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: f2VdHrIYW/Wf7Guxp0AjlVBF0FY=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.p
+ ng
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: uCcRv4aTtKpCsa3RNmJsEZ8g4P0=
+
+Name: assets/world_menu_small.xml
+SHA1-Digest: pLWr36nh4p/K9Bv1UYoXmR7piPU=
+
+Name: assets/stylist_console.xml
+SHA1-Digest: lAvj0oDqh3NISL+U/XwyiyzwR80=
+
+Name: assets/iap_Button_Blue-n9.png
+SHA1-Digest: uC2prFDVgxV9oqfVOl6mFSnZO7E=
+
+Name: assets/Item_28.wav
+SHA1-Digest: dteITD7OWnHvv2NHSHHNxveJBKE=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: ofI9nzE08OaCOIP3AVHuxWg/9QQ=
+
+Name: assets/tab_notpressed-n9.xml
+SHA1-Digest: +US5wcmHFdprvrj7oMm/IBN7WpA=
+
+Name: assets/npc_button-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/icon_book.png
+SHA1-Digest: KbCntF13UyGACA0uzbophsEdFQc=
+
+Name: assets/VS_SpriteAlphaOnlyColored.hlsl
+SHA1-Digest: mPjHa2sY9G9S/ReueF/Y/m5bZ1I=
+
+Name: assets/main_menu_small.xml
+SHA1-Digest: X9WdmGBYpos5vMb5y3a7KZL/WJU=
+
+Name: assets/VS_Negative.hlsl
+SHA1-Digest: R+grzyhIzNzoGqXjuu8QOc3Io50=
+
+Name: assets/panel_characterbar3_iphone_inactive-n9.xml
+SHA1-Digest: EaPjp8vf7e4NS2pqfpaTCjueDJA=
+
+Name: assets/Zombie_6.wav
+SHA1-Digest: pW1k2tRdSAi4LWNHJJHoMyL7w9M=
+
+Name: assets/main_menu_trial_wp8.xml
+SHA1-Digest: oPBsPBAfD6svAbmB/+7dwrutSGY=
+
+Name: assets/player_large.xml
+SHA1-Digest: 4o3cuXVUnYASSlc51/gQ3bC5nQQ=
+
+Name: assets/panel_characterbar_ipad-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/PauseButton.png
+SHA1-Digest: IkqaW5ude0A/Uc2q3AiiJ6UADB0=
+
+Name: assets/multibutton_iphone-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/texture_icon_charcreate01.png
+SHA1-Digest: 0fsyPalAxy4akg2hjRle4rX723g=
+
+Name: assets/icon_play.png
+SHA1-Digest: iSitjOveMgFPaW2B/bKhaQ9rPRE=
+
+Name: assets/panel_characterbar2_iphone.png
+SHA1-Digest: vAvZh7vWXq6CyrLX8+w+10cEDHw=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: e6ZxO30OB+oHpoct3gGLBY0gYXA=
+
+Name: assets/character_creator_console.xml
+SHA1-Digest: mJ9hnWGot1R9gJ83lPiWwYzriS0=
+
+Name: assets/Item_45.wav
+SHA1-Digest: jD6PwB8UV5kHiMnBK9zJPOS0DZQ=
+
+Name: assets/PS_Sprite.glsl
+SHA1-Digest: x3qrYWU4e0AJCtHu2YVPxjWWzW0=
+
+Name: assets/texture_manaframe_full.png
+SHA1-Digest: 6+qfoFNXwm9hEKd9Rke6wLURcg0=
+
+Name: assets/Item_8.wav
+SHA1-Digest: ZBmVjK8gFzwaeujcIYyRFmwmLuA=
+
+Name: assets/PS_ColorizeRainbow.glsl
+SHA1-Digest: cliKGDX1F2p9O/LY/DrSTliyxo0=
+
+Name: assets/icon_gamecenter.png
+SHA1-Digest: mutGfHlikgDInKTuoYHpdXPPuKE=
+
+Name: assets/iap_Button_BlueSolid-n9.xml
+SHA1-Digest: r6uUfJ1eHycSQDdZARQKWR2kQY0=
+
+Name: res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: LZMqwcX/oCryOgxvEnSkOdDEr2M=
+
+Name: assets/NPC_Hit_12.wav
+SHA1-Digest: 4CVxjcs8abMmlB439dYKAksx1H4=
+
+Name: assets/joingame_small.xml
+SHA1-Digest: fg876L0wlxkKihBbmewKyGSIQcE=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA1-Digest: bHADGZ86aGisr0oBfZBoU7RHX/g=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: 3Cm8nhJcFA+BRyvYi9o9mdskUFM=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: HJdSnxPzW/dtUr+R9bfh15Nk+oo=
+
+Name: assets/Tempesta_10px.dat
+SHA1-Digest: 5nOMmX9q2obkR5LiWOx+uYkQl+E=
+
+Name: lib/armeabi/gdbserver
+SHA1-Digest: WYYoSSOmz1yEcFvBtbd704UQkr0=
+
+Name: assets/achievement06.png
+SHA1-Digest: lGUPfDEkbd+PnJGXOmqUSubvgjM=
+
+Name: assets/frLocalization.txt
+SHA1-Digest: dSBYf6i0sQe8l20bwzyrCWoAAmQ=
+
+Name: assets/console_substract.png
+SHA1-Digest: +xzl0+h3VXK5W4UD6wnbenAyx8s=
+
+Name: assets/options_menu_small.xml
+SHA1-Digest: /wgo5kcGvJc/C/K20zW+qJzJQoo=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: jniuuw+ps9CtTIC7MeCedJBG1rs=
+
+Name: res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: JKV8P+rg3eY4lfp/aRgwOCFBeL0=
+
+Name: assets/texture_manaframebig_full.png
+SHA1-Digest: GTChKmIiPVXT6+2tRWjkuRTc2rA=
+
+Name: assets/tab_notpressed-rollover.png
+SHA1-Digest: Ndx/VdPR5kMcsPmBeWqmwxzXnrU=
+
+Name: assets/button_upsell_ipad-touch.png
+SHA1-Digest: DHchNkdP3h9FSEjUQaQQp0Mabfo=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: blNMti5wOv+2s1PhPwJk7jhk+qA=
+
+Name: assets/VS_Colorize.hlsl
+SHA1-Digest: R+grzyhIzNzoGqXjuu8QOc3Io50=
+
+Name: assets/icon_Worldx1.png
+SHA1-Digest: w6eMKRub68ApfhX4cblAHOh6QWQ=
+
+Name: assets/texture_heartsection_03.png
+SHA1-Digest: R5OwzmL1NEUqcmEYg6u2o470XAs=
+
+Name: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: Kw0Qo9eKlw06/oxLHYSWR6VftBw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: fJDemyYkG1ADa8kfTcfiXUcM7jY=
+
+Name: assets/softfont-jp.png
+SHA1-Digest: OSuYgqogUibewArhvwxpjerhlz0=
+
+Name: assets/panel_characterbar2_iphone-rollover-n9.xml
+SHA1-Digest: JfLIyPoaHb88PS9Y7yw+61wjU9g=
+
+Name: assets/VS_PositionColor.glsl
+SHA1-Digest: 89ahbjs9snOXZ+ecRHGKtGsl9dE=
+
+Name: assets/settings.dat
+SHA1-Digest: eD1h4OffZ9k4ypy3RchCuIPUTl8=
+
+Name: assets/confirmation_panel.png
+SHA1-Digest: RlSkuD712A2SXm6Z/z3OiAndkAU=
+
+Name: res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: rtSUS00JLWjJ4+bLZjSssV3d2wg=
+
+Name: assets/craft_panel.png
+SHA1-Digest: UtxqUYbBh5W2JKs87xtGsMCFgY0=
+
+Name: assets/header_online_iphone-n9.xml
+SHA1-Digest: rMWgfpIssZt6fGxaFz4KRbFB/RE=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: MoCLKmenbTlsz905dAkmwWiKKG0=
+
+Name: assets/button_create_iphone-rollover.png
+SHA1-Digest: BE1zfSiWqD/bSkmjQ2mkNq6ZAeQ=
+

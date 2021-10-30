@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+      <XResolution>1024</XResolution>
+      <YResolution>640</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopLeft</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>Stylist</Name>
+          <Position>0 0</Position>
+          <Children>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Tab_Shop_Inactive</Name>
+              <Position>-191 -127</Position>
+              <Texture>UI\Green-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>140 54</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Tab_HairStyle_Inactive</Name>
+              <Position>-67 -127</Position>
+              <Texture>UI\Green-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>140 54</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Tab_HairColor_Inactive</Name>
+              <Position>64 -127</Position>
+              <Texture>UI\Green-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>140 54</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Tab_HairStyle_Active</Name>
+              <Position>-67 -129.5</Position>
+              <Texture>UI\Green-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>140 63</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>false</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Tab_Shop_Active</Name>
+              <Position>-191 -129.5</Position>
+              <Texture>UI\Green-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>140 63</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>false</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Tab_HairColor_Active</Name>
+              <Position>64 -129.5</Position>
+              <Texture>UI\Green-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>140 63</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Frame</Name>
+              <Position>3 26.25</Position>
+              <Texture>UI\Green-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>544.6875 264.5</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>HairStyleText</Name>
+              <Position>-107 -148.2</Position>
+              <Texture>Fonts\0_andy_48.png</Texture>
+              <Text>Hair Style</Text>
+              <Offset>0 0</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+              <CharSpacing>0</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>90 36.19998</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>255 255 255 255</RollOverColor>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Close_Button</Name>
+              <Position>237.3 -134.9</Position>
+              <Texture>UI\Green-n9.png</Texture>
+              <Offset>0.5 0.5</Offset>
+              <Size>70.6001 57.80002</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Close_Icon</Name>
+              <Position>218.6001 -156.8</Position>
+              <Texture>UI\icon_closered.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>37.40021 42.79558</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>HairColorText</Name>
+              <Position>12.00012 -147.2</Position>
+              <Texture>Fonts\0_andy_48.png</Texture>
+              <Text>Hair Color</Text>
+              <Offset>0 0</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+              <CharSpacing>0</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>90 36.19998</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>255 255 255 255</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>StylistShopText</Name>
+              <Position>-229 -153</Position>
+              <Texture>Fonts\0_andy_48.png</Texture>
+              <Text>Shop</Text>
+              <Offset>0 0</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+              <CharSpacing>0</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>77 42</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>255 255 255 255</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>StylistItemName</Name>
+              <Position>-235 113.2138</Position>
+              <Texture>Fonts\0_andy_48.png</Texture>
+              <Text>Party Hair Dye</Text>
+              <Offset>0 0</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+              <CharSpacing>0</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>251 35.77237</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>255 255 255 255</RollOverColor>
+            </Widget>
+            <Widget xsi:type="WidgetGrid">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>grid</Name>
+              <Position>-111.8 140.8</Position>
+              <Offset>0.5 1</Offset>
+              <Bounds>260 230</Bounds>
+              <ItemHeight>64</ItemHeight>
+              <ItemsPerRow>4</ItemsPerRow>
+            </Widget>
+            <Widget xsi:type="NinePatchWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Button_Buy1</Name>
+              <Position>29 98.40009</Position>
+              <Texture>UI\Green-n9.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>233.0001 48</Size>
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>BuyButton_Text</Name>
+              <Position>160 108</Position>
+              <Texture>Fonts\0_andy_48.png</Texture>
+              <Text>Confirm</Text>
+              <Offset>0 0</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+              <CharSpacing>0</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>94 28.17242</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>255 255 255 255</RollOverColor>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Gold_Coin_Icon</Name>
+              <Position>75 112</Position>
+              <Texture>UI\icon_shop.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>18.99994 18.60007</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Gold_Value_Text</Name>
+              <Position>39 108</Position>
+              <Texture>Fonts\0_andy_48.png</Texture>
+              <Text>55</Text>
+              <Offset>0 0</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Right</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+              <CharSpacing>0</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>29 28.17242</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>255 255 255 255</RollOverColor>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Silver_Value_Text</Name>
+              <Position>98 108</Position>
+              <Texture>Fonts\0_andy_48.png</Texture>
+              <Text>55</Text>
+              <Offset>0 0</Offset>
+              <Scale>1 1</Scale>
+              <HAlign>Right</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+              <CharSpacing>0</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>29 28.17242</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>255 255 255 255</RollOverColor>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Arrow_Left</Name>
+              <Position>-267.8999 18.04999</Position>
+              <Texture>UI\arrow_left.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>22.89993 22.89996</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Character_Position</Name>
+              <Position>169 68</Position>
+              <Texture>UI\icon_shop.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>1 1</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Arrow_Right</Name>
+              <Position>236.8001 18</Position>
+              <Texture>UI\arrow_right.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>22.89993 22.89996</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+            <Widget xsi:type="SpriteWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>CenterCenter</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>Silver_Coin_Icon</Name>
+              <Position>132 112</Position>
+              <Texture>UI\icon_shop2.png</Texture>
+              <Offset>0 0</Offset>
+              <Size>18.99994 18.60007</Size>
+              <Scale>1 1</Scale>
+              <ColorPicker />
+              <Color>255 255 255 255</Color>
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>

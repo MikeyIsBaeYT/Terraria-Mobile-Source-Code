@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Settings>
+    <SceneSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <RootFolder>..\</RootFolder>
+      <XResolution>960</XResolution>
+      <YResolution>640</YResolution>
+    </SceneSettings>
+  </Settings>
+  <Widgets>
+    <Widget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="WidgetGroup">
+      <Animations />
+      <VisibleInEditor>true</VisibleInEditor>
+      <RelativeScale>0 0</RelativeScale>
+      <Anchor>TopLeft</Anchor>
+      <Selectable>false</Selectable>
+      <SelectionUp />
+      <SelectionDown />
+      <SelectionLeft />
+      <SelectionRight />
+      <Name>Root</Name>
+      <Position>0 0</Position>
+      <Children>
+        <Widget xsi:type="WidgetGroup">
+          <Animations />
+          <VisibleInEditor>true</VisibleInEditor>
+          <SoundEffect />
+          <RelativeScale>1 1</RelativeScale>
+          <Anchor>TopLeft</Anchor>
+          <Selectable>false</Selectable>
+          <SelectionUp />
+          <SelectionDown />
+          <SelectionLeft />
+          <SelectionRight />
+          <Name>player</Name>
+          <Position>-10 -70</Position>
+          <Children>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>equipment</Name>
+              <Position>100 80</Position>
+              <Children>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_equipment</Name>
+                  <Position>0 10</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Equip</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>ScaleDownToFit</EdgeBehaviour>
+                  <CharSpacing>-2</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>200 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>equipment_chest</SelectionDown>
+                  <SelectionLeft />
+                  <SelectionRight>vanity_helmet</SelectionRight>
+                  <Name>equipment_helmet</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>equipment_slot01</Name>
+                      <Position>0 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>equipment_helmet</SelectionUp>
+                  <SelectionDown>equipment_boots</SelectionDown>
+                  <SelectionLeft />
+                  <SelectionRight>vanity_chest</SelectionRight>
+                  <Name>equipment_chest</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>equipment_slot02</Name>
+                      <Position>0 190</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>equipment_chest</SelectionUp>
+                  <SelectionDown>dye1</SelectionDown>
+                  <SelectionLeft />
+                  <SelectionRight>vanity_boots</SelectionRight>
+                  <Name>equipment_boots</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>equipment_slot03</Name>
+                      <Position>0 300</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>player_avatar</Name>
+              <Position>275 230</Position>
+              <Children />
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>vanity</Name>
+              <Position>450 80</Position>
+              <Children>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_vanity</Name>
+                  <Position>0 10</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Vanity</Text>
+                  <Offset>0.5 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Center</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                  <CharSpacing>-2</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>200 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>vanity_chest</SelectionDown>
+                  <SelectionLeft>equipment_helmet</SelectionLeft>
+                  <SelectionRight />
+                  <Name>vanity_helmet</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>vanity_slot01</Name>
+                      <Position>0 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>vanity_helmet</SelectionUp>
+                  <SelectionDown>vanity_boots</SelectionDown>
+                  <SelectionLeft>equipment_chest</SelectionLeft>
+                  <SelectionRight />
+                  <Name>vanity_chest</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>vanity_slot02</Name>
+                      <Position>0 190</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>vanity_chest</SelectionUp>
+                  <SelectionDown>acc5</SelectionDown>
+                  <SelectionLeft>equipment_boots</SelectionLeft>
+                  <SelectionRight />
+                  <Name>vanity_boots</Name>
+                  <Position>0 -1</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>vanity_slot03</Name>
+                      <Position>0 300</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="TextWidget">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>text_defense</Name>
+              <Position>275 420</Position>
+              <Texture>Fonts\andy_48.png</Texture>
+              <Text>Total defense: #</Text>
+              <Offset>0.5 0.5</Offset>
+              <Scale>0.7142857 0.7142857</Scale>
+              <HAlign>Center</HAlign>
+              <VAlign>Middle</VAlign>
+              <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+              <CharSpacing>-2</CharSpacing>
+              <LineSpacing>0</LineSpacing>
+              <Padding>0</Padding>
+              <Bounds>400 50</Bounds>
+              <Color>255 255 255 255</Color>
+              <RollOver>false</RollOver>
+              <RollOverColor>0 0 0 0</RollOverColor>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>accessories</Name>
+              <Position>0 610</Position>
+              <Children>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_accessories</Name>
+                  <Position>0 10</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Accessories</Text>
+                  <Offset>0 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                  <CharSpacing>-2</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>200 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>dye1</SelectionUp>
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight>acc2</SelectionRight>
+                  <Name>acc1</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>accessories_slot01</Name>
+                      <Position>55 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>dye2</SelectionUp>
+                  <SelectionDown />
+                  <SelectionLeft>acc1</SelectionLeft>
+                  <SelectionRight>acc3</SelectionRight>
+                  <Name>acc2</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>accessories_slot02</Name>
+                      <Position>161 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>dye3</SelectionUp>
+                  <SelectionDown />
+                  <SelectionLeft>acc2</SelectionLeft>
+                  <SelectionRight>acc4</SelectionRight>
+                  <Name>acc3</Name>
+                  <Position>-1 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>accessories_slot03</Name>
+                      <Position>267 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>dye3</SelectionUp>
+                  <SelectionDown />
+                  <SelectionLeft>acc3</SelectionLeft>
+                  <SelectionRight>acc5</SelectionRight>
+                  <Name>acc4</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>accessories_slot04</Name>
+                      <Position>373 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>dye3</SelectionUp>
+                  <SelectionDown />
+                  <SelectionLeft>acc4</SelectionLeft>
+                  <SelectionRight />
+                  <Name>acc5</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>accessories_slot05</Name>
+                      <Position>478 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>buff_bar</Name>
+              <Position>515 -5</Position>
+              <Children>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>vanity_helmet</SelectionDown>
+                  <SelectionLeft>buff02</SelectionLeft>
+                  <SelectionRight />
+                  <Name>buff01</Name>
+                  <Position>80 100</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>buff01_icon</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\buff_temp.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>buff01_icon</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>vanity_helmet</SelectionDown>
+                  <SelectionLeft>buff03</SelectionLeft>
+                  <SelectionRight>buff01</SelectionRight>
+                  <Name>buff02</Name>
+                  <Position>80 140</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>buff02_icon</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\buff_temp.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>buff02_icon</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>vanity_helmet</SelectionDown>
+                  <SelectionLeft>buff04</SelectionLeft>
+                  <SelectionRight>buff02</SelectionRight>
+                  <Name>buff03</Name>
+                  <Position>80 100</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>buff03_icon</Name>
+                      <Position>0 80</Position>
+                      <Texture>UI\buff_temp.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>buff03_icon</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>vanity_helmet</SelectionDown>
+                  <SelectionLeft>buff05</SelectionLeft>
+                  <SelectionRight>buff03</SelectionRight>
+                  <Name>buff04</Name>
+                  <Position>-120 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>buff04_icon</Name>
+                      <Position>200 220</Position>
+                      <Texture>UI\buff_temp.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>buff04_icon</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>vanity_helmet</SelectionDown>
+                  <SelectionLeft>buff06</SelectionLeft>
+                  <SelectionRight>buff04</SelectionRight>
+                  <Name>buff05</Name>
+                  <Position>80 260</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>buff05_icon</Name>
+                      <Position>0 0</Position>
+                      <Texture>UI\buff_temp.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>buff05_icon</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>equipment_helmet</SelectionDown>
+                  <SelectionLeft>buff07</SelectionLeft>
+                  <SelectionRight>buff05</SelectionRight>
+                  <Name>buff06</Name>
+                  <Position>-200 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>buff06_icon</Name>
+                      <Position>280 300</Position>
+                      <Texture>UI\buff_temp.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>buff06_icon</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>equipment_helmet</SelectionDown>
+                  <SelectionLeft>buff08</SelectionLeft>
+                  <SelectionRight>buff06</SelectionRight>
+                  <Name>buff07</Name>
+                  <Position>-240 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>buff07_icon</Name>
+                      <Position>320 340</Position>
+                      <Texture>UI\buff_temp.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>buff07_icon</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>equipment_helmet</SelectionDown>
+                  <SelectionLeft>buff09</SelectionLeft>
+                  <SelectionRight>buff07</SelectionRight>
+                  <Name>buff08</Name>
+                  <Position>-280 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>buff08_icon</Name>
+                      <Position>360 380</Position>
+                      <Texture>UI\buff_temp.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>buff08_icon</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>equipment_helmet</SelectionDown>
+                  <SelectionLeft>buff10</SelectionLeft>
+                  <SelectionRight>buff08</SelectionRight>
+                  <Name>buff09</Name>
+                  <Position>-320 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>buff09_icon</Name>
+                      <Position>400 420</Position>
+                      <Texture>UI\buff_temp.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>buff09_icon</TouchWidget>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp />
+                  <SelectionDown>equipment_helmet</SelectionDown>
+                  <SelectionLeft />
+                  <SelectionRight>buff09</SelectionRight>
+                  <Name>buff10</Name>
+                  <Position>-360 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>1 1</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>buff10_icon</Name>
+                      <Position>440 460</Position>
+                      <Texture>UI\buff_temp.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>32 32</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                  <TouchWidget>buff10_icon</TouchWidget>
+                </Widget>
+                <Widget xsi:type="NinePatchWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>buff_border</Name>
+                  <Position>80 100</Position>
+                  <Texture>UI\buff_border-n9.png</Texture>
+                  <Offset>0.5 0.5</Offset>
+                  <Size>38 38</Size>
+                  <Color>255 255 255 255</Color>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>dyes</Name>
+              <Position>0 460</Position>
+              <Children>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_dyes</Name>
+                  <Position>0 10</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Dyes</Text>
+                  <Offset>0 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                  <CharSpacing>-2</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>200 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>equipment_boots</SelectionUp>
+                  <SelectionDown>acc1</SelectionDown>
+                  <SelectionLeft />
+                  <SelectionRight>dye2</SelectionRight>
+                  <Name>dye1</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>dyes_slot01</Name>
+                      <Position>55 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>equipment_boots</SelectionUp>
+                  <SelectionDown>acc2</SelectionDown>
+                  <SelectionLeft>dye1</SelectionLeft>
+                  <SelectionRight>dye3</SelectionRight>
+                  <Name>dye2</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>dyes_slot02</Name>
+                      <Position>161 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>equipment_boots</SelectionUp>
+                  <SelectionDown>acc3</SelectionDown>
+                  <SelectionLeft>dye2</SelectionLeft>
+                  <SelectionRight />
+                  <Name>dye3</Name>
+                  <Position>-1 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>dyes_slot03</Name>
+                      <Position>267 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+              </Children>
+            </Widget>
+            <Widget xsi:type="WidgetGroup">
+              <Animations />
+              <VisibleInEditor>true</VisibleInEditor>
+              <SoundEffect />
+              <RelativeScale>1 1</RelativeScale>
+              <Anchor>TopLeft</Anchor>
+              <Selectable>false</Selectable>
+              <SelectionUp />
+              <SelectionDown />
+              <SelectionLeft />
+              <SelectionRight />
+              <Name>spacing</Name>
+              <Position>0 760</Position>
+              <Children>
+                <Widget xsi:type="TextWidget">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <SoundEffect />
+                  <RelativeScale>1 1</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>false</Selectable>
+                  <SelectionUp />
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight />
+                  <Name>text_spacing</Name>
+                  <Position>0 10</Position>
+                  <Texture>Fonts\andy_48.png</Texture>
+                  <Text>Accessories</Text>
+                  <Offset>0 0.5</Offset>
+                  <Scale>0.7142857 0.7142857</Scale>
+                  <HAlign>Left</HAlign>
+                  <VAlign>Middle</VAlign>
+                  <EdgeBehaviour>WrapHorizontalOverflowVert</EdgeBehaviour>
+                  <CharSpacing>-2</CharSpacing>
+                  <LineSpacing>0</LineSpacing>
+                  <Padding>0</Padding>
+                  <Bounds>200 50</Bounds>
+                  <Color>255 255 255 255</Color>
+                  <RollOver>false</RollOver>
+                  <RollOverColor>0 0 0 0</RollOverColor>
+                </Widget>
+                <Widget xsi:type="WidgetGroup">
+                  <Animations />
+                  <VisibleInEditor>true</VisibleInEditor>
+                  <RelativeScale>0 0</RelativeScale>
+                  <Anchor>TopLeft</Anchor>
+                  <Selectable>true</Selectable>
+                  <SelectionUp>dye1</SelectionUp>
+                  <SelectionDown />
+                  <SelectionLeft />
+                  <SelectionRight>acc2</SelectionRight>
+                  <Name>spacing_slot1</Name>
+                  <Position>0 0</Position>
+                  <Children>
+                    <Widget xsi:type="SpriteWidget">
+                      <Animations />
+                      <VisibleInEditor>true</VisibleInEditor>
+                      <SoundEffect />
+                      <RelativeScale>2 2</RelativeScale>
+                      <Anchor>TopLeft</Anchor>
+                      <Selectable>false</Selectable>
+                      <SelectionUp />
+                      <SelectionDown />
+                      <SelectionLeft />
+                      <SelectionRight />
+                      <Name>accessories_slot1</Name>
+                      <Position>55 80</Position>
+                      <Texture>UI\item_panel.png</Texture>
+                      <Offset>0.5 0.5</Offset>
+                      <Size>52 52</Size>
+                      <Scale>0 0</Scale>
+                      <ColorPicker />
+                      <Color>255 255 255 255</Color>
+                    </Widget>
+                  </Children>
+                </Widget>
+              </Children>
+            </Widget>
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Widgets>
+</Scene>
